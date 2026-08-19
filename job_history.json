@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "url": "https://www.glassdoor.fr/job-listing/chief-data-officer-h-f-cdi-sisley-JV_IC2881970_KO0,26_KE27,33.htm?jl=1010007261441",
+    "titre": "Chief Data Officer H/F",
+    "entreprise": "Sisley",
+    "date_envoi": "2026-08-19"
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/49602550.html",
+    "titre": "Chief Data Officer",
+    "entreprise": "CCI Paris Île-de-France",
+    "date_envoi": "2026-08-19"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/en/companies/deloitte/jobs/directeur-technology-strategy-transformation-f-h_paris",
+    "titre": "Directeur Technology Strategy & Transformation (F/H)",
+    "entreprise": "Deloitte France",
+    "date_envoi": "2026-08-19"
+  }
+]
