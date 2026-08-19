@@ -1,27 +1,284 @@
 [
-  {"date": "2026-08-18", "theme": "Actualités Internationales", "titre": "Fin de la trêve Iran-États-Unis, Trump appelle Téhéran à « se rendre »", "url": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires"},
-  {"date": "2026-08-18", "theme": "Actualités Internationales", "titre": "Attaque massive de drones ukrainiens sur Moscou, frappes russes meurtrières à Kharkiv", "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region"},
-  {"date": "2026-08-18", "theme": "Actualités Internationales", "titre": "Compte à rebours pour un accord commercial entre Washington et Ottawa", "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-barrel-toward-50-tariff-as-trump-deadline-approaches"},
-  {"date": "2026-08-18", "theme": "Actualités Internationales", "titre": "L'Iran affirme avoir saisi un pétrolier lié aux Émirats arabes unis dans le détroit d'Ormuz", "url": "https://maritime-executive.com/article/iran-claims-to-have-seized-uae-tanker-after-multiple-attacks-last-week"},
-  {"date": "2026-08-18", "theme": "Actualités Internationales", "titre": "Les ministres des Affaires étrangères belge et ukrainien réunis dans un abri anti-bombes à Kyiv", "url": "https://www.euronews.com/my-europe/2026/08/18/belgian-and-ukrainian-foreign-ministers-meet-in-kyiv-bomb-shelter-amid-air-siren"},
-  {"date": "2026-08-18", "theme": "Actualités France", "titre": "Gérald Darmanin renonce à 2027 et rallie Édouard Philippe", "url": "https://www.cnews.fr/france/2026-08-17/presidentielle-2027-gerald-darmanin-apporte-son-soutien-edouard-philippe-1906011"},
-  {"date": "2026-08-18", "theme": "Actualités France", "titre": "Lecornu accueilli sous les huées en Gironde après le méga-feu", "url": "https://www.boursorama.com/actualite-economique/actualites-amp/incendies-lecornu-en-gironde-pour-lancer-la-reconstruction-dans-un-climat-de-defiance-b37ee184c5790fba63f05c819c4a3d55"},
-  {"date": "2026-08-18", "theme": "Actualités France", "titre": "Versement de l'allocation de rentrée scolaire (ARS) le 18 août", "url": "https://www.caf.fr/allocataires/caf-du-var/actualites-departementales/allocation-de-rentree-scolaire-versement-le-18-aout-2026"},
-  {"date": "2026-08-18", "theme": "Actualités France", "titre": "Vigilance jaune canicule dans 22 départements", "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/vigilance-jaune-canicule-temperatures-elevees-attendues-dans-22-departements-ce-18-aout-2026_8151800.html"},
-  {"date": "2026-08-18", "theme": "Actualités France", "titre": "Sécheresse : le trafic de conteneurs quasi à l'arrêt au port fluvial de Strasbourg", "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-un-lent-declin-a-cause-de-la-secheresse-les-porte-conteneurs-ont-disparu-du-port-fluvial-de-strasbourg_8151731.html"},
-  {"date": "2026-08-18", "theme": "République de Guinée", "titre": "Doumbouya réunit le Conseil supérieur de la défense, appelle à la vigilance aux frontières", "url": "https://www.guinee360.com/17/08/2026/defense-nationale-mamadi-doumbouya-appelle-larmee-a-plus-de-vigilance-aux-frontieres"},
-  {"date": "2026-08-18", "theme": "République de Guinée", "titre": "Insécurité à Kankan : un homme retrouvé mort, décapité, au quartier Salamani", "url": "https://www.africaguinee.com/insecurite-a-kankan-le-corps-dun-homme-retrouve-sa-tete-coupee-et-emportee/"},
-  {"date": "2026-08-18", "theme": "République de Guinée", "titre": "Récupération de domaines publics à la Camayenne : l'État reprend des titres fonciers attribués à Genotec", "url": "https://guineenews.org/2026/08/17/recuperation-des-domaines-de-letat-six-titres-fonciers-attribues-a-genotec-reintegrent-le-patrimoine-public/"},
-  {"date": "2026-08-18", "theme": "République de Guinée", "titre": "Siguiri : la foudre tue deux personnes à Bouré Setiya, un bébé survit", "url": "https://guineenews.org/2026/08/17/siguiri-deux-jeunes-foudroyes-a-boure-setiguia/"},
-  {"date": "2026-08-18", "theme": "République de Guinée", "titre": "Diaspora : le policier américain d'origine guinéenne Alhassane Barry tué par balle à Philadelphie", "url": "https://guineenews.org/2026/08/17/etats-unis-un-policier-americain-dorigine-guineenne-tue-par-balle-a-philadelphie/"},
-  {"date": "2026-08-18", "theme": "Énergie & ENEDIS", "titre": "Gravelines : méduses et canicule paralysent les systèmes de refroidissement", "url": "https://lenergeek.com/2026/08/17/centrale-gravelines-meduses-canicule-paralysent-systemes-refroidissement/"},
-  {"date": "2026-08-18", "theme": "Énergie & ENEDIS", "titre": "EDF maintient en production l'unité n°1 de Saint-Alban malgré les conditions climatiques exceptionnelles", "url": "https://www.edf.fr/la-centrale-nucleaire-de-saint-alban-saint-maurice/les-actualites-de-la-centrale-nucleaire-de-saint-alban/maintien-en-production-de-l-unite-de-production-ndeg1-dans-le-contexte-des-conditions-climatiques-exceptionnelles-cce"},
-  {"date": "2026-08-18", "theme": "Énergie & ENEDIS", "titre": "Avignon : près de 5 000 foyers privés d'électricité à cause de la chaleur sur les réseaux souterrains", "url": "https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/avignon/pres-de-5-000-personnes-privees-d-electricite-a-avignon-a-cause-de-la-chaleur-qui-impacte-les-reseaux-souterrains-9538032"},
-  {"date": "2026-08-18", "theme": "Énergie & ENEDIS", "titre": "Gaz naturel : le PEG repart à la hausse en ce début de semaine", "url": "https://selectra.info/energie/actualites/prix-gaz/2026-08-17"},
-  {"date": "2026-08-18", "theme": "Énergie & ENEDIS", "titre": "Pétrole : le baril reste sur des niveaux élevés, tensions au détroit d'Ormuz", "url": "https://industries.ma/petrole-situation-du-baril-au-17-aout-2026-et-perspectives-de-la-semaine/"},
-  {"date": "2026-08-18", "theme": "IT & Intelligence Artificielle", "titre": "OpenAI dissout son équipe \"Preparedness\" dédiée aux risques catastrophiques", "url": "https://kernel.news/2026/08/17/openai-disbands-team-assessing-catastrophic-ai-risks/"},
-  {"date": "2026-08-18", "theme": "IT & Intelligence Artificielle", "titre": "OpenAI lance ChatGPT pour ados", "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"},
-  {"date": "2026-08-18", "theme": "IT & Intelligence Artificielle", "titre": "La startup de puces IA Etched double sa valorisation à 21 milliards de dollars", "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"},
-  {"date": "2026-08-18", "theme": "IT & Intelligence Artificielle", "titre": "Reddit teste des vidéos narrées par IA à partir de posts textuels", "url": "https://dataconomy.com/2026/08/18/reddit-tests-ai-voiced-videos-based-on-user-posts/"},
-  {"date": "2026-08-18", "theme": "IT & Intelligence Artificielle", "titre": "Un agent IA licencie pour la première fois un employé humain", "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee"}
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités Internationales",
+    "titre": "Fin de la trêve Iran-États-Unis, Trump appelle Téhéran à « se rendre »",
+    "url": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités Internationales",
+    "titre": "Attaque massive de drones ukrainiens sur Moscou, frappes russes meurtrières à Kharkiv",
+    "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités Internationales",
+    "titre": "Compte à rebours pour un accord commercial entre Washington et Ottawa",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-barrel-toward-50-tariff-as-trump-deadline-approaches"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités Internationales",
+    "titre": "L'Iran affirme avoir saisi un pétrolier lié aux Émirats arabes unis dans le détroit d'Ormuz",
+    "url": "https://maritime-executive.com/article/iran-claims-to-have-seized-uae-tanker-after-multiple-attacks-last-week"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités Internationales",
+    "titre": "Les ministres des Affaires étrangères belge et ukrainien réunis dans un abri anti-bombes à Kyiv",
+    "url": "https://www.euronews.com/my-europe/2026/08/18/belgian-and-ukrainian-foreign-ministers-meet-in-kyiv-bomb-shelter-amid-air-siren"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités France",
+    "titre": "Gérald Darmanin renonce à 2027 et rallie Édouard Philippe",
+    "url": "https://www.cnews.fr/france/2026-08-17/presidentielle-2027-gerald-darmanin-apporte-son-soutien-edouard-philippe-1906011"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités France",
+    "titre": "Lecornu accueilli sous les huées en Gironde après le méga-feu",
+    "url": "https://www.boursorama.com/actualite-economique/actualites-amp/incendies-lecornu-en-gironde-pour-lancer-la-reconstruction-dans-un-climat-de-defiance-b37ee184c5790fba63f05c819c4a3d55"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités France",
+    "titre": "Versement de l'allocation de rentrée scolaire (ARS) le 18 août",
+    "url": "https://www.caf.fr/allocataires/caf-du-var/actualites-departementales/allocation-de-rentree-scolaire-versement-le-18-aout-2026"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités France",
+    "titre": "Vigilance jaune canicule dans 22 départements",
+    "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/vigilance-jaune-canicule-temperatures-elevees-attendues-dans-22-departements-ce-18-aout-2026_8151800.html"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Actualités France",
+    "titre": "Sécheresse : le trafic de conteneurs quasi à l'arrêt au port fluvial de Strasbourg",
+    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/reportage-un-lent-declin-a-cause-de-la-secheresse-les-porte-conteneurs-ont-disparu-du-port-fluvial-de-strasbourg_8151731.html"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya réunit le Conseil supérieur de la défense, appelle à la vigilance aux frontières",
+    "url": "https://www.guinee360.com/17/08/2026/defense-nationale-mamadi-doumbouya-appelle-larmee-a-plus-de-vigilance-aux-frontieres"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "République de Guinée",
+    "titre": "Insécurité à Kankan : un homme retrouvé mort, décapité, au quartier Salamani",
+    "url": "https://www.africaguinee.com/insecurite-a-kankan-le-corps-dun-homme-retrouve-sa-tete-coupee-et-emportee/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "République de Guinée",
+    "titre": "Récupération de domaines publics à la Camayenne : l'État reprend des titres fonciers attribués à Genotec",
+    "url": "https://guineenews.org/2026/08/17/recuperation-des-domaines-de-letat-six-titres-fonciers-attribues-a-genotec-reintegrent-le-patrimoine-public/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "République de Guinée",
+    "titre": "Siguiri : la foudre tue deux personnes à Bouré Setiya, un bébé survit",
+    "url": "https://guineenews.org/2026/08/17/siguiri-deux-jeunes-foudroyes-a-boure-setiguia/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "République de Guinée",
+    "titre": "Diaspora : le policier américain d'origine guinéenne Alhassane Barry tué par balle à Philadelphie",
+    "url": "https://guineenews.org/2026/08/17/etats-unis-un-policier-americain-dorigine-guineenne-tue-par-balle-a-philadelphie/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gravelines : méduses et canicule paralysent les systèmes de refroidissement",
+    "url": "https://lenergeek.com/2026/08/17/centrale-gravelines-meduses-canicule-paralysent-systemes-refroidissement/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Énergie & ENEDIS",
+    "titre": "EDF maintient en production l'unité n°1 de Saint-Alban malgré les conditions climatiques exceptionnelles",
+    "url": "https://www.edf.fr/la-centrale-nucleaire-de-saint-alban-saint-maurice/les-actualites-de-la-centrale-nucleaire-de-saint-alban/maintien-en-production-de-l-unite-de-production-ndeg1-dans-le-contexte-des-conditions-climatiques-exceptionnelles-cce"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Avignon : près de 5 000 foyers privés d'électricité à cause de la chaleur sur les réseaux souterrains",
+    "url": "https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/avignon/pres-de-5-000-personnes-privees-d-electricite-a-avignon-a-cause-de-la-chaleur-qui-impacte-les-reseaux-souterrains-9538032"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gaz naturel : le PEG repart à la hausse en ce début de semaine",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-08-17"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Pétrole : le baril reste sur des niveaux élevés, tensions au détroit d'Ormuz",
+    "url": "https://industries.ma/petrole-situation-du-baril-au-17-aout-2026-et-perspectives-de-la-semaine/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI dissout son équipe \"Preparedness\" dédiée aux risques catastrophiques",
+    "url": "https://kernel.news/2026/08/17/openai-disbands-team-assessing-catastrophic-ai-risks/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI lance ChatGPT pour ados",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La startup de puces IA Etched double sa valorisation à 21 milliards de dollars",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Reddit teste des vidéos narrées par IA à partir de posts textuels",
+    "url": "https://dataconomy.com/2026/08/18/reddit-tests-ai-voiced-videos-based-on-user-posts/"
+  },
+  {
+    "date": "2026-08-18",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Un agent IA licencie pour la première fois un employé humain",
+    "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités Internationales",
+    "titre": "Trump ordonne de réduire les manœuvres militaires conjointes avec la Corée du Sud",
+    "url": "https://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités Internationales",
+    "titre": "Frappe israélienne meurtrière dans un café de Gaza-Ville",
+    "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités Internationales",
+    "titre": "Le gouvernement yéménite intensifie ses attaques contre les Houthis",
+    "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités Internationales",
+    "titre": "L'armée soudanaise abat des drones des FSR au Kordofan-Nord",
+    "url": "https://allafrica.com/stories/202608190083.html"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités Internationales",
+    "titre": "Trump menace de bombarder Oman en lien avec un accord sur le détroit d'Ormuz",
+    "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités France",
+    "titre": "La France va expulser deux diplomates iraniens",
+    "url": "https://www.france24.com/fr/france/20260818-paris-va-expulser-deux-diplomates-iraniens-en-repr%C3%A9sailles-%C3%A0-la-d%C3%A9cision-de-t%C3%A9h%C3%A9ran"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités France",
+    "titre": "Hypothèse d'un gel partiel des retraites de nouveau dans le débat budgétaire",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/l-hypothese-d-un-gel-partiel-des-retraites-de-nouveau-dans-le-debat-80fd6c21aeed49a0b2fe792ed3f1f5fc"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités France",
+    "titre": "Manon Aubry hospitalisée après une morsure de vipère",
+    "url": "https://www.franceinfo.fr/politique/la-france-insoumise/l-eurodeputee-insoumise-manon-aubry-hospitalisee-apres-une-morsure-de-vipere_8152148.html"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Actualités France",
+    "titre": "Incendie d'un foyer de l'Aide sociale à l'enfance à Roubaix",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/roubaix/sept-jeunes-de-l-aide-sociale-a-l-enfance-evacues-suite-a-l-incendie-de-leur-logement-a-roubaix-3403129.html"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "République de Guinée",
+    "titre": "TPI Dixinn: un an de prison requis contre Bella Bah, verdict attendu le 19 août",
+    "url": "https://guineenews.org/2026/08/17/tpi-dixinn-un-an-de-prison-requis-contre-bella-bah-le-verdict-attendu-le-19-aout/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "République de Guinée",
+    "titre": "Guinée: les secrétaires généraux du gouvernement nommés",
+    "url": "https://guineematin.com/2026/08/18/guinee-les-secretaires-generaux-du-gouvernement-nommes/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "République de Guinée",
+    "titre": "Homologation provisoire du stade du 28-Septembre par la CAF",
+    "url": "https://guineenews.org/2026/08/17/stades-du-28-septembre-et-de-nongo-cellou-balde-fixe-le-cap-entre-retour-du-syli-et-homologation-definitive/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "République de Guinée",
+    "titre": "Fissures à Nongo: le ministre rassure sur l'état du stade Général Lansana Conté",
+    "url": "https://www.guinee7.com/2026/08/17/fissures-a-nongo-cellou-balde-rassure-sur-letat-du-stade-glc/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "République de Guinée",
+    "titre": "Hafia FC bat le Stade Malien 4-3 en West Africa Champions Cup",
+    "url": "https://guineematin.com/2026/08/18/west-africa-champions-cup-au-terme-dun-match-totalement-fou-le-hafia-fc-simpose-face-au-stade-malien/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Fin des conditions climatiques exceptionnelles à la centrale de Saint-Alban",
+    "url": "https://www.edf.fr/la-centrale-nucleaire-de-saint-alban-saint-maurice/les-actualites-de-la-centrale-nucleaire-de-saint-alban/fin-des-conditions-climatiques-exceptionnelles-a-la-centrale-nucleaire-de-saint-alban-saint-maurice"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité: les prix au plus haut depuis 19 mois",
+    "url": "https://www.leconomistemaghrebin.com/2026/08/18/electricite-en-france-les-prix-au-plus-haut-depuis-19-mois/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Hydrogène: le gouvernement veut encadrer la production industrielle",
+    "url": "https://lenergeek.com/2026/08/18/hydrogene-gouvernement-veut-production/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Stripe rachète OpenRouter pour plus de 7 milliards de dollars",
+    "url": "https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Synchrony s'associe à OpenAI pour le commerce agentique",
+    "url": "https://www.prnewswire.com/news-releases/synchrony-announces-enterprise-collaboration-with-openai-to-power-the-next-era-of-agentic-commerce-302852927.html"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "L'agent IA de Wiz découvre une faille manquée par GitHub Copilot Autofix",
+    "url": "https://www.forbes.com/sites/timkeary/2026/08/17/github-copilot-missed-a-vulnerability-that-wizs-ai-agent-found/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Venice AI franchit les 100 millions de dollars de revenus annualisés",
+    "url": "https://invezz.com/news/2026/08/18/will-vvv-token-rally-as-venice-ai-revenue-tops-100-million/"
+  },
+  {
+    "date": "2026-08-19",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "L'offre gratuite de Perplexity dope ses revenus en Inde",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/"
+  }
 ]
