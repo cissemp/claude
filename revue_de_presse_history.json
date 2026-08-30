@@ -1504,5 +1504,131 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Les géants de l'IA (OpenAI, Google, Anthropic) publient de nouvelles alertes sur les risques de l'IA",
     "url": "https://iphonesoft.fr/2026/08/28/openai-google-anthropic-geants-ia-alertent-risques-ia"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : une frappe russe près de Kyiv (Boutcha) fait au moins 37 morts",
+    "url": "https://www.houstonpublicmedia.org/npr/2026/08/29/nx-s1-5948714/russian-strike-near-kyiv-kills-37-in-one-of-the-years-deadliest-attacks/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités Internationales",
+    "titre": "Kyiv affirme que la Russie prépare une offensive terrestre vers la capitale et Tchernihiv",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-29/ukraine-says-russia-planning-ground-offensive-on-kyiv-chernihiv"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités Internationales",
+    "titre": "Gaza : des frappes israéliennes tuent trois Palestiniens malgré le cessez-le-feu",
+    "url": "https://www.middleeastmonitor.com/20260829-3-palestinians-killed-7-injured-in-israeli-attacks-across-gaza-despite-ceasefire/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités Internationales",
+    "titre": "Cisjordanie : des colons israéliens masqués attaquent une équipe de NBC News et une famille palestinienne",
+    "url": "https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités Internationales",
+    "titre": "Chine : la marine teste un missile antinavire furtif YJ-18A sur fond de tensions à Taïwan",
+    "url": "https://www.theweek.in/news/defence/2026/08/28/why-china-has-painted-its-yj-18a-anti-ship-missile-black.html"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : Lecornu esquisse un budget « réversible » et met en garde contre l'absence de loi de finances",
+    "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/lecornu-reaffirme-ne-pas-etre-candidat-a-la-presidentielle-et-esquisse-un-budget-reversible-afp-61b5be8f3b811a00b1bdc748154e5f67f913f84b"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités France",
+    "titre": "Caen : le suspect de l'attaque à la voiture-bélier mis en examen et écroué",
+    "url": "https://france3-regions.franceinfo.fr/normandie/calvados/caen/drame-mortel-a-la-voiture-belier-devant-la-gare-de-caen-le-principal-suspect-a-ete-mis-en-examen-et-place-en-detention-provisoire-3408266.html"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités France",
+    "titre": "Vendée : un homme tué par balle sur une aire d'accueil de gens du voyage, un suspect en garde à vue",
+    "url": "https://www.ici.fr/pays-de-la-loire/vendee-85/meurtre-sur-une-aire-d-accueil-de-gens-du-voyage-a-mortagne-sur-sevre-le-suspect-arrete-et-place-en-garde-a-vue-4927896"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités France",
+    "titre": "Haute-Savoie : un homme de 25 ans se noie dans le lac d'Annecy",
+    "url": "https://www.ici.fr/auvergne-rhone-alpes/haute-savoie-74/veyrier-du-lac/un-homme-de-25-ans-se-noie-dans-le-lac-d-annecy-6717717"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Actualités France",
+    "titre": "Rock en Seine : The Cure clôture la 24e édition du festival à Saint-Cloud",
+    "url": "https://www.sortiraparis.com/en/what-to-see-in-paris/concerts-music-festival/articles/350707-the-cure-at-rock-en-seine-live-concert-to-be-broadcast-on-france-4-and-france-tv"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "République de Guinée",
+    "titre": "Dar-es-Salam : le président Doumbouya se rend sur le site de l'éboulement meurtrier",
+    "url": "https://www.avenirguinee.org/2026/08/29/eboulement-meurtrier-a-dar-es-salam-doumbouya-sur-les-lieux-du-drame-une-semaine-apres/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "République de Guinée",
+    "titre": "Guinée : plus d'1,6 tonne de drogue incinérée par les autorités judiciaires",
+    "url": "https://www.lerenifleur224.com/2026/08/29/urgent-5632-kg-de-cocaine-et-plus-dune-tonne-et-demie-de-cannabis-incineres-par-les-autorites/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "République de Guinée",
+    "titre": "Conakry : démolition lancée de l'ancien hôpital Ignace Deen à Kaloum",
+    "url": "https://www.africaguinee.com/kaloum-demolition-en-cours-de-lhopital-ignace-deen/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "République de Guinée",
+    "titre": "Procès BCRG : les trois syndicalistes relaxés par le tribunal de Kaloum",
+    "url": "https://www.guinee7.com/2026/08/28/bcrg-le-tribunal-de-kaloum-relaxe-trois-syndicalistes-poursuivis-pour-outrage-et-violences/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : le prix spot varie de 35 € à 181 €/MWh en une seule journée le 28 août",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-08-28"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gaz naturel : le PEG recule de 1,8% et clôture le contrat de septembre à 66,54 €/MWh",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-08-29"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Sony Music et Warner Chappell poursuivent Anthropic pour vol de droits d'auteur",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Une juge fédérale juge illégale la désignation d'Anthropic comme « risque pour la chaîne d'approvisionnement » par le Pentagone",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5947951/judge-says-the-pentagon-cant-designate-ai-company-anthropic-a-supply-chain-risk"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "a16z lance un fonds « Machine Age » de 1,1 Md$ pour l'IA physique",
+    "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "TechBBQ Europe : débat sur la souveraineté et le contrôle de l'intelligence artificielle",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
+  },
+  {
+    "date": "2026-08-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Les entreprises d'IA à poids ouverts, cibles d'acquisition privilégiées de la Silicon Valley",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/"
   }
 ]
