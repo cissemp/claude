@@ -1,137 +1,5 @@
 [
   {
-    "date": "2026-08-19",
-    "theme": "Actualités Internationales",
-    "titre": "Trump ordonne de réduire les manœuvres militaires conjointes avec la Corée du Sud",
-    "url": "https://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Actualités Internationales",
-    "titre": "Frappe israélienne meurtrière dans un café de Gaza-Ville",
-    "url": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Actualités Internationales",
-    "titre": "Le gouvernement yéménite intensifie ses attaques contre les Houthis",
-    "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Actualités Internationales",
-    "titre": "L'armée soudanaise abat des drones des FSR au Kordofan-Nord",
-    "url": "https://allafrica.com/stories/202608190083.html"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Actualités Internationales",
-    "titre": "Trump menace de bombarder Oman en lien avec un accord sur le détroit d'Ormuz",
-    "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Actualités France",
-    "titre": "La France va expulser deux diplomates iraniens",
-    "url": "https://www.france24.com/fr/france/20260818-paris-va-expulser-deux-diplomates-iraniens-en-repr%C3%A9sailles-%C3%A0-la-d%C3%A9cision-de-t%C3%A9h%C3%A9ran"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Actualités France",
-    "titre": "Hypothèse d'un gel partiel des retraites de nouveau dans le débat budgétaire",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/l-hypothese-d-un-gel-partiel-des-retraites-de-nouveau-dans-le-debat-80fd6c21aeed49a0b2fe792ed3f1f5fc"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Actualités France",
-    "titre": "Manon Aubry hospitalisée après une morsure de vipère",
-    "url": "https://www.franceinfo.fr/politique/la-france-insoumise/l-eurodeputee-insoumise-manon-aubry-hospitalisee-apres-une-morsure-de-vipere_8152148.html"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Actualités France",
-    "titre": "Incendie d'un foyer de l'Aide sociale à l'enfance à Roubaix",
-    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/roubaix/sept-jeunes-de-l-aide-sociale-a-l-enfance-evacues-suite-a-l-incendie-de-leur-logement-a-roubaix-3403129.html"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "République de Guinée",
-    "titre": "TPI Dixinn: un an de prison requis contre Bella Bah, verdict attendu le 19 août",
-    "url": "https://guineenews.org/2026/08/17/tpi-dixinn-un-an-de-prison-requis-contre-bella-bah-le-verdict-attendu-le-19-aout/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "République de Guinée",
-    "titre": "Guinée: les secrétaires généraux du gouvernement nommés",
-    "url": "https://guineematin.com/2026/08/18/guinee-les-secretaires-generaux-du-gouvernement-nommes/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "République de Guinée",
-    "titre": "Homologation provisoire du stade du 28-Septembre par la CAF",
-    "url": "https://guineenews.org/2026/08/17/stades-du-28-septembre-et-de-nongo-cellou-balde-fixe-le-cap-entre-retour-du-syli-et-homologation-definitive/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "République de Guinée",
-    "titre": "Fissures à Nongo: le ministre rassure sur l'état du stade Général Lansana Conté",
-    "url": "https://www.guinee7.com/2026/08/17/fissures-a-nongo-cellou-balde-rassure-sur-letat-du-stade-glc/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "République de Guinée",
-    "titre": "Hafia FC bat le Stade Malien 4-3 en West Africa Champions Cup",
-    "url": "https://guineematin.com/2026/08/18/west-africa-champions-cup-au-terme-dun-match-totalement-fou-le-hafia-fc-simpose-face-au-stade-malien/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Fin des conditions climatiques exceptionnelles à la centrale de Saint-Alban",
-    "url": "https://www.edf.fr/la-centrale-nucleaire-de-saint-alban-saint-maurice/les-actualites-de-la-centrale-nucleaire-de-saint-alban/fin-des-conditions-climatiques-exceptionnelles-a-la-centrale-nucleaire-de-saint-alban-saint-maurice"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité: les prix au plus haut depuis 19 mois",
-    "url": "https://www.leconomistemaghrebin.com/2026/08/18/electricite-en-france-les-prix-au-plus-haut-depuis-19-mois/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Hydrogène: le gouvernement veut encadrer la production industrielle",
-    "url": "https://lenergeek.com/2026/08/18/hydrogene-gouvernement-veut-production/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Stripe rachète OpenRouter pour plus de 7 milliards de dollars",
-    "url": "https://techstartups.com/2026/08/17/stripe-acquires-openrouter-for-over-7-billion-more-than-5x-its-valuation-three-months-ago/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Synchrony s'associe à OpenAI pour le commerce agentique",
-    "url": "https://www.prnewswire.com/news-releases/synchrony-announces-enterprise-collaboration-with-openai-to-power-the-next-era-of-agentic-commerce-302852927.html"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'agent IA de Wiz découvre une faille manquée par GitHub Copilot Autofix",
-    "url": "https://www.forbes.com/sites/timkeary/2026/08/17/github-copilot-missed-a-vulnerability-that-wizs-ai-agent-found/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Venice AI franchit les 100 millions de dollars de revenus annualisés",
-    "url": "https://invezz.com/news/2026/08/18/will-vvv-token-rally-as-venice-ai-revenue-tops-100-million/"
-  },
-  {
-    "date": "2026-08-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'offre gratuite de Perplexity dope ses revenus en Inde",
-    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/"
-  },
-  {
     "date": "2026-08-20",
     "theme": "Actualités Internationales",
     "titre": "Les Émirats arabes unis suspendent leurs échanges commerciaux et financiers avec l'Iran",
@@ -1900,5 +1768,131 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Perplexity lance «Hybrid Compute» sur Mac, combinant modèles cloud et locaux",
     "url": "https://www.perplexity.ai/hub/blog/introducing-hybrid-compute-on-mac"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Actualités Internationales",
+    "titre": "Népal : le bilan des inondations dépasse les 1 000 morts, près de 4 000 disparus",
+    "url": "https://www.aljazeera.com/news/2026/9/1/death-toll-from-devastating-floods-in-china-and-nepal-surpasses-1000"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : Poutine et Zelensky s'échangent des menaces alors que de nouvelles frappes russes visent Kyiv",
+    "url": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Actualités Internationales",
+    "titre": "Détroit d'Ormuz : environ 80% du trafic pétrolier navigue désormais transpondeurs coupés",
+    "url": "https://gulfnews.com/world/mena/80-of-hormuz-traffic-goes-dark-and-keeps-oil-prices-in-check-1.500649281"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Actualités Internationales",
+    "titre": "Allemagne : l'AfD à portée d'une majorité en Saxe-Anhalt, la coalition de Merz fragilisée avant le scrutin du 6 septembre",
+    "url": "https://www.eunews.it/en/2026/09/01/germanys-elections-now-raise-concern-in-saxony-anhalt-the-far-right-vies-for-power/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : Lecornu vise un déficit limité à 4,9% du PIB, environ 28 Md€ d'économies sans hausse d'impôts",
+    "url": "https://www.journaldunet.com/business/action-publique/1553701-sebastien-lecornu-prepare-un-budget-2027-visant-un-deficit-public-limite-a-4-9-du-pib-abandonnant-l-objectif-de-3-en-2029/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Actualités France",
+    "titre": "Sécheresse et canicule : Annie Genevard dévoile le plan d'aide aux agriculteurs, département par département",
+    "url": "https://www.europe1.fr/societe/secheresse-et-incendies-les-aides-aux-agriculteurs-devoilees-le-3-septembre-1022561"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Actualités France",
+    "titre": "Macron inaugure l'exposition de la tapisserie de Bayeux à Londres aux côtés de Charles III",
+    "url": "https://www.franceinfo.fr/culture/emmanuel-macron-inaugure-l-exposition-de-la-tapisserie-de-bayeux-installee-a-londres-pour-un-an_8174294.html"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Actualités France",
+    "titre": "Météo : la France a été le deuxième pays le plus foudroyé d'Europe cet été, avec 244 000 éclairs",
+    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/orages/la-france-deuxieme-pays-le-plus-foudroye-en-europe-cet-ete-avec-pres-de-244-000-eclairs-selon-meteorage_8173283.html"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "République de Guinée",
+    "titre": "BCRG : la justice ordonne la suspension immédiate des activités syndicales",
+    "url": "https://guineenews.org/2026/09/01/bcrg-la-justice-y-ordonne-la-suspension-immediate-des-activites-syndicales/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "République de Guinée",
+    "titre": "Le Premier ministre Bah Oury réorganise l'action gouvernementale autour de quatre pôles stratégiques",
+    "url": "https://guineenews.org/2026/09/02/guinee-le-premier-ministre-reorganise-laction-gouvernementale-autour-de-quatre-poles-strategiques/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "République de Guinée",
+    "titre": "RN1 Mamou-Dalaba : la circulation paralysée par la boue, usagers en détresse",
+    "url": "https://www.africaguinee.com/rn1-mamou-dalaba-la-circulation-paralysee/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "République de Guinée",
+    "titre": "Simandou : Chris Aitchison quitte la direction de SimFer pour un nouveau rôle chez Rio Tinto, remplacé par Kox Gomba",
+    "url": "https://www.africaguinee.com/simfer-nomme-kox-gomba-au-poste-de-directeur-general-suite-a-la-nomination-de-chris-aitchison-au-sein-du-groupe-rio-tinto/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "République de Guinée",
+    "titre": "Fiscalité : Conakry accueille un atelier régional FMI sur le remboursement des crédits de TVA",
+    "url": "https://www.ecofinanceguinee.com/conakry-accueille-un-atelier-regional-sur-les-delais-de-remboursement-des-credits-de-tva/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : le prix spot bondit de 81,7% en France le 1er septembre",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-09-01"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gaz : le PEG grimpe à 71,36 €/MWh (+8,1%), au plus haut depuis un mois",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-09-02"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Stocks de gaz : la France à 71,3%, l'UE à seulement 57% avant l'hiver, un retard de 5 mois",
+    "url": "https://lenergeek.com/2026/09/02/gaz-pourquoi-71-3-stocks-rassurent-qu-moitie/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Carburants : nouvelle hausse généralisée à la pompe, gazole à 2,222 €/L",
+    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mercredi-2-septembre-2026"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La startup israélienne AIR Security sort du mode furtif avec 50 M$ pour sécuriser les agents IA",
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI annonce que son futur modèle Astra franchit le seuil \"critique\" de capacité cyber",
+    "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Le secrétaire au Commerce américain Lutnick affirme désormais \"faire confiance\" à Anthropic",
+    "url": "https://www.axios.com/2026/09/02/lutnick-anthropic-trump"
+  },
+  {
+    "date": "2026-09-03",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Nokia progresse en Bourse grâce à son partenariat IA-RAN avec Nvidia",
+    "url": "https://www.tradingsat.com/actualites/informations-societes/considere-comme-un-gagnant-de-l-ia-nokia-dont-l-action-gagne-56-en-2026-va-faire-son-retour-dans-l-indice-phare-des-grandes-capitalisations-europeennes-1169445.html"
   }
 ]
