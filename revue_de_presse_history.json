@@ -1,125 +1,5 @@
 [
  {
-  "date": "2026-08-23",
-  "theme": "Actualités Internationales",
-  "titre": "Syrie : un engin explosif visait un bus de forces de sécurité intérieure près de Damas",
-  "url": "https://www.lalibre.be/dernieres-depeches/2026/08/22/syrie-des-blesses-dans-un-attentat-a-lexplosif-contre-un-bus-des-forces-de-securite-HVSERSTZ6NC7ZMG2ECVZALRY6Q/"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités Internationales",
-  "titre": "Roumanie : un F-16 détruit un drone explosif russe près du site gazier Neptun Deep",
-  "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités Internationales",
-  "titre": "Taïwan : un avion de patrouille US Navy transite le détroit avant le sommet Xi-Trump",
-  "url": "https://www.cp24.com/news/world/2026/08/22/us-navy-aircraft-transits-taiwan-strait-before-planned-xi-trump-meeting/"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités Internationales",
-  "titre": "Suède : attaque au sabre dans une école à Fagersta, une adolescente tuée",
-  "url": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités Internationales",
-  "titre": "États-Unis : une juge fédérale invalide la suspension des visas pour 75 pays dont la Guinée",
-  "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités France",
-  "titre": "Budget 2027 : Lecornu met en garde contre un choix du chaos",
-  "url": "https://www.cnews.fr/france/2026-08-22/budget-2027-sebastien-lecornu-met-en-garde-les-parlementaires-qui-seraient-tentes"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités France",
-  "titre": "Creuse : manifestation au lac de Vassivière contre un projet de porcherie industrielle",
-  "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-limousin/autour-d-un-pique-nique-les-opposants-a-la-porcherie-du-lac-de-vassiviere-annoncent-deposer-3-recours-en-justice-5128371"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités France",
-  "titre": "La forêt de Fontainebleau rouvre à 80% au public après l'incendie",
-  "url": "https://www.france24.com/fr/planete/20260822-reouverture-de-la-foret-de-fontainebleau-les-grimpeurs-sont-de-retour"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités France",
-  "titre": "Côtes-d'Armor : trois pompiers agressés lors d'une intervention à Ploumagoar",
-  "url": "https://www.cnews.fr/faits-divers/2026-08-22/cotes-darmor-trois-pompiers-violemment-agresses-lors-dune-intervention-un"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Actualités France",
-  "titre": "Clôture de l'Esports World Cup 2026 à l'Accor Arena de Paris",
-  "url": "https://www.team-aaa.com/fr/actualite/lesports-world-cup-2026-deplace-la-finale-du-tournoi-counter-strike-2-a-laccor-arena_136709"
- },
- {
-  "date": "2026-08-23",
-  "theme": "République de Guinée",
-  "titre": "Conakry : démolition de la Maison centrale de Coronthie, construction de logements annoncée",
-  "url": "https://www.guinee114.com/2026/08/22/demolition-de-la-maison-centrale-le-ministre-de-lhabitat-annonce-la-construction-de-logements-sur-le-site/"
- },
- {
-  "date": "2026-08-23",
-  "theme": "République de Guinée",
-  "titre": "CHU Ignace Deen : la reconstruction doit débuter avant fin 2026",
-  "url": "https://www.guinee360.com/21/08/2026/khaite-sall-ignace-deen-a-ete-integralement-libere-en-vue-de-sa-demolition-et-de-sa-reconstruction"
- },
- {
-  "date": "2026-08-23",
-  "theme": "République de Guinée",
-  "titre": "UBA Guinée : Aminata Barry intègre la nouvelle génération de leaders formés par le Groupe UBA",
-  "url": "https://guineematin.com/2026/08/22/uba-guinee-aminata-barry-integre-la-nouvelle-generation-de-leaders-formes-par-le-groupe-uba/"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Énergie & ENEDIS",
-  "titre": "Gravelines : EDF autorisé à préparer l'installation de deux réacteurs EPR2",
-  "url": "https://www.france24.com/fr/info-en-continu/20260822-nucleaire-feu-vert-aux-travaux-preparatoires-des-futurs-reacteurs-epr2-a-gravelines"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Énergie & ENEDIS",
-  "titre": "Saône-et-Loire : un transformateur ENEDIS prend feu à Saint-Boil, 164 foyers privés d'électricité",
-  "url": "https://www.ici.fr/bourgogne-franche-comte/saone-et-loire-71/saint-boil/saone-et-loire-un-transformateur-electrique-prend-feu-164-foyers-prives-d-electricite-a-saint-boil-1403349"
- },
- {
-  "date": "2026-08-23",
-  "theme": "Énergie & ENEDIS",
-  "titre": "Pétrole : le Brent proche de 94$/baril sur fond de tensions Iran-USA",
-  "url": "https://www.zonebourse.com/cours/matiere-premiere/BRENT-CRUDE-OIL-SPOT-4948/"
- },
- {
-  "date": "2026-08-23",
-  "theme": "IT & Intelligence Artificielle",
-  "titre": "Nvidia en discussions avec le fabricant coréen de puces IA Rebellions",
-  "url": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal"
- },
- {
-  "date": "2026-08-23",
-  "theme": "IT & Intelligence Artificielle",
-  "titre": "TikTok et ByteDance concluent un accord à 400 M$ avec la justice américaine",
-  "url": "https://www.justice.gov/opa/pr/justice-department-secures-400m-settlement-tiktok-and-bytedance-resolve-childrens-privacy"
- },
- {
-  "date": "2026-08-23",
-  "theme": "IT & Intelligence Artificielle",
-  "titre": "Anthropic prépare une IPO qui pourrait égaler le record de SpaceX",
-  "url": "https://www.resultsense.com/news/2026-08-21-anthropic-ipo-filing-spacex-record/"
- },
- {
-  "date": "2026-08-23",
-  "theme": "IT & Intelligence Artificielle",
-  "titre": "OpenAI regagne du terrain sur Anthropic auprès des entreprises US selon Ramp",
-  "url": "https://qz.com/openai-anthropic-business-ai-spending-ramp-data-082126"
- },
- {
   "date": "2026-08-24",
   "theme": "Actualités Internationales",
   "titre": "Coalition des volontaires : réunion du 24 août, Macron annonce l'envoi de nouveaux missiles intercepteurs pour l'Ukraine",
@@ -1918,5 +1798,125 @@
   "theme": "IT & Intelligence Artificielle",
   "titre": "Le Seattle Times et Newsday poursuivent OpenAI et Microsoft pour violation de droits d'auteur",
   "url": "https://www.staradvertiser.com/2026/09/05/breaking-news/seattle-times-newsday-sue-openai-microsoft-alleging-copyright-infringement/"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités Internationales",
+  "titre": "Iran menace des représailles \"plus douloureuses\" après les frappes américaines sur trois de ses pétroliers",
+  "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités Internationales",
+  "titre": "Ukraine : Witkoff et Kushner qualifient de \"substantiels\" leurs entretiens à Kyiv après leur rencontre avec Poutine à Moscou",
+  "url": "https://www.cnn.com/2026/09/06/europe/witkoff-kushner-visit-kyiv-intl"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités Internationales",
+  "titre": "Kyiv visée par des drones russes pour un septième jour consécutif, au moins 13 blessés",
+  "url": "https://kyivindependent.com/ukraine-war-latest-russian-drones-strike-central-kyiv-at-least-13-injured/"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités Internationales",
+  "titre": "Liban : Tsahal frappe le Sud-Liban en riposte à une attaque de drones du Hezbollah contre ses troupes",
+  "url": "https://www.jpost.com/israel-news/defense-news/article-907757"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités France",
+  "titre": "Présidentielle 2027 : le communiste Fabien Roussel officialise sa candidature",
+  "url": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités France",
+  "titre": "Diplomatie : Macron et le président sud-coréen Lee Jae-myung coprésident le premier \"Sommet Lumière\" à Saint-Paul-de-Vence",
+  "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/declaration-conjointe-d-emmanuel-macron-president-de-la-republique-et-de-lee-jae-myung-president-de"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités France",
+  "titre": "Météo : six départements du Sud-Est placés en vigilance orange canicule",
+  "url": "https://www.cnews.fr/france/2026-09-06/canicule-voici-les-6-departements-places-en-vigilance-orange-ce-lundi-1914892"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités France",
+  "titre": "Aisne : un jeune conducteur meurt après une sortie de route contre le pilier d'un pont à Fontenoy",
+  "url": "https://www.echo-fm.fr/news/aisne-un-jeune-homme-decede-apres-une-sortie-de-route-9282"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Actualités France",
+  "titre": "Hérault : une femme de 70 ans meurt noyée à la plage du Lazaret à Sète",
+  "url": "https://france3-regions.franceinfo.fr/occitanie/herault/sete/deux-personnes-agees-se-noient-en-quelques-heures-sur-le-littoral-heraultais-une-femme-decede-et-un-homme-est-conduit-en-urgence-a-l-hopital-3412430.html"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "République de Guinée",
+  "titre": "Diplomatie : Doumbouya nomme Ibrahima N'Daïry Diallo nouvel ambassadeur de la Guinée aux États-Unis",
+  "url": "https://mediaguinee.com/2026/09/diplomatie-le-president-doumbouya-nomme-un-nouvel-ambassadeur-de-la-guinee-aux-etats-unis-decret"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "République de Guinée",
+  "titre": "Justice : l'ex-procureur Algassimou Diallo transféré à la prison de Macenta",
+  "url": "https://guineematin.com/2026/09/06/guinee-apres-linquietude-de-ses-proches-lex-procureur-algassimou-diallo-annonce-a-la-prison-de-macenta/"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "République de Guinée",
+  "titre": "Football : qualifications Mondial 2026, la Guinée s'impose face à la Somalie à Kampala",
+  "url": "https://fr.allafrica.com/stories/202509070251.html"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "République de Guinée",
+  "titre": "Fonction publique : le gouvernement annonce une nouvelle campagne de recrutement",
+  "url": "https://www.guinee360.com/06/09/2026/fonction-publique-le-gouvernement-annonce-un-nouveau-recrutement"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "République de Guinée",
+  "titre": "Éducation : la plateforme d'orientation technique et professionnelle ouvre aux bacheliers dès le 10 septembre",
+  "url": "https://www.guinee360.com/06/09/2026/orientation-dans-le-superieur-les-bacheliers-et-non-orientes-attendus-sur-parcoursup-des-le-10-septembre"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Énergie & ENEDIS",
+  "titre": "Carburants : le gazole à 2,274 €/L ce dimanche 6 septembre (+0,26%)",
+  "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-dimanche-6-septembre-2026"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Énergie & ENEDIS",
+  "titre": "Électricité : prix spot négatif 4h dimanche puis pic à 228€/MWh en soirée",
+  "url": "https://selectra.info/energie/actualites/prix-electricite/2026-09-06"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Énergie & ENEDIS",
+  "titre": "Gaz naturel : le TTF européen franchit les 75€/MWh, plus haut niveau depuis 2023",
+  "url": "https://www.france-epargne.fr/news/gaz-europeen-au-plus-haut-depuis-2023-le-ttf-franchit-75-euros-le-brent-a-95-dollars"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "Énergie & ENEDIS",
+  "titre": "EDF, Engie et TotalEnergies envoient des factures de régularisation exceptionnelles à leurs clients",
+  "url": "https://www.journaldunet.com/management/id/1554291-hf1-facture-electricite-regularisation/"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "IT & Intelligence Artificielle",
+  "titre": "Inde : une filiale de TCS investit jusqu'à 7,4 Md$ dans un campus IA de 1 GW à Hyderabad",
+  "url": "https://www.thestar.com.my/tech/tech-news/2026/09/05/india039s-tcs-unit-to-invest-up-to-74-billion-in-ai-data-center-campus"
+ },
+ {
+  "date": "2026-09-07",
+  "theme": "IT & Intelligence Artificielle",
+  "titre": "Anthropic bloque, dans le monde entier, l'accès à Claude aux entreprises contrôlées par des capitaux chinois",
+  "url": "https://www.crnasia.com/news/2025/artificial-intelligence/anthropic-tightens-ai-access-rules"
  }
 ]
