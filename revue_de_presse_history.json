@@ -1,143 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "theme": "Actualités Internationales",
-    "titre": "Gaza : au moins cinq Palestiniens tués dans de nouvelles frappes israéliennes malgré le cessez-le-feu",
-    "url": "https://www.aljazeera.com/news/2026/8/31/israeli-air-strikes-on-gaza-kill-at-least-five-people"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : la Russie intensifie ses frappes de drones sur Kyiv pour un cinquième jour consécutif",
-    "url": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités Internationales",
-    "titre": "Trump exclut catégoriquement l'usage de l'arme nucléaire contre l'Iran",
-    "url": "https://www.timesofisrael.com/liveblog_entry/what-a-stupid-question-trump-rules-out-idea-of-nuking-iran/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités Internationales",
-    "titre": "Sommet de l'Organisation de coopération de Shanghai à Bichkek : Poutine et Xi affichent leur alliance stratégique",
-    "url": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités Internationales",
-    "titre": "Zambie : investiture d'Hakainde Hichilema pour un second mandat",
-    "url": "https://www.lusakatimes.com/2026/08/31/zambia-prepares-for-president-hichilema-second-term-inauguration/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités France",
-    "titre": "Rentrée scolaire 2026 : 11,6 millions d'élèves, interdiction du portable au lycée",
-    "url": "https://www.cnews.fr/france/2026-09-01/rentree-scolaire-2026-voici-tout-ce-qui-change-des-ce-mardi-pour-les-ecoliers"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités France",
-    "titre": "Conseil des ministres et séminaire gouvernemental du 31 août : Lecornu fait le point sur le budget 2027, les cyberattaques et la canicule",
-    "url": "https://www.lagazettefrance.fr/article/budget-cyberattaques-canicules-lecornu-reunira-son-gouvernement-en-seminaire-le-31-aout"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités France",
-    "titre": "Météo-France confirme que l'été 2026 a été le plus chaud jamais mesuré en France",
-    "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/l-ete-2026-est-le-plus-chaud-jamais-mesure-en-france-battant-largement-le-record-de-2003_8170406.html"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités France",
-    "titre": "Aube : une femme de 79 ans tuée dans une collision sur la D619 à Thennelières",
-    "url": "https://france3-regions.franceinfo.fr/grand-est/aube/troyes/une-femme-de-79-ans-tuee-dans-une-violente-collision-quatre-blesses-graves-3408722.html"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Actualités France",
-    "titre": "Piratage de l'Éducation nationale : rentrée en mode dégradé dans les académies de Nantes et Toulouse",
-    "url": "https://www.franceinfo.fr/france/rentree/piratage-de-l-education-nationale-la-rentree-se-fera-en-mode-degrade-dans-les-academies-de-nantes-et-toulouse_8170589.html"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "République de Guinée",
-    "titre": "Ouverture de la 12e Assemblée générale de la PRA-UEMOA-Guinée à Conakry",
-    "url": "https://guineenews.org/2026/08/31/xii%E1%B5%89-assemblee-generale-de-la-pra-uemoa-ouverture-solennelle-des-travaux-ce-lundi-a-conakry/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "République de Guinée",
-    "titre": "Le ministre de la Justice évoque la régulation des réseaux sociaux (Facebook, TikTok, X)",
-    "url": "https://www.guinee114.com/2026/08/31/facebook-tiktok-x-le-ministre-de-la-justice-fait-le-proces-des-reseaux-sociaux/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "République de Guinée",
-    "titre": "Fin du repos biologique : reprise de la pêche industrielle en Guinée dès le 1er septembre",
-    "url": "https://agpguinee.com/guinee-fin-du-repos-biologique-et-reprise-de-la-peche-industrielle-des-ce-mardi-1er-septembre/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "République de Guinée",
-    "titre": "Dar-es-Salam : le CNOSCG exige un plan de relogement durable pour les sinistrés",
-    "url": "https://www.avenirguinee.org/2026/08/30/eboulement-de-dar-es-salam-le-cnoscg-descend-sur-le-terrain-felicite-lurgence-mais-exige-un-plan-de-relogement-durable/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya parmi les chefs d'État attendus au Forum international du secteur privé africain à Porto",
-    "url": "https://guineenews.org/2026/08/31/forum-de-porto-le-president-mamadi-doumbouya-parmi-les-dirigeants-africains-attendus-pour-presider-les-travaux/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Gaz : hausse de 5,6 % des tarifs dès le 1er septembre, jusqu'à 103€/an de plus pour 6 millions de foyers",
-    "url": "https://www.journaldeleconomie.fr/le-gaz-va-couter-56-plus-cher-en-septembre-2026/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Énergie & ENEDIS",
-    "titre": "MaPrimeRénov' : changements majeurs au 1er septembre, fin de l'éligibilité pour le maintien d'un chauffage au gaz",
-    "url": "https://labomaison.com/maison/maprimerenov-ce-qui-change-au-1er-septembre-2026/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : nouvelles frappes américano-iraniennes sur Larak, le Brent franchit les 90 dollars",
-    "url": "https://lenergeek.com/2026/08/31/iran-frappes-detroit-ormuz-brut-franchit-90-dollars/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "ChatGPT touché par une panne mondiale majeure",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Apate.AI lève 11,4 millions de dollars australiens pour son IA anti-fraude",
-    "url": "https://www.startupdaily.net/topic/funding/anti-scammer-startup-apate-ai-nabs-11-4-million-seed-raise-amid-us-move/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Cashfree lance Relay, un « super-agent » IA pour automatiser les paiements des PME",
-    "url": "https://www.business-standard.com/companies/news/cashfree-rolls-out-ai-agents-for-merchants-to-automate-payment-operations-126083000455_1.html"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic relève de 25 % les quotas hebdomadaires de Claude Code dès le 14 septembre",
-    "url": "https://www.blogdumoderateur.com/claude-code-anthropic-releve-limites-hebdomadaires-25-pourcent/"
-  },
-  {
-    "date": "2026-09-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Caterpillar applique à l'IA les leçons de l'automatisation minière",
-    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
-  },
-  {
     "date": "2026-09-02",
     "theme": "Actualités Internationales",
     "titre": "Iran attaque des bases américaines à Bahreïn, au Koweït et en Jordanie",
@@ -1756,5 +1618,155 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Fortaegis lève 50 M$ pour sécuriser les systèmes IA au niveau matériel",
     "url": "https://techstartups.com/2026/09/14/startup-funding-news-today-september-14-2026-chift-qupital-tandem-health-fortaegis-more/"
+  },
+  {
+    "theme": "Actualités Internationales",
+    "titre": "Un drone russe abattu pour la première fois dans l'espace aérien de la Lituanie",
+    "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités Internationales",
+    "titre": "Le Danemark accuse une frégate russe d'avoir tiré des fusées éclairantes sur un de ses hélicoptères",
+    "url": "https://www.euronews.com/my-europe/2026/09/15/russia-summoned-by-denmark-after-warship-fires-flares-at-helicopter",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités Internationales",
+    "titre": "Yémen : l'ONU annonce plus de 100 000 déplacés en quelques jours",
+    "url": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités Internationales",
+    "titre": "Soudan : le PAM alerte sur un risque d'effondrement de l'aide alimentaire d'ici quelques semaines",
+    "url": "https://www.thenationalnews.com/news/us/2026/09/14/wfp-warns-sudan-food-aid-could-be-cut-within-weeks-as-20-million-face-acute-hunger/",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités Internationales",
+    "titre": "Indonésie : au moins 6 morts et 129 disparus après le naufrage d'un ferry en mer de Java",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : Lecornu veut geler les dépenses de l'État au niveau de 2026",
+    "url": "https://www.franceinfo.fr/economie/budget/budget-2027-sebastien-lecornu-demande-a-ses-ministres-que-les-depenses-de-l-etat-restent-strictement-au-meme-niveau-qu-en-2026_8193803.html",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : la piste d'un gel des pensions de retraite fait polémique",
+    "url": "https://www.centre-europe.com/en-direct-presidentielle-2027-sattaquer-aux-pensions-de-retraite-dans-le-prochain-budget-une-ligne-rouge-pour-le-rn-assure-jean-philippe-tanguy/",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités France",
+    "titre": "Colère des policiers : manifestation à Paris, Nuñez promet un plan",
+    "url": "https://actu17.fr/societe/policiers-en-colere-des-milliers-de-manifestants-a-paris-laurent-nunez-demande-quelques-jours-pour-presenter-un-plan.html",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités France",
+    "titre": "Mort de Catherine Ringer, voix des Rita Mitsouko",
+    "url": "https://www.franceinfo.fr/culture/catherine-ringer-chanteuse-des-rita-mitsouko-est-morte-a-l-age-de-68-ans_8193422.html",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Actualités France",
+    "titre": "Macron lance le service national universel sur une base aérienne du Vaucluse",
+    "url": "https://www.cnews.fr/france/2026-09-15/orange-que-va-faire-emmanuel-macron-dans-le-vaucluse-ce-mardi-1918950",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "République de Guinée",
+    "titre": "La CNSS lance un contrôle des preuves de vie des pensionnés",
+    "url": "https://www.guinee360.com/15/09/2026/la-cnss-lance-loperation-de-controle-des-preuves-de-vie-des-pensionnes",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "République de Guinée",
+    "titre": "La CRIEF ouvre une enquête sur 16 ans de gestion financière des examens nationaux",
+    "url": "https://guineematin.com/2026/09/15/crief-charles-wright-ordonne-une-enquete-sur-la-gestion-financiere-des-examens-nationaux-de-2010-a-2026/",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "République de Guinée",
+    "titre": "Santé publique : la Guinée annonce le recrutement de 7 000 agents en 2027",
+    "url": "https://www.guinee360.com/15/09/2026/sante-la-guinee-prevoit-le-recrutement-de-7-000-agents-en-2027",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "République de Guinée",
+    "titre": "Drame sur le fleuve Makona : une pirogue chavire, deux morts et un militaire porté disparu",
+    "url": "https://www.africaguinee.com/chavirage-dune-pirogue-sur-le-makona-deux-morts-un-militaire-porte-disparu/",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "République de Guinée",
+    "titre": "Sécurité alimentaire : inauguration à Conakry d'un entrepôt de 40 000 tonnes",
+    "url": "https://guineematin.com/2026/09/15/conakry-un-depot-de-40-000-tonnes-inaugure-pour-renforcer-les-capacites-de-stockage-alimentaire/",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : nouveau pic de prix spot le 15 septembre",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-09-14",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Énergie & ENEDIS",
+    "titre": "Carburants : le gazole établit un nouveau record à 2,332 €/L",
+    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mardi-15-septembre-2026",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Énergie & ENEDIS",
+    "titre": "Pétrole : le Brent dépasse 107 dollars après la fermeture de l'oléoduc Est-Ouest saoudien",
+    "url": "https://www.xtb.com/fr/analyses-marches/a-l-ouverture-des-marches-le-brent-a-107-dollars-vague-de-ventes-dans-le-secteur-de-l-ia-15-09-2026",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Énergie & ENEDIS",
+    "titre": "Grève EDF/Enedis du 15 septembre : premier bilan chiffré de l'impact sur la production",
+    "url": "https://jeunessedumonde.fr/2026/09/15/energie-une-greve-massive-chez-edf-perturbe-la-production-nucleaire-et-gaziere/",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gaz : le TTF grimpe jusqu'à 84,50 €/MWh, un plus haut depuis décembre 2022",
+    "url": "https://econostrum.info/leurope-aura-t-elle-assez-de-gaz-cet-hiver/",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Agility Robotics dévoile Digit 5, son humanoïde conçu pour travailler en sécurité aux côtés d'humains",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Perplexity lance «Portable Computer» pour Windows, un agent IA local propulsé par Nvidia RTX",
+    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Trump appelle en direct le PDG de Nvidia Jensen Huang lors de l'All-In Summit et qualifie les craintes sur l'IA de «hoax»",
+    "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Bernie Sanders et Steve Bannon partagent la scène à Washington pour réclamer un encadrement de l'IA",
+    "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+    "date": "2026-09-16"
+  },
+  {
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La Chine dénonce les appels à ralentir l'IA comme une manœuvre «égoïste» visant à la freiner",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call",
+    "date": "2026-09-16"
   }
 ]
