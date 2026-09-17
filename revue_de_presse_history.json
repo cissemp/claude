@@ -1,137 +1,5 @@
 [
   {
-    "date": "2026-09-02",
-    "theme": "Actualités Internationales",
-    "titre": "Iran attaque des bases américaines à Bahreïn, au Koweït et en Jordanie",
-    "url": "https://www.jpost.com/middle-east/article-907279"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine: les frappes russes sur Kyiv font au moins 12 morts, 6e jour consécutif",
-    "url": "https://www.france24.com/en/at-least-12-killed-and-over-a-dozen-injured-in-russian-strikes-on-kyiv"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités Internationales",
-    "titre": "Gaza: Israël arrête le chef de la sécurité intérieure du Hamas, six morts",
-    "url": "https://www.france24.com/fr/moyen-orient/20260901-israel-affirme-avoir-arrete-mouein-al-arabid-chef-securite-interieure-hamas-gaza-benjamin-netanyahu-frappes"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités Internationales",
-    "titre": "Soudan: les combats dans l'État du Nil Bleu déplacent près de 20 000 personnes en deux jours",
-    "url": "https://www.riotimesonline.com/sudan-blue-nile-displacement-bara-2026/"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités Internationales",
-    "titre": "Hong Kong: Joshua Wong plaide coupable de collusion avec l'étranger",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-02/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion-charge"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités France",
-    "titre": "Accident de bouée tractée à Saint-Cyprien: 2 morts",
-    "url": "https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/accident-de-bouee-tractee-plusieurs-morts-et-blesses-ce-que-l-on-sait-sur-cette-sortie-en-mer-qui-a-vire-au-drame-3409724.html"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités France",
-    "titre": "Fonction publique: vers une «grande grève» le 29 septembre prochain",
-    "url": "https://www.cnews.fr/france/2026-09-01/fonction-publique-vers-une-grande-greve-le-29-septembre-prochain-1912523"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités France",
-    "titre": "Ce qui change au 1er septembre: rupture conventionnelle raccourcie, arrêts de travail plafonnés",
-    "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18945?lang=en"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités France",
-    "titre": "Vendée: collision entre un camion-citerne et une voiture à Saint-Jean-d'Hermine",
-    "url": "https://vendeeinfo.fr/09/01/un-violent-face-a-face-entre-un-camion-citerne-et-une-voiture-fait-deux-blesses-a-saint-jean-dhermine/16522"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Actualités France",
-    "titre": "Rentrée parlementaire: l'Assemblée nationale reprend ses travaux dont la commission sur la pauvreté des seniors",
-    "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/augmentation_pauvrete_travailleurs_seniors_personnes_agees"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "République de Guinée",
-    "titre": "Diplomatie: le président gambien Adama Barrow en visite officielle à Conakry",
-    "url": "https://guineenews.org/2026/09/01/diplomatie-le-president-gambien-adama-barrow-attendu-ce-mercredi-a-conakry-pour-une-visite-de-travail/"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "République de Guinée",
-    "titre": "Pêche maritime: Doumbouya fixe le nouveau cadre réglementaire d'application du Code de la pêche",
-    "url": "https://www.guinee360.com/31/08/2026/peche-maritime-mamadi-doumbouya-met-en-oeuvre-le-nouveau-code"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "République de Guinée",
-    "titre": "Conakry: 725g de cocaïne saisis à Kipé dissimulés dans des cartons de thé",
-    "url": "https://www.africaguinee.com/conakry-725-g-de-cocaine-dissimules-dans-des-colis-de-the-saisis-a-kipe/"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "République de Guinée",
-    "titre": "Baccalauréat 2026: la DGECS précise les modalités de consultation des résultats du rattrapage",
-    "url": "https://kalenews.org/baccalaureat-unique-2026-la-dgecs-precise-les-modalites-de-consultation-des-resultats-du-rattrapage/"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Énergie & ENEDIS",
-    "titre": "La FNME-CGT lance une grève reconductible dans 157 entreprises de l'énergie dès le 2 septembre",
-    "url": "https://rapportsdeforce.fr/classes-en-lutte/2-septembre-la-cgt-initie-une-greve-reconductible-dans-lenergie-090225316"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole: le Brent grimpe à plus de 95 dollars, tensions autour du détroit d'Ormuz",
-    "url": "https://www.titrespresse.com/19799702603/brent-us-iran"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Énergie & ENEDIS",
-    "titre": "RTE lance une exposition itinérante sur la transition énergétique dans 16 gares SNCF",
-    "url": "https://www.rte-france.com/presse"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants: le gazole recule légèrement, les essences remontent",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mardi-1er-septembre-2026"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic suspend une partie de l'entraînement de ses modèles après des actions non autorisées de Claude",
-    "url": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic signe un accord cloud de 35 milliards de dollars avec Lambda (Nvidia) pour un data center au Texas",
-    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/01/anthropic-books-35-billion-to-nvidia-backed-lambda-for-cloud-capacity/"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'UE classe ChatGPT comme «moteur de recherche en ligne de très grande taille» au titre du DSA",
-    "url": "https://www.euronews.com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules"
-  },
-  {
-    "date": "2026-09-02",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Perplexity lance «Hybrid Compute» sur Mac, combinant modèles cloud et locaux",
-    "url": "https://www.perplexity.ai/hub/blog/introducing-hybrid-compute-on-mac"
-  },
-  {
     "date": "2026-09-03",
     "theme": "Actualités Internationales",
     "titre": "Népal : le bilan des inondations dépasse les 1 000 morts, près de 4 000 disparus",
@@ -1768,5 +1636,155 @@
     "titre": "La Chine dénonce les appels à ralentir l'IA comme une manœuvre «égoïste» visant à la freiner",
     "url": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call",
     "date": "2026-09-16"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités Internationales",
+    "titre": "Gaza : effondrement d'un immeuble fragilisé par les frappes, au moins 21 morts",
+    "url": "https://www.local10.com/news/world/2026/09/16/building-collapse-in-gaza-kills-19-as-perilous-conditions-persist-for-palestinians-during-truce/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités Internationales",
+    "titre": "Philippines : Duterte comparaît pour la première fois en personne devant la CPI",
+    "url": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités Internationales",
+    "titre": "Chine : ouverture de la première usine de production de masse de robots humanoïdes",
+    "url": "https://colombiaone.com/2026/09/16/china-factory-humanoid-robot/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités Internationales",
+    "titre": "Schengen : l'Italie et l'Espagne prolongent leurs contrôles frontaliers réciproques",
+    "url": "https://www.tbsnews.net/world/italy-extends-schengen-suspension-spain-another-15-days-1543626"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités Internationales",
+    "titre": "États-Unis : la Chambre vote une troisième fois pour mettre fin à la guerre contre l'Iran",
+    "url": "https://www.usnews.com/news/us/articles/2026-09-16/the-latest-house-votes-for-a-third-time-to-end-the-iran-war-as-conflict-drags-on"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités France",
+    "titre": "Ouverture du procès de Rachida Dati pour corruption",
+    "url": "https://www.franceinfo.fr/politique/rachida-dati/proces-de-rachida-dati-l-ancienne-ministre-face-aux-juges_8195207.html"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités France",
+    "titre": "Marine Le Pen confirme sa candidature pour 2027",
+    "url": "https://www.cnews.fr/france/2026-09-16/presidentielle-2027-marine-le-pen-veut-interdire-le-voile-islamique-de-maniere"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : le Parti socialiste dévoile son contre-projet",
+    "url": "https://www.journaldunet.com/business/action-publique/1554951-le-parti-socialiste-propose-un-contre-budget-pour-2027-a-l-assemblee-nationale/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités France",
+    "titre": "Carburants : les aides ciblées prolongées jusqu'à fin 2026",
+    "url": "https://www.titrespresse.com/21560552603/lecornu-mercredi-sebastien"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Actualités France",
+    "titre": "Le gouvernement envisage une baisse des salaires des ministres",
+    "url": "https://fr.euronews.com/my-europe/2026/09/17/baisse-des-salaires-des-ministres-francais-une-mesure-politique-et-un-acte-de-communicatio"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "République de Guinée",
+    "titre": "La HAC met France 24 en demeure",
+    "url": "https://guineematin.com/2026/09/16/guinee-la-hac-met-france-24-en-demeure-apres-un-qualificatif-inapproprie-envers-mamadi-doumbouya/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "République de Guinée",
+    "titre": "Incendie meurtrier à Gbessia",
+    "url": "https://guineematin.com/2026/09/16/gbessia-conakry-quatre-membres-dune-meme-famille-meurent-dans-un-incendie/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "République de Guinée",
+    "titre": "N'Zérékoré : feuille de route électorale",
+    "url": "https://guineematin.com/2026/09/16/nzerekore-les-acteurs-locaux-valident-une-feuille-de-route-pour-le-renforcement-du-processus-electoral/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "République de Guinée",
+    "titre": "Assainissement de Conakry avant la fête nationale",
+    "url": "https://guineelive.com/2026/09/16/guinee-le-secteur-prive-mobilise-2-milliards-gnf-pour-assainir-conakry-avant-le-2-octobre/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "République de Guinée",
+    "titre": "Syli national : la liste de Paulo Duarte dévoilée",
+    "url": "https://www.guinee360.com/16/09/2026/duarte-devoile-sa-liste-naby-keita-et-issiaga-sylla-absents-moriba-kourouma-et-aguibou-camara-de-retour"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Golfech candidate pour accueillir deux réacteurs EPR2",
+    "url": "https://france3-regions.franceinfo.fr/occitanie/tarn-et-garonne/montauban/nucleaire-la-centrale-de-golfech-passe-son-grand-oral-devant-le-patron-d-edf-pour-accueillir-deux-reacteurs-epr2-3418007.html"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Panne de courant massive à Fondettes (Indre-et-Loire)",
+    "url": "https://sevenradio.fr/2026/09/16/panne-de-courant-massive-a-fondettes-700-foyers-plonges-dans-le-noir/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Carburants : le gazole établit un nouveau record à 2,370 €/L",
+    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-jeudi-17-septembre-2026"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Grève du 15 septembre chez Enedis : un taux de mobilisation de 82%",
+    "url": "https://www.fnem-fo.org/communique/enedis-merci-et-bravo-une-mobilisation-historique/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "Énergie & ENEDIS",
+    "titre": "EDF lance une expérimentation tarifaire pour 6 600 foyers dès octobre",
+    "url": "https://www.choisir.com/energie/actualites/220637/edf-teste-de-nouveaux-tarifs-des-le-1er-octobre-2026-etes-vous-concerne"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "TotalEnergies et Mistral AI signent un partenariat de 100 M€ pour l'exploration pétrolière et gazière",
+    "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/totalenergies-annonce-un-partenariat-avec-l-entreprise-d-intelligence-artificielle-mistral-pour-100-millions-d-euros-afin-de-developper-des-opportunites-d-exploration_8193143.html"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La startup Factory triple sa valorisation à 5 Md$ avec une levée de 200 M$",
+    "url": "https://www.investing.com/news/stock-market-news/ai-coding-agent-startup-factory-triples-valuation-to-5-billion-in-latest-funding-round-4902392"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Mistral s'associe à Mozilla pour propulser Firefox Smart Window en France",
+    "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "LawZero, l'ONG de Yoshua Bengio, reçoit jusqu'à 300 M$ du Canada et de l'Allemagne",
+    "url": "https://betakit.com/yoshua-bengios-lawzero-receives-300-million-backing-from-canada-and-germany-to-pursue-safer-ai-ambitions/"
+  },
+  {
+    "date": "2026-09-17",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Ursula von der Leyen se prononce pour un ralentissement de l'IA et va réunir les laboratoires de pointe à Bruxelles",
+    "url": "https://www.boursorama.com/bourse/actualites/ursula-von-der-leyen-presidente-de-la-commission-europeenne-se-prononce-en-faveur-d-un-ralentissement-dans-le-domaine-de-l-ia-et-prevoit-d-inviter-des-laboratoires-de-pointe-a-des-discussions-11ecbc6d87c13f42a13160cf1230d857"
   }
 ]
