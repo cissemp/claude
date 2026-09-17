@@ -232,5 +232,29 @@
     "titre": "VP Engineering",
     "entreprise": "AssoConnect",
     "date_envoi": "2026-09-15"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/en/companies/blablacar/jobs/head-of-data-engineering_paris",
+    "titre": "Head of Data - Engineering",
+    "entreprise": "BlaBlaCar",
+    "date_envoi": "2026-09-17"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/en/companies/scaleway/jobs/head-of-ai-engineering-leadership-team_paris",
+    "titre": "Head of AI - Engineering Leadership Team",
+    "entreprise": "Scaleway",
+    "date_envoi": "2026-09-17"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/en/companies/datacraft/jobs/cto-ai-officer_paris",
+    "titre": "Chief AI Officer",
+    "entreprise": "datacraft",
+    "date_envoi": "2026-09-17"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/partoo/jobs/vp-engineering-cdi-paris-h-f-x_paris",
+    "titre": "VP Engineering",
+    "entreprise": "Partoo",
+    "date_envoi": "2026-09-17"
   }
 ]
