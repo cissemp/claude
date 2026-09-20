@@ -292,5 +292,37 @@
     "date_envoi": "2026-09-20",
     "candidature_preparee": true,
     "contact_email": "emploisds@ch-nanterre.fr"
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213WCSC",
+    "titre": "Directeur / Directrice des systèmes d'information (DSI) (H/F)",
+    "entreprise": "Client confidentiel — recrutement via France Travail",
+    "date_envoi": "2026-09-20",
+    "candidature_preparee": false,
+    "contact_email": null
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/213TKST",
+    "titre": "Directeur de la Transformation Numérique (H/F)",
+    "entreprise": "Cabinet d'expertise comptable et de conseil (nom non communiqué), Paris 8e",
+    "date_envoi": "2026-09-20",
+    "candidature_preparee": false,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/en/companies/trustpair/jobs/head-of-data-h-f_paris",
+    "titre": "Head of Data (H/F)",
+    "entreprise": "Trustpair",
+    "date_envoi": "2026-09-20",
+    "candidature_preparee": false,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/en/companies/witco/jobs/vp-engineering_paris",
+    "titre": "VP Engineering",
+    "entreprise": "Witco",
+    "date_envoi": "2026-09-20",
+    "candidature_preparee": false,
+    "contact_email": null
   }
 ]
