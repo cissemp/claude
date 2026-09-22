@@ -324,5 +324,37 @@
     "date_envoi": "2026-09-20",
     "candidature_preparee": false,
     "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/federation-francaise-de-tennis/jobs/chief-data-officer-f-h_paris",
+    "titre": "Chief Data Officer F/H",
+    "entreprise": "Fédération Française de Tennis (FFT)",
+    "date_envoi": "2026-09-22",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.dreamworkhq.com/job/7d32bf37-f10f-4e23-b5c0-ffecfe27ee60",
+    "titre": "Head of AI Data H/F",
+    "entreprise": "NEXTON",
+    "date_envoi": "2026-09-22",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/cgi/jobs/directeur-trice-conseils-services-it-f-h-f-h_paris",
+    "titre": "Directeur(trice) Conseils Services IT F/H",
+    "entreprise": "CGI",
+    "date_envoi": "2026-09-22",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-services-informatiques---ozoir-la-ferriere-reference-O077260911000966/",
+    "titre": "Directeur des services informatiques",
+    "entreprise": "Mairie d'Ozoir-la-Ferrière",
+    "date_envoi": "2026-09-22",
+    "candidature_preparee": true,
+    "contact_email": "contact@mairie-ozoir-la-ferriere.fr"
   }
 ]
