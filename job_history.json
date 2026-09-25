@@ -372,5 +372,29 @@
     "date_envoi": "2026-09-23",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.emploi-territorial.fr/offre/o091260924000490-directeur-systemes-information-numerique",
+    "titre": "Directeur des Systèmes d'Information et du Numérique H/F",
+    "entreprise": "Communauté d'agglomération Paris-Saclay",
+    "date_envoi": "2026-09-25",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/83280853.html",
+    "titre": "Directeur des Systèmes d'Information H/F",
+    "entreprise": "Client confidentiel (secteur formation professionnelle) — recrutement par Hyde Recruit",
+    "date_envoi": "2026-09-25",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/O093260805000874/",
+    "titre": "Directeur adjoint des systèmes d'information (H/F)",
+    "entreprise": "Grand Paris Grand Est (T9)",
+    "date_envoi": "2026-09-25",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
