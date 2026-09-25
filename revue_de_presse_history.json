@@ -1,149 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "theme": "Actualités Internationales",
-    "titre": "Iran attaque une base américaine en Jordanie et des navires près d'Ormuz après la destruction de cinq pétroliers iraniens",
-    "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités Internationales",
-    "titre": "Le Royaume-Uni, la France et le Canada sanctionnent les colonies israéliennes en Cisjordanie, Israël ferme le consulat britannique à Jérusalem-Est",
-    "url": "https://www.aljazeera.com/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités Internationales",
-    "titre": "Népal : le bilan des inondations grimpe à 1 369 morts et 5 132 disparus",
-    "url": "https://www.tribuneindia.com/news/world/nepal-flood-death-toll-rises-to-1369-as-india-sends-eighth-aid-flight-with-over-130-tonnes-of-relief-in-total/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités Internationales",
-    "titre": "Soudan : d'anciens responsables d'un organisme de contrôle des armes révèlent l'usage d'armes chimiques par l'armée soudanaise",
-    "url": "https://www.thenationalnews.com/news/mena/2026/09/09/former-watchdog-officials-further-reveal-sudan-armed-forces-use-of-chemical-weapons/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités Internationales",
-    "titre": "Kenya : la répression des petits commerçants étrangers suscite des craintes de xénophobie",
-    "url": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités France",
-    "titre": "Meurtre de Loana, 10 ans : l'accusé condamné à 30 ans de réclusion criminelle",
-    "url": "https://france3-regions.franceinfo.fr/grand-est/ardennes/sedan-0/viol-et-meurtre-de-loana-10-ans-troisieme-jour-du-proces-aux-assises-la-perpetuite-incompressible-requise-contre-l-accuse-3413990.html"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités France",
-    "titre": "Météo : 16 départements placés en vigilance jaune orages et pluies-inondations",
-    "url": "https://www.cnews.fr/france/2026-09-09/pluie-inondation-voici-les-4-departements-places-en-vigilance-jaune-ce-mercredi"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités France",
-    "titre": "Un homme mis en examen et écroué après la saisie de 930 kg de cocaïne dans les Pyrénées-Orientales",
-    "url": "https://www.franceinfo.fr/societe/drogue/un-homme-mis-en-examen-et-ecroue-apres-la-saisie-de-930-kg-de-cocaine-dans-les-pyrenees-orientales_8184260.html"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités France",
-    "titre": "Le déficit commercial de la France se creuse à 6,7 milliards d'euros en juillet",
-    "url": "https://www.franceinfo.fr/economie/le-deficit-commercial-de-la-france-se-creuse-en-juillet-a-6-7-milliards-d-euros_8182709.html"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Actualités France",
-    "titre": "La production industrielle française recule de 0,4 % en juillet",
-    "url": "https://www.france-epargne.fr/news/production-industrielle-la-france-recule-de-04-en-juillet-le-manufacturier-decroche"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "République de Guinée",
-    "titre": "La Guinée dévoile sa nouvelle doctrine de politique étrangère, fondée sur la souveraineté et le non-alignement",
-    "url": "https://www.guinee360.com/09/09/2026/souverainete-non-alignement-diplomatie-economique-la-guinee-devoile-sa-nouvelle-doctrine-de-politique-etrangere"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "République de Guinée",
-    "titre": "Fonds souverain de Guinée : le gouvernement pose les jalons d'un fonds doté de 4 milliards USD entre 2029 et 2035",
-    "url": "https://guineenews.org/2026/09/09/mines-la-guinee-pose-les-bases-dun-fonds-souverain-dote-de-4-milliards-usd-entre-2029-et-2035/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "République de Guinée",
-    "titre": "Guinée : délestages électriques et crise des déchets, symptômes d'une gouvernance en difficulté",
-    "url": "https://www.guinee360.com/09/09/2026/guinee-delestages-electriques-et-crise-des-dechets-les-deux-symptomes-de-la-faillite-de-la-gouvernance"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "République de Guinée",
-    "titre": "Administration parlementaire : l'élection du bureau syndical reportée au 14 septembre après une médiation de la CRIEF",
-    "url": "https://www.guinee114.com/2026/09/09/conakry-lelection-du-bureau-syndical-reportee-au-14-septembre-apres-mediation-du-procureur-special-de-la-crief/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "République de Guinée",
-    "titre": "Le vice-président de la Sierra Leone en visite à Conakry pour renforcer la coopération bilatérale",
-    "url": "https://mediaguinee.com/2026/09/guinee-sierra-leone-immigration-frontieres-et-cooperation-au-coeur-des-echanges-a-conakry"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot très volatil, de 39 € à 214 €/MWh le 8 septembre",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-09-08"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : nouvelle hausse à la pompe, gazole à 2,295 €/L ce 9 septembre",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mercredi-9-septembre-2026"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : le Brent franchit les 100 dollars le 9 septembre sur fond de tensions avec l'Iran",
-    "url": "https://www.nlto.fr/le-baril-de-brent-franchit-les-100-dollars-le-9-septembre-2026/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Enedis : coupure de courant programmée pour travaux à Saint-Hilaire-du-Harcouët",
-    "url": "https://www.st-hilaire-du-harcouet.fr/actualites/coupure-delectricite-pour-travaux-mercredi-9-septembre-2026/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "OpenAI affirme avoir résolu l'équation de Navier-Stokes grâce à 10 000 agents IA, une annonce controversée",
-    "url": "https://www.justgeek.fr/openai-navier-stokes-agents-ia-157968/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Meta lance Muse, un agent IA personnel pour gérer les tâches du quotidien",
-    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google DeepMind dévoile AlphaGenome Atlas, une cartographie de 9 milliards de variants génétiques humains",
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Mistral AI lève 3 milliards d'euros, sa valorisation dépasse 21 milliards d'euros",
-    "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/la-start-up-francaise-mistral-annonce-une-nouvelle-levee-de-fonds-de-trois-milliards-d-euros-portant-sa-valorisation-a-plus-de-21-milliards-d-euros_8182583.html"
-  },
-  {
-    "date": "2026-09-10",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Qualcomm et Amazon (AWS) annoncent un partenariat pluriannuel pour des puces IA d'inférence sur mesure",
-    "url": "https://www.techtimes.com/articles/326993/20260908/qualcomm-wins-first-western-hyperscaler-aws-deal-pays-60b-inference-silicon.htm"
-  },
-  {
     "date": "2026-09-11",
     "theme": "Actualités Internationales",
     "titre": "Le conseil des gouverneurs de l'AIEA (35 pays) a adopté une résolution renvoyant pour la première fois en 20 ans le dossier nucléaire iranie",
@@ -1834,5 +1690,101 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Mirendil, startup fondée par d'ex-chercheurs d'Anthropic, en discussions pour lever jusqu'à 1 Md$",
     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-23-2026/"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Actualités Internationales",
+    "titre": "CPI: Mahamat Saïd Abdel Kani reconnu coupable de crimes contre l'humanité en Centrafrique",
+    "url": "https://www.icc-cpi.int/news/mahamat-said-abdel-kani-found-guilty-crimes-against-humanity-committed-central-african"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Actualités Internationales",
+    "titre": "Ebola en RDC: recul en Ituri mais forte hausse des cas au Nord-Kivu",
+    "url": "https://fr.allafrica.com/stories/202609240098.html"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Actualités Internationales",
+    "titre": "Milei à l'ONU: critique de l'organisation, revendication sur les Malouines, alignement avec Washington",
+    "url": "https://www.infobae.com/politica/2026/09/23/el-discurso-completo-de-milei-reclamo-por-malvinas-criticas-a-la-onu-ia-y-alineamiento-con-los-eeuu/"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Actualités France",
+    "titre": "Macron sur TF1/France2: hausse des carburants, envoi de moyens militaires en Arabie saoudite",
+    "url": "https://www.france24.com/fr/france/20260924-hausse-des-prix-%C3%A0-la-pompe-menace-russe-emmanuel-macron-s-exprime-sur-tf1-et-france-2-onu-russie-petrole-iran-presidentielle-budget-interview-que-retenir"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Actualités France",
+    "titre": "Carburants: les transporteurs routiers dénoncent leur exclusion des aides et menacent de se mobiliser",
+    "url": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-du-prix-des-carburants-les-transporteurs-routiers-denoncent-une-difference-de-traitement-incomprehensible-et-menacent-de-se-mobiliser_8207369.html"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Actualités France",
+    "titre": "INSEE: le moral des ménages reste dégradé et stable en septembre à 86 points",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/france-le-moral-des-menages-toujours-degrade-en-septembre-selon-l-insee-62d08d98d5bd390a9e3793319d3480c9"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Actualités France",
+    "titre": "Le moral des patrons de l'industrie s'améliore, celui des services recule en septembre",
+    "url": "https://www.devizu.news/le-moral-des-patrons-francais-de-lindustrie-sameliore-a-1014-points-en-septembre-2026/"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Actualités France",
+    "titre": "U2P: 27 propositions patronales pour la présidentielle 2027",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-reforme-de-la-fiscalite-amelioration-des-remunerations-nettes-les-petites-entreprises-livrent-leurs-propositions-d75296b6d5bb4390861b4a8f71bc3edb"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "République de Guinée",
+    "titre": "Ecobank Guinée organise un forum sur les marchés de capitaux à Conakry",
+    "url": "https://www.guinee360.com/23/09/2026/financement-de-leconomie-ecobank-mise-sur-les-marches-de-capitaux-pour-accompagner-la-croissance-guineenne"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "République de Guinée",
+    "titre": "La CNFHPG proroge la suspension des activités de Tabital Pulaaku",
+    "url": "https://guineematin.com/2026/09/24/guinee-la-cnfhpg-proroge-la-suspension-de-tabital-pulaaku-jusqua-nouvel-ordre/"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "République de Guinée",
+    "titre": "Projet PROTECT: atelier national de lutte contre la traite des êtres humains à Conakry",
+    "url": "https://www.africaguinee.com/lutte-contre-la-traite-des-etres-humains-en-guinee-le-projet-protect-prepare-son-plan-daction-national/"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Prix de l'électricité et du gaz sous tension liée aux craintes autour du détroit d'Ormuz",
+    "url": "https://capitole-energie.com/2026/09/24/prix-electricite-indexe-sur-le-gaz/"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI et Anthropic devant le Conseil de sécurité de l'ONU appellent à la coopération sur l'IA",
+    "url": "https://www.france24.com/fr/%C3%A9co-tech/20260923-ia-%C3%A0-l-onu-les-patrons-d-anthropic-et-openai-exhortent-%C3%A0-la-vigilance-et-la-coop%C3%A9ration"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Anthropic: Claude découvre un nouveau système enzymatique de type CRISPR dans des bactériophages",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Amazon ouvre son Seller Central aux agents IA externes, en bêta avec Claude",
+    "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude"
+  },
+  {
+    "date": "2026-09-25",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Reecall, start-up française d'IA vocale, lève des fonds",
+    "url": "https://www.maddyness.com/2026/09/24/reecall-cette-startup-dia-vocale-qui-a-tape-dans-loeil-de-founders-future-et-francis-nappez-blablacar/"
   }
 ]
