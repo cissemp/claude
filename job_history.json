@@ -213,7 +213,9 @@
     "url": "https://www.welcometothejungle.com/fr/companies/ratp-real-estate/jobs/directeur-trice-des-systemes-d-information-et-de-l-innovation-digitale-h-f_fontenay-sous-bois",
     "titre": "Directeur(trice) des Systèmes d'Information et de l'Innovation Digitale H/F",
     "entreprise": "RATP Real Estate",
-    "date_envoi": "2026-09-12"
+    "date_envoi": "2026-09-28",
+    "candidature_preparee": true,
+    "contact_email": null
   },
   {
     "url": "https://www.welcometothejungle.com/fr/companies/thales/jobs/responsable-data-office-h-f_velizy-villacoublay",
@@ -442,6 +444,22 @@
     "titre": "Directeur du Service Systèmes d'Informations (H/F)",
     "entreprise": "Grand Paris Grand Est (T9)",
     "date_envoi": "2026-09-27",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://recrutement.bpce.fr/job/directeur-ia-et-etudes-data",
+    "titre": "Directeur IA et Etudes Data",
+    "entreprise": "Groupe BPCE",
+    "date_envoi": "2026-09-28",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://careers.hublo.com/jobs/7331974-head-of-data-ai-f-h-n",
+    "titre": "Head of Data & AI (f/h/n)",
+    "entreprise": "Hublo",
+    "date_envoi": "2026-09-28",
     "candidature_preparee": true,
     "contact_email": null
   }
