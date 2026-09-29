@@ -462,5 +462,21 @@
     "date_envoi": "2026-09-28",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-systemes-d-information-hf---syndicat-des-eaux-d-ile-de-france-reference-O075251230000224/",
+    "titre": "Directeur des Systèmes d'Information (H/F)",
+    "entreprise": "Syndicat des Eaux d'Île-de-France (SEDIF)",
+    "date_envoi": "2026-09-29",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/77266945.html",
+    "titre": "Directeur des Systèmes d'Information",
+    "entreprise": "AP-HP — Direction des Services Numériques (DSN), Créteil",
+    "date_envoi": "2026-09-29",
+    "candidature_preparee": true,
+    "contact_email": "raphael.beaufret@aphp.fr"
   }
 ]
