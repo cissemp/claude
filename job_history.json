@@ -478,5 +478,45 @@
     "date_envoi": "2026-09-29",
     "candidature_preparee": true,
     "contact_email": "raphael.beaufret@aphp.fr"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/linxea/jobs/head-of-data_paris",
+    "titre": "Head of Data H/F",
+    "entreprise": "Linxea",
+    "date_envoi": "2026-09-30",
+    "candidature_preparee": true,
+    "contact_email": "recrutement@linxea.com"
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/O078260918001322/",
+    "titre": "Chef de Service Transformation Numerique F/H",
+    "entreprise": "Conseil departemental des Yvelines",
+    "date_envoi": "2026-09-30",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://dsi.jobs/offres-d-emploi/dsi-paris.php",
+    "titre": "Directeur des Systemes d'Information (DSI au nord de Paris)",
+    "entreprise": "Client confidentiel (leader europeen du pret-a-porter) - recrutement par DSI.jobs",
+    "date_envoi": "2026-09-30",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://dsi.jobs/offres-d-emploi/offredemploi-dsi-paris-servicepublic",
+    "titre": "Directeur des Systemes d'Information (etablissement public national)",
+    "entreprise": "Client confidentiel (etablissement public national) - recrutement par DSI.jobs",
+    "date_envoi": "2026-09-30",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.lasecurecrute.fr/offre-emploi/chief-data-officer/1014320",
+    "titre": "Chief Data Officer",
+    "entreprise": "Institution de la Securite Sociale (Direction de la Prevision et des Etudes) - La Secu recrute",
+    "date_envoi": "2026-09-30",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
