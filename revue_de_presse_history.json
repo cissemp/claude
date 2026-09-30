@@ -1,149 +1,5 @@
 [
   {
-    "date": "2026-09-15",
-    "theme": "Actualités Internationales",
-    "titre": "La Russie lance une vague massive de 108 drones contre l'Ukraine",
-    "url": "https://www.forbes.com/sites/katyasoldak/2026/09/14/monday-september-14-russias-war-on-ukraine-news-and-information-from-ukraine/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités Internationales",
-    "titre": "Kim Jong-un promet un soutien invariable à Poutine dans la guerre en Ukraine",
-    "url": "https://www.malaymail.com/news/world/2026/09/15/kim-jong-un-vows-unwavering-support-for-putin-calls-russias-ukraine-war-sacred/235241"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités Internationales",
-    "titre": "Une frappe israélienne tue deux Palestiniens à Gaza malgré le cessez-le-feu",
-    "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités Internationales",
-    "titre": "Détroit d'Ormuz : navire attaqué, pourparlers Iran-Golfe reportés",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités Internationales",
-    "titre": "L'arrêt de l'oléoduc saoudien Est-Ouest fragilise l'approvisionnement mondial en pétrole",
-    "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités France",
-    "titre": "Les propositions logement de Marine Le Pen provoquent une levée de boucliers",
-    "url": "https://actu.orange.fr/politique/priorite-nationale-pour-le-logement-apres-les-propos-de-marine-le-pen-la-dirigeante-des-hlm-denonce-une-lubie-xenophobe-magic-CNT000002rSVjZ.html"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités France",
-    "titre": "Radio France perturbée par une grève contre le recrutement de Charles Sapin",
-    "url": "https://www.strategies.fr/actualites/medias/LQ6570883C/les-equipes-de-radio-france-font-greve-contre-le-recrutement-de-charles-sapin.html"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités France",
-    "titre": "Paris bat son record de 100 jours à plus de 25°C dans l'année",
-    "url": "https://www.tameteo.com/actualites/previsions/c-est-du-jamais-vu-dans-l-histoire-pour-la-100-fois-cette-annee-paris-depassera-aujourd-hui-les-25-c.html"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités France",
-    "titre": "Le CAC 40 recule sous le poids du pétrole et des taux obligataires",
-    "url": "https://www.bdor.fr/actualites-or/cac-40-bourse-paris-petrole-fed"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Actualités France",
-    "titre": "Journée de mobilisation nationale le 15 septembre (santé, énergie, éducation, police)",
-    "url": "https://intelli.news/2026/09/14/mobilisation-du-15-septembre-a-paris-syndicats-associations-qui-se-rassemble-et-pourquoi/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya regagne Conakry après sa visite d'État en Côte d'Ivoire",
-    "url": "https://www.guinee114.com/2026/09/14/guinee-le-president-doumbouya-de-retour-a-conakry/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya à Ouattara : pas de développement sans paix ni stabilité",
-    "url": "https://www.guinee360.com/14/09/2026/doumbouya-a-ouattara-pas-de-developpement-sans-paix-ni-stabilite"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "République de Guinée",
-    "titre": "Accident de la route à Kollet (Télimélé) : 4 morts",
-    "url": "https://guineematin.com/2026/09/13/telimele-un-accident-de-circulation-fait-4-morts-et-plusieurs-blesses-a-kollet/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "République de Guinée",
-    "titre": "Risques d'orages et de fortes pluies annoncés dans plusieurs régions",
-    "url": "https://guineelive.com/2026/09/13/guinee-des-risques-dorages-et-de-fortes-pluies-annonces-dans-plusieurs-regions/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "République de Guinée",
-    "titre": "Horoya AC qualifié pour le 2e tour préliminaire de la Ligue des champions CAF",
-    "url": "https://guineenews.org/2026/09/13/ldc-caf-le-horoya-ac-arrache-sa-qualification-a-domicile-face-a-la-js-saoura/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Grève des salariés EDF, Enedis, RTE et Engie pour défendre le tarif agent",
-    "url": "https://www.cnews.fr/france/2026-09-15/electriciens-et-gaziers-en-greve-ce-mardi-pour-defendre-leur-tarif-preferentiel"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Accès à la centrale nucléaire de Flamanville perturbés par la grève",
-    "url": "https://www.titrespresse.com/21341872603/greve-flamanville-acces"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Le gazole atteint 2,312 €/L en France",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-dimanche-13-septembre-2026"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Le Brent repasse au-dessus de 100 dollars le baril",
-    "url": "https://guineematin.com/2026/09/14/nouvelle-hausse-des-prix-du-petrole-le-baril-de-brent-franchit-encore-la-barre-des-100-dollars/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Nvidia envisagerait un investissement de 10 Md\\$ dans l'IPO d'Anthropic",
-    "url": "https://americanbazaaronline.com/2026/09/13/nvidia-10-billion-investment-anthropic-ipo-488038/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google, OpenAI et Anthropic discuteraient d'un organisme commun de normes IA",
-    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-openai-and-anthropic-float-idea-of-ai-standards-body/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Sam Altman confirme qu'OpenAI n'entrera pas en Bourse en 2026",
-    "url": "https://fortune.com/2026/09/14/openai-ipo-wait-grows-longer-as-ai-safety-fears-mount-cfo/"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Le CAC 40 plonge après l'accueil négatif des appels à ralentir l'IA",
-    "url": "https://fr.finance.yahoo.com/actualites/cac-40-bourse-plonge-d%C3%A9clarations-095100169.html"
-  },
-  {
-    "date": "2026-09-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Fortaegis lève 50 M$ pour sécuriser les systèmes IA au niveau matériel",
-    "url": "https://techstartups.com/2026/09/14/startup-funding-news-today-september-14-2026-chift-qupital-tandem-health-fortaegis-more/"
-  },
-  {
     "theme": "Actualités Internationales",
     "titre": "Un drone russe abattu pour la première fois dans l'espace aérien de la Lituanie",
     "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania",
@@ -1948,5 +1804,149 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "La CNIL organise la 2e édition des Rencontres Informatique & Libertés à Paris",
     "url": ""
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités Internationales",
+    "titre": "Moldavie : le parti pro-européen de Maia Sandu remporte les législatives face au bloc pro-russe",
+    "url": "https://www.franceinfo.fr/monde/europe/legislatives-en-moldavie-le-parti-pro-europeen-pas-remporte-le-scrutin-avec-plus-de-50-des-voix-selon-les-resultats-officiels_7520746.html"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : une frappe de drones russes sur l'Académie des sciences de Kyiv fait au moins 9 morts",
+    "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités Internationales",
+    "titre": "Irak : les forces américaines achèvent leur retrait de leurs dernières bases",
+    "url": "https://www.usnews.com/news/world/articles/2026-09-29/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités Internationales",
+    "titre": "Malouines : l'Argentine de Milei menace le Royaume-Uni d'un recours en arbitrage international",
+    "url": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités Internationales",
+    "titre": "Europe en alerte face à l'intensification de la guerre hybride russe",
+    "url": "https://www.npr.org/2026/09/29/nx-s1-5980099/europe-on-edge-from-threats-of-russias-growing-escalation-can-nato-defend-itself"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités France",
+    "titre": "Le RN visé par des révélations sur des écrits antisémites attribués à Jordan Bardella",
+    "url": "https://www.france24.com/fr/france/20260929-france-accusations-antisemitisme-rassemblement-national-lance-contre-attaque-jordan-bardella-marine-le-pen"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités France",
+    "titre": "Bilan chiffré de la mobilisation du 29 septembre : jusqu'à 300 000 manifestants selon la CGT",
+    "url": "https://www.franceinfo.fr/economie/greve/direct-greve-dans-la-fonction-publique-plus-de-170-manifestations-attendues-dans-toute-la-france-ce-mardi_8214257.html"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités France",
+    "titre": "La dette publique française atteint un niveau record de 119% du PIB au 2e trimestre 2026",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/france-la-dette-publique-s-etablit-a-119-0-du-pib-au-t2-insee-5ee8aba17564d618b4615808a17c689f"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités France",
+    "titre": "Vigilance orange orages et inondations dans le Gard, l'Hérault et la Lozère",
+    "url": "https://www.cnews.fr/france/2026-09-29/orages-voici-les-4-departements-places-en-vigilance-orange-ce-mercredi-1926295"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Actualités France",
+    "titre": "Macron entame une visite d'État en Espagne, première d'un président français depuis 2009",
+    "url": "https://www.france24.com/fr/europe/20260928-emmanuel-macron-entame-une-visite-d-%C3%A9tat-en-espagne-pour-rehausser-les-relations"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "République de Guinée",
+    "titre": "Fonction publique : lancement d'un concours de recrutement 2026-2027 territorialisé et digitalisé",
+    "url": "https://guineenews.org/2026/09/29/fonction-publique-le-gouvernement-annonce-un-concours-entierement-territorialise-et-digitalise-pour-renforcer-la-transparence/"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "République de Guinée",
+    "titre": "Usage des gyrophares et avertisseurs sonores désormais strictement encadré",
+    "url": "https://www.guinee360.com/29/09/2026/guinee-lusage-des-gyrophares-et-avertisseurs-sonores-desormais-strictement-encadre"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "République de Guinée",
+    "titre": "Fête du 2 octobre : dispositif exceptionnel de circulation à Kaloum",
+    "url": "https://www.guinee7.com/2026/09/28/fete-du-2-octobre-la-circulation-fortement-encadree-a-kaloum-des-ce-mardi/"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "République de Guinée",
+    "titre": "Conakry : campagne judiciaire contre le déversement d'ordures, condamnations au TPI de Dixinn",
+    "url": "https://www.guinee360.com/29/09/2026/deversement-dordures-le-parquet-de-dixinn-annonce-des-poursuites-et-rappelle-les-sanctions-prevues-par-la-loi"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gazole : recul léger à 2,374 €/L en moyenne nationale le 30 septembre",
+    "url": "https://mon-carburant.com/prix-moyen-carburant-france/"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : le prix spot retombe à 166,8 €/MWh le 29 septembre (-18,2%)",
+    "url": "https://www.wattvalue.fr/lactu-du-marche-de-lelectricite-et-du-gaz-du-29-09-2026/"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Pétrole : le Brent grimpe à 105,31 $/baril le 29 septembre",
+    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Tarif réglementé du gaz : +6,3% au 1er octobre, à 182,88 €/MWh TTC",
+    "url": "https://www.cnews.fr/france/2026-09-28/prix-du-gaz-prime-carburant-franchises-medicales-tout-ce-qui-change-au-1er"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gaz : le contrat PEG Année 2027 grimpe à 54,37 €/MWh le 29 septembre",
+    "url": "https://www.wattvalue.fr/lactu-du-marche-de-lelectricite-et-du-gaz-du-29-09-2026/"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "AMD rachète World Labs, la startup de Fei-Fei Li, pour 8,2 Md$",
+    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Le prospectus d'IPO d'Anthropic vise une valorisation de plus de 2000 Md$",
+    "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La startup d'agents IA Instinct lève 1 Md$ en série C, valorisée 10 Md$",
+    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Des dirigeants de la tech signent à la Maison Blanche un accord volontaire sur la superintelligence",
+    "url": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump"
+  },
+  {
+    "date": "2026-09-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI viserait 30 Md$ de levée de fonds à 1400 Md$ de valorisation",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value"
   }
 ]
