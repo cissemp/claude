@@ -1,155 +1,5 @@
 [
   {
-    "theme": "Actualités Internationales",
-    "titre": "Un drone russe abattu pour la première fois dans l'espace aérien de la Lituanie",
-    "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités Internationales",
-    "titre": "Le Danemark accuse une frégate russe d'avoir tiré des fusées éclairantes sur un de ses hélicoptères",
-    "url": "https://www.euronews.com/my-europe/2026/09/15/russia-summoned-by-denmark-after-warship-fires-flares-at-helicopter",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités Internationales",
-    "titre": "Yémen : l'ONU annonce plus de 100 000 déplacés en quelques jours",
-    "url": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités Internationales",
-    "titre": "Soudan : le PAM alerte sur un risque d'effondrement de l'aide alimentaire d'ici quelques semaines",
-    "url": "https://www.thenationalnews.com/news/us/2026/09/14/wfp-warns-sudan-food-aid-could-be-cut-within-weeks-as-20-million-face-acute-hunger/",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités Internationales",
-    "titre": "Indonésie : au moins 6 morts et 129 disparus après le naufrage d'un ferry en mer de Java",
-    "url": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : Lecornu veut geler les dépenses de l'État au niveau de 2026",
-    "url": "https://www.franceinfo.fr/economie/budget/budget-2027-sebastien-lecornu-demande-a-ses-ministres-que-les-depenses-de-l-etat-restent-strictement-au-meme-niveau-qu-en-2026_8193803.html",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : la piste d'un gel des pensions de retraite fait polémique",
-    "url": "https://www.centre-europe.com/en-direct-presidentielle-2027-sattaquer-aux-pensions-de-retraite-dans-le-prochain-budget-une-ligne-rouge-pour-le-rn-assure-jean-philippe-tanguy/",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Colère des policiers : manifestation à Paris, Nuñez promet un plan",
-    "url": "https://actu17.fr/societe/policiers-en-colere-des-milliers-de-manifestants-a-paris-laurent-nunez-demande-quelques-jours-pour-presenter-un-plan.html",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Mort de Catherine Ringer, voix des Rita Mitsouko",
-    "url": "https://www.franceinfo.fr/culture/catherine-ringer-chanteuse-des-rita-mitsouko-est-morte-a-l-age-de-68-ans_8193422.html",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Macron lance le service national universel sur une base aérienne du Vaucluse",
-    "url": "https://www.cnews.fr/france/2026-09-15/orange-que-va-faire-emmanuel-macron-dans-le-vaucluse-ce-mardi-1918950",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "République de Guinée",
-    "titre": "La CNSS lance un contrôle des preuves de vie des pensionnés",
-    "url": "https://www.guinee360.com/15/09/2026/la-cnss-lance-loperation-de-controle-des-preuves-de-vie-des-pensionnes",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "République de Guinée",
-    "titre": "La CRIEF ouvre une enquête sur 16 ans de gestion financière des examens nationaux",
-    "url": "https://guineematin.com/2026/09/15/crief-charles-wright-ordonne-une-enquete-sur-la-gestion-financiere-des-examens-nationaux-de-2010-a-2026/",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "République de Guinée",
-    "titre": "Santé publique : la Guinée annonce le recrutement de 7 000 agents en 2027",
-    "url": "https://www.guinee360.com/15/09/2026/sante-la-guinee-prevoit-le-recrutement-de-7-000-agents-en-2027",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "République de Guinée",
-    "titre": "Drame sur le fleuve Makona : une pirogue chavire, deux morts et un militaire porté disparu",
-    "url": "https://www.africaguinee.com/chavirage-dune-pirogue-sur-le-makona-deux-morts-un-militaire-porte-disparu/",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "République de Guinée",
-    "titre": "Sécurité alimentaire : inauguration à Conakry d'un entrepôt de 40 000 tonnes",
-    "url": "https://guineematin.com/2026/09/15/conakry-un-depot-de-40-000-tonnes-inaugure-pour-renforcer-les-capacites-de-stockage-alimentaire/",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : nouveau pic de prix spot le 15 septembre",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-09-14",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : le gazole établit un nouveau record à 2,332 €/L",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mardi-15-septembre-2026",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : le Brent dépasse 107 dollars après la fermeture de l'oléoduc Est-Ouest saoudien",
-    "url": "https://www.xtb.com/fr/analyses-marches/a-l-ouverture-des-marches-le-brent-a-107-dollars-vague-de-ventes-dans-le-secteur-de-l-ia-15-09-2026",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Énergie & ENEDIS",
-    "titre": "Grève EDF/Enedis du 15 septembre : premier bilan chiffré de l'impact sur la production",
-    "url": "https://jeunessedumonde.fr/2026/09/15/energie-une-greve-massive-chez-edf-perturbe-la-production-nucleaire-et-gaziere/",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "Énergie & ENEDIS",
-    "titre": "Gaz : le TTF grimpe jusqu'à 84,50 €/MWh, un plus haut depuis décembre 2022",
-    "url": "https://econostrum.info/leurope-aura-t-elle-assez-de-gaz-cet-hiver/",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Agility Robotics dévoile Digit 5, son humanoïde conçu pour travailler en sécurité aux côtés d'humains",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Perplexity lance «Portable Computer» pour Windows, un agent IA local propulsé par Nvidia RTX",
-    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Trump appelle en direct le PDG de Nvidia Jensen Huang lors de l'All-In Summit et qualifie les craintes sur l'IA de «hoax»",
-    "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Bernie Sanders et Steve Bannon partagent la scène à Washington pour réclamer un encadrement de l'IA",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-    "date": "2026-09-16"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "La Chine dénonce les appels à ralentir l'IA comme une manœuvre «égoïste» visant à la freiner",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-state-media-dismisses-self-serving-ai-slowdown-call",
-    "date": "2026-09-16"
-  },
-  {
     "date": "2026-09-17",
     "theme": "Actualités Internationales",
     "titre": "Gaza : effondrement d'un immeuble fragilisé par les frappes, au moins 21 morts",
@@ -1948,5 +1798,137 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "OpenAI viserait 30 Md$ de levée de fonds à 1400 Md$ de valorisation",
     "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Actualités Internationales",
+    "titre": "Au Maroc, Fatima Ezzahra El Mansouri devient la première femme à diriger le gouvernement",
+    "url": "https://www.france24.com/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-devient-premi%C3%A8re-femme-premi%C3%A8re-ministre"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Actualités Internationales",
+    "titre": "Un vol Flydubai dérouté vers l'Arabie saoudite après qu'un pilote a été poignardé par son copilote",
+    "url": "https://www.cnews.fr/monde/2026-09-30/vol-flydubai-deroute-en-arabie-saoudite-acte-terroriste-pilote-poignarde-deuxieme"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Actualités Internationales",
+    "titre": "L'éruption du volcan Etna paralyse l'aéroport de Catane en Sicile",
+    "url": "https://lepetitjournal.com/milan/actualites/volcan-etna-eruption-paralyse-sicile-454651"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Actualités Internationales",
+    "titre": "La coalition internationale achève sa mission de 12 ans contre l'État islamique en Irak",
+    "url": "https://fr.euronews.com/2026/10/01/irak-la-coalition-menee-par-les-etats-unis-acheve-sa-mission-contre-letat-islamique-sur-fo"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Actualités France",
+    "titre": "Lecornu présente son budget de redressement pour 2027, 54 Md€ d'économies",
+    "url": "https://fr.finance.yahoo.com/actualites/crise-financi%C3%A8re-s%C3%A9bastien-lecornu-pr%C3%A9sentera-151550985.html"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Actualités France",
+    "titre": "L'inflation en France grimpe à 3% sur un an en septembre",
+    "url": "https://www.journaldunet.com/business/1555633-l-inflation-atteint-3-sur-un-an-en-septembre-2026-portee-par-la-hausse-des-prix-de-l-energie-et-des-produits-frais/"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Actualités France",
+    "titre": "PLFSS 2027 : désindexation partielle des pensions de retraite supérieures à 1260€",
+    "url": "https://www.contexte.com/fr/actualite/sante/le-plfss-finalement-presente-le-1er-octobre_277539"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Actualités France",
+    "titre": "Darnaud (LR) et Kanner (PS) reconduits à la tête de leurs groupes au Sénat",
+    "url": "https://www.publicsenat.fr/actualites/politique/mathieu-darnaud-reconduit-a-la-tete-du-groupe-lr-du-senat"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya crée par décret l'École de guerre de Guinée",
+    "url": "https://www.guinee360.com/30/09/2026/guinee-mamadi-doumbouya-cree-une-ecole-de-guerre"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "République de Guinée",
+    "titre": "Conseil des ministres : consignes sur la rentrée scolaire et la politique nationale de l'emploi",
+    "url": "https://www.exclusif.net/Communique-du-conseil-des-ministres-du-Mercredi-30-Septembre-2026_a66386.html"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "République de Guinée",
+    "titre": "Le Syli national affronte le Kenya au Stade du 28 Septembre pour les éliminatoires CAN 2027",
+    "url": "https://www.guinee7.com/2026/09/23/stade-28-septembre-renovation-guicopres-btp-syli-national-kenya/"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "République de Guinée",
+    "titre": "Boké mobilise 150 délégués pour le défilé du 2 octobre à Conakry",
+    "url": "https://agpguinee.com/boke-vers-le-02-octobre-2026-la-region-prepare-activement-sa-participation-au-grand-defile-national/"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "République de Guinée",
+    "titre": "Conakry : Seydouba Soumah relaxé après un mois de détention pour des propos tenus dans un taxi",
+    "url": "https://guineematin.com/2026/09/30/conakry-juge-pour-des-propos-tenus-dans-un-taxi-seydouba-soumah-declare-non-coupable/"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : prix spot moyen à 202,33 €/MWh le 1er octobre (+37,8%)",
+    "url": "https://prix-elec.com/electricite/prix-spot"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Pétrole : le Brent recule à 96,76$/baril le 1er octobre (-1,3%)",
+    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Enedis va modifier les horaires d'heures creuses de 9,3 millions de clients",
+    "url": "https://selectra.info/energie/actualites/marche/heures-creuses-changement-horaires-9-millions"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "Énergie & ENEDIS",
+    "titre": "4400 foyers testent une nouvelle grille tarifaire heures de pointe hiver dès le 1er octobre",
+    "url": "https://selectra.info/energie/actualites/marche/grille-tarifaire-testee-4400-foyers-octobre"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Google annonce Gemini 4 Argon, modèle IA à accès restreint",
+    "url": "https://intelligence-artificielle.developpez.com/actu/387751/Google-annonce-le-modele-d-IA-de-pointe-Gemini-4-Argon-qui-reprend-la-tete-des-classements-face-a-OpenAI-et-Anthropic-mais-n-est-pas-encore-accessible-au-grand-public-en-raison-de-tests-de-securite/"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Audience sur la demande d'OpenAI de rejeter la plainte d'Apple pour vol de secrets industriels",
+    "url": "https://www.courtlistener.com/docket/73602437/apple-inc-v-liu/"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "L'action Nvidia bondit après la demande de puces Vera CPU et un rachat d'actions de 150 Md$",
+    "url": "https://invezz.com/news/2026/09/30/why-is-nvidia-stock-rising-on-wednesday/"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI lance Dots et GPT-6.1 Sol après avoir renoncé à Astra",
+    "url": "https://www.cryptointegrat.com/p/ai-news-september-30-2026"
+  },
+  {
+    "date": "2026-10-01",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Le prestataire Shipup subit une fuite de données affectant des clients Carrefour",
+    "url": "https://frenchbreaches.com/"
   }
 ]
