@@ -534,5 +534,45 @@
     "date_envoi": "2026-10-01",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://jobs2.morganphilips.com/fr-fr/chief-data-officer-f-h-colombes-153083/",
+    "titre": "Chief Data Officer F/H",
+    "entreprise": "Client confidentiel (secteur sante) - recrutement par Morgan Philips",
+    "date_envoi": "2026-10-02",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/mayday/jobs/head-of-data-ai_paris",
+    "titre": "Head of Data & AI",
+    "entreprise": "Mayday",
+    "date_envoi": "2026-10-02",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/wigroup/jobs/head-of-data-product-niveau-manager-senior-manager_paris",
+    "titre": "Head of Data Product (Manager/Senior Manager)",
+    "entreprise": "Wivoo, a Wavestone company",
+    "date_envoi": "2026-10-02",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-systemes-d-information-dsi--fh-reference-2026-2398853/",
+    "titre": "Directeur des Systemes d'Information (DSI)",
+    "entreprise": "Universite Sorbonne Paris Nord (USPN)",
+    "date_envoi": "2026-10-02",
+    "candidature_preparee": true,
+    "contact_email": "job-ref-lfysrydglw@emploi.beetween.com"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/innovation-psl/jobs/directeur-trice-des-systemes-d-information_paris",
+    "titre": "Directeur.trice des Systemes d'Information",
+    "entreprise": "Innovation @PSL",
+    "date_envoi": "2026-10-02",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
