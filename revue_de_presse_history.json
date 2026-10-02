@@ -1,155 +1,5 @@
 [
   {
-    "date": "2026-09-17",
-    "theme": "Actualités Internationales",
-    "titre": "Gaza : effondrement d'un immeuble fragilisé par les frappes, au moins 21 morts",
-    "url": "https://www.local10.com/news/world/2026/09/16/building-collapse-in-gaza-kills-19-as-perilous-conditions-persist-for-palestinians-during-truce/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités Internationales",
-    "titre": "Philippines : Duterte comparaît pour la première fois en personne devant la CPI",
-    "url": "https://www.aljazeera.com/news/2026/9/16/duterte-in-person-at-icc-for-first-time-over-war-on-drugs-killings"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités Internationales",
-    "titre": "Chine : ouverture de la première usine de production de masse de robots humanoïdes",
-    "url": "https://colombiaone.com/2026/09/16/china-factory-humanoid-robot/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités Internationales",
-    "titre": "Schengen : l'Italie et l'Espagne prolongent leurs contrôles frontaliers réciproques",
-    "url": "https://www.tbsnews.net/world/italy-extends-schengen-suspension-spain-another-15-days-1543626"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités Internationales",
-    "titre": "États-Unis : la Chambre vote une troisième fois pour mettre fin à la guerre contre l'Iran",
-    "url": "https://www.usnews.com/news/us/articles/2026-09-16/the-latest-house-votes-for-a-third-time-to-end-the-iran-war-as-conflict-drags-on"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités France",
-    "titre": "Ouverture du procès de Rachida Dati pour corruption",
-    "url": "https://www.franceinfo.fr/politique/rachida-dati/proces-de-rachida-dati-l-ancienne-ministre-face-aux-juges_8195207.html"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités France",
-    "titre": "Marine Le Pen confirme sa candidature pour 2027",
-    "url": "https://www.cnews.fr/france/2026-09-16/presidentielle-2027-marine-le-pen-veut-interdire-le-voile-islamique-de-maniere"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : le Parti socialiste dévoile son contre-projet",
-    "url": "https://www.journaldunet.com/business/action-publique/1554951-le-parti-socialiste-propose-un-contre-budget-pour-2027-a-l-assemblee-nationale/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités France",
-    "titre": "Carburants : les aides ciblées prolongées jusqu'à fin 2026",
-    "url": "https://www.titrespresse.com/21560552603/lecornu-mercredi-sebastien"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Actualités France",
-    "titre": "Le gouvernement envisage une baisse des salaires des ministres",
-    "url": "https://fr.euronews.com/my-europe/2026/09/17/baisse-des-salaires-des-ministres-francais-une-mesure-politique-et-un-acte-de-communicatio"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "République de Guinée",
-    "titre": "La HAC met France 24 en demeure",
-    "url": "https://guineematin.com/2026/09/16/guinee-la-hac-met-france-24-en-demeure-apres-un-qualificatif-inapproprie-envers-mamadi-doumbouya/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "République de Guinée",
-    "titre": "Incendie meurtrier à Gbessia",
-    "url": "https://guineematin.com/2026/09/16/gbessia-conakry-quatre-membres-dune-meme-famille-meurent-dans-un-incendie/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "République de Guinée",
-    "titre": "N'Zérékoré : feuille de route électorale",
-    "url": "https://guineematin.com/2026/09/16/nzerekore-les-acteurs-locaux-valident-une-feuille-de-route-pour-le-renforcement-du-processus-electoral/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "République de Guinée",
-    "titre": "Assainissement de Conakry avant la fête nationale",
-    "url": "https://guineelive.com/2026/09/16/guinee-le-secteur-prive-mobilise-2-milliards-gnf-pour-assainir-conakry-avant-le-2-octobre/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "République de Guinée",
-    "titre": "Syli national : la liste de Paulo Duarte dévoilée",
-    "url": "https://www.guinee360.com/16/09/2026/duarte-devoile-sa-liste-naby-keita-et-issiaga-sylla-absents-moriba-kourouma-et-aguibou-camara-de-retour"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Golfech candidate pour accueillir deux réacteurs EPR2",
-    "url": "https://france3-regions.franceinfo.fr/occitanie/tarn-et-garonne/montauban/nucleaire-la-centrale-de-golfech-passe-son-grand-oral-devant-le-patron-d-edf-pour-accueillir-deux-reacteurs-epr2-3418007.html"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Panne de courant massive à Fondettes (Indre-et-Loire)",
-    "url": "https://sevenradio.fr/2026/09/16/panne-de-courant-massive-a-fondettes-700-foyers-plonges-dans-le-noir/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : le gazole établit un nouveau record à 2,370 €/L",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-jeudi-17-septembre-2026"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Grève du 15 septembre chez Enedis : un taux de mobilisation de 82%",
-    "url": "https://www.fnem-fo.org/communique/enedis-merci-et-bravo-une-mobilisation-historique/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "Énergie & ENEDIS",
-    "titre": "EDF lance une expérimentation tarifaire pour 6 600 foyers dès octobre",
-    "url": "https://www.choisir.com/energie/actualites/220637/edf-teste-de-nouveaux-tarifs-des-le-1er-octobre-2026-etes-vous-concerne"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "TotalEnergies et Mistral AI signent un partenariat de 100 M€ pour l'exploration pétrolière et gazière",
-    "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/totalenergies-annonce-un-partenariat-avec-l-entreprise-d-intelligence-artificielle-mistral-pour-100-millions-d-euros-afin-de-developper-des-opportunites-d-exploration_8193143.html"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "La startup Factory triple sa valorisation à 5 Md$ avec une levée de 200 M$",
-    "url": "https://www.investing.com/news/stock-market-news/ai-coding-agent-startup-factory-triples-valuation-to-5-billion-in-latest-funding-round-4902392"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Mistral s'associe à Mozilla pour propulser Firefox Smart Window en France",
-    "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "LawZero, l'ONG de Yoshua Bengio, reçoit jusqu'à 300 M$ du Canada et de l'Allemagne",
-    "url": "https://betakit.com/yoshua-bengios-lawzero-receives-300-million-backing-from-canada-and-germany-to-pursue-safer-ai-ambitions/"
-  },
-  {
-    "date": "2026-09-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Ursula von der Leyen se prononce pour un ralentissement de l'IA et va réunir les laboratoires de pointe à Bruxelles",
-    "url": "https://www.boursorama.com/bourse/actualites/ursula-von-der-leyen-presidente-de-la-commission-europeenne-se-prononce-en-faveur-d-un-ralentissement-dans-le-domaine-de-l-ia-et-prevoit-d-inviter-des-laboratoires-de-pointe-a-des-discussions-11ecbc6d87c13f42a13160cf1230d857"
-  },
-  {
     "date": "2026-09-18",
     "theme": "Actualités Internationales",
     "titre": "Gold mine collapse kills at least 70 people in Sudan's West Kordofan",
@@ -1930,5 +1780,149 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Le prestataire Shipup subit une fuite de données affectant des clients Carrefour",
     "url": "https://frenchbreaches.com/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités Internationales",
+    "titre": "Taïwan reçoit ses deux premiers avions de combat F-16V face à la Chine",
+    "url": "https://hongkongfp.com/2026/10/02/taiwan-receives-its-first-us-made-f-16v-fighter-jets/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités Internationales",
+    "titre": "Washington menace l'UE d'un embargo sur le diesel si elle ne libère pas ses stocks stratégiques",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Threatens-Diesel-Export-Ban-Unless-Europe-Releases-Stockpiles.html"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités Internationales",
+    "titre": "L'Ukraine risque de perdre 29,5 Md$ d'aide internationale faute de réformes votées avant le 15 octobre",
+    "url": "https://www.usnews.com/news/world/articles/2026-09-30/ukraine-struggling-to-cover-funding-gap-as-war-costs-surge"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités Internationales",
+    "titre": "Andy Burnham ouvre la porte à un retour du Royaume-Uni dans l'Union européenne",
+    "url": "https://newunionpost.eu/2026/10/01/andy-burnham-uk-rejoining-eu/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités Internationales",
+    "titre": "Gaza : un cadre du Jihad islamique tué par une frappe israélienne à Khan Younès malgré le cessez-le-feu",
+    "url": "https://www.israelnationalnews.com/flashes/694569"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités France",
+    "titre": "Mobilisation lycéenne : lycée incendié à Nantes, mortier contre une proviseure à Rouen, 400 établissements fermés",
+    "url": "https://www.cnews.fr/france/2026-10-01/blocus-des-lycees-les-prefets-interdisent-les-manifestations-autour-des"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités France",
+    "titre": "Rentrée parlementaire : la loi contre les violences sexistes et sexuelles ouvre les débats avant le budget 2027",
+    "url": "https://lesfrancais.press/rentree-parlementaire-2026-loi-integrale-budget-2027-et-course-contre-la-montre-avant-presidentielle/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités France",
+    "titre": "Gérard Larcher réélu président du Sénat pour un sixième mandat",
+    "url": "https://www.cnews.fr/france/2026-10-01/senat-gerard-larcher-reelu-sans-surprise-president-de-la-chambre-haute-du"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités France",
+    "titre": "Flambée des taux d'emprunt : l'OAT à 10 ans dépasse 4,9%",
+    "url": "https://echosplus.com/2026/10/01/dette-francaise-la-flambee-des-taux-demprunt-complique-le-budget-2027/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Actualités France",
+    "titre": "CAC 40 en baisse mais Capgemini bondit de 7%, porté par les résultats d'Accenture",
+    "url": "https://www.moneyvox.fr/bourse/actualites/110631/cac-40-en-baisse-capgemini-bondit-le-journal-de-la-bourse-du-1er-octobre-2026"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "République de Guinée",
+    "titre": "68e anniversaire de l'indépendance : Doumbouya appelle la jeunesse à la souveraineté",
+    "url": "https://guineenews.org/2026/10/01/fete-du-02-octobre-mamadi-doumbouya-interpelle-la-jeunesse-guineenne/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "République de Guinée",
+    "titre": "Le Syli national bat le Kenya 1-0 grâce à un but de Guirassy, retour du public à Conakry",
+    "url": "https://guineenews.org/2026/10/01/eliminatoires-can-2027-serhou-guirassy-offre-une-victoire-precieuse-a-la-guinee-face-au-kenya-a-conakry/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "République de Guinée",
+    "titre": "La HAC lève le retrait d'accréditation du correspondant de Jeune Afrique",
+    "url": "https://guineenews.org/2026/10/01/guinee-la-hac-leve-la-sanction-contre-le-correspondant-de-jeune-afrique/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "République de Guinée",
+    "titre": "Siguiri : neuf présumés braqueurs interpellés, armes saisies",
+    "url": "https://guineematin.com/2026/10/01/siguiri-neuf-presumes-braqueurs-interpelles-des-armes-saisies-apres-plusieurs-attaques/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "République de Guinée",
+    "titre": "Poids lourds interdits de circulation dans le Grand Conakry jusqu'au 3 octobre pour la fête nationale",
+    "url": "https://agpguinee.com/guinee-02-octobre-les-gros-porteurs-interdits-de-circulation-dans-le-grand-conakry-a-compter-de-ce-jeudi-a-16h-jusquau-samedi-a-8h-police/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Incident à l'EPR de Flamanville : dysfonctionnement du dispositif de mesure du bore",
+    "url": "https://www.asnr.fr/actualites/incident-la-centrale-nucleaire-de-flamanville-manche"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Prix spot électricité du 2 octobre : 195,57€/MWh en moyenne, pic à 301€/MWh à 19h",
+    "url": "https://prix-elec.com/electricite/prix-spot"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gazole : nouveau record historique du prix moyen à la pompe dans l'UE",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/10/01/gazole-nouveau-record-du-prix-moyen-a-la-pompe-dans-lue-analyse-afp-de-donnees-officielles-DWX2HN25IRGE5BAFEKWZKVOPAI/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Emménagement : 48% des nouveaux compteurs vont à un concurrent d'EDF",
+    "url": "https://jechange.fr/energie/electricite/news/emmenagement-electricite-48-pourcent-concurrent-edf-14-pourcent-tarif-bleu"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La FTC ouvre une enquête sur OpenAI, Anthropic et METR concernant les agents IA incontrôlés",
+    "url": "https://www.technology.org/2026/10/01/ftc-probe-anthropic-openai-metr-rogue-ai-agents/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Le MI5 accuse un institut chinois d'avoir financé des universitaires pour espionner la recherche en IA",
+    "url": "https://www.japantimes.co.jp/news/2026/10/01/world/politics/uk-china-academics-spy-ai-research/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Armadin, start-up de cybersécurité offensive, lève 255,5 M$",
+    "url": "https://www.helpnetsecurity.com/2026/10/01/armadin-raises-255-5-million-funding/"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Microsoft publie son rapport Digital Defense 2026 sur la cybersécurité bousculée par l'IA",
+    "url": "https://clubic.com/actualite-632197-microsoft-previent-et-alerte-d-ici-un-an-les-menaces-cyber-liees-a-l-ia-seront-bien-pires.html"
+  },
+  {
+    "date": "2026-10-02",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Christine Lagarde appelle l'Europe à développer ses propres capacités technologiques en IA",
+    "url": "https://boursedirect.fr/fr/actualites/categorie/economie/ia-lagarde-appelle-l-europe-a-developper-ses-propres-capacites-technologiques-afp-f17cec60e3397f5ce99d515b11d5e89715eac2d1"
   }
 ]
