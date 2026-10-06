@@ -1,149 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : plus vaste attaque de drones contre Moscou depuis le début du conflit",
-    "url": "https://www.cnn.com/2026/09/20/europe/moscow-ukraine-attack-russia-election"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités Internationales",
-    "titre": "Arabie saoudite : tentative d'attaque houthie contre Riyad par missile balistique",
-    "url": "https://www.nbcnews.com/world/middle-east/flames-smoke-seen-riyadh-airport-houthis-claim-attacks-saudi-capital-rcna598714"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités Internationales",
-    "titre": "Trump bannit CNN, MS NOW et Politico de la Maison-Blanche",
-    "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités Internationales",
-    "titre": "Colons israéliens à Al-Aqsa et Netanyahu dans les tunnels du Mur occidental avant Yom Kippour",
-    "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités Internationales",
-    "titre": "Iran : exécution d'un homme reconnu coupable d'espionnage pour Israël",
-    "url": "https://www.timesofisrael.com/liveblog-september-19-2026/"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités France",
-    "titre": "Macron répond à Trump : Saint-Pierre-et-Miquelon est \"français\"",
-    "url": "https://www.franceinfo.fr/politique/emmanuel-macron/saint-pierre-et-miquelon-est-francais-repond-emmanuel-macron-a-donald-trump-a-son-arrivee-dans-l-archipel_8201387.html"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités France",
-    "titre": "Carburants : nouveau record du gazole à 2,41€/L",
-    "url": "https://www.titrespresse.com/22044232603/afp-prix-gazole"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités France",
-    "titre": "Alerte maximale aux baïnes sur le littoral de Nouvelle-Aquitaine",
-    "url": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/alerte-aux-baines-le-risque-est-maximal-sur-les-plages-de-nouvelle-aquitaine-ces-19-et-20-septembre-7924966"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités France",
-    "titre": "Retour des \"gilets jaunes\" sur le Vieux-Port de Marseille",
-    "url": "https://www.cnews.fr/france/2026-09-19/prix-du-carburant-cout-de-la-vie-marseille-les-gilets-jaunes-signent-leur-retour"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Actualités France",
-    "titre": "Accident mortel sur la RD999 dans le Puy-de-Dôme",
-    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/un-lituanien-se-tue-au-volant-de-sa-voiture-un-35e-mort-sur-les-routes-du-puy-de-dome-cette-annee-3419903.html"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "République de Guinée",
-    "titre": "Inondations à Coyah : un mort, plusieurs blessés, pont emporté",
-    "url": "https://guineenews.org/2026/09/19/inondations-a-coyah-un-mort-plusieurs-blesses-des-familles-sans-abri-un-pont-emporte/"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "République de Guinée",
-    "titre": "CAN U17 handball : la Guinée écarte le Rwanda et se qualifie pour le Mondial",
-    "url": "https://guineematin.com/2026/09/20/can-u17-de-handball-la-guinee-ecarte-le-rwanda-file-en-demi-finale-et-se-qualifie-pour-le-mondial/"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "République de Guinée",
-    "titre": "Rentrée scolaire : Bintou Keïta s'engage à donner des réponses aux enseignants",
-    "url": "https://www.guinee360.com/19/09/2026/rentree-scolaire-bintou-keita-sengage-a-donner-des-reponses-aux-revendications-des-enseignants"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "République de Guinée",
-    "titre": "France 24 bloquée sur Canal+ en Guinée, mais accessible en ligne",
-    "url": "https://www.guinee7.com/2026/09/20/france-24-bloquee-canal-plus-guinee-sanctions-hac/"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "République de Guinée",
-    "titre": "Alphadjo Dara dévoile son nouveau single \"Killi Killi\"",
-    "url": "https://mediaguinee.com/"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : le gazole atteint un nouveau record historique à 2,41€/L",
-    "url": "https://www.titrespresse.com/22044232603/afp-prix-gazole"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot à 59,2€/MWh le 20 septembre (+16,1%)",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-09-20"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Gaz : le PEG grimpe à 78,95€/MWh sur le contrat d'octobre (+4% sur la semaine)",
-    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-09-19"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : le Brent recule à 103,19$/baril le 20 septembre",
-    "url": "https://www.investing.com/commodities/brent-oil"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Plainte antitrust contre Anthropic, OpenAI, xAI et Google pour accord illégal de ralentissement de l'IA",
-    "url": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google confirme un accès non autorisé de Gemini à trois systèmes externes lors d'un test",
-    "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "StepFun lance Step 5 Preview, modèle MoE de 600 milliards de paramètres",
-    "url": "https://www.digitalapplied.com/blog/ai-model-releases-september-2026-tracker"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "CXMT : la puce mémoire DRAM G5 entre en production de masse en Chine",
-    "url": "https://aiweekly.co/ai-news-today"
-  },
-  {
-    "date": "2026-09-21",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic formalise un partenariat d'évaluation de plus d'1 milliard de dollars avec Accenture",
-    "url": "https://aiweekly.co/ai-news-today/anthropic-news"
-  },
-  {
     "date": "2026-09-22",
     "theme": "Actualités Internationales",
     "titre": "Un sommet Trump-Xi est attendu le 24 septembre à Washington, avec le commerce, Taïwan, l'IA et les minerais critiques au menu",
@@ -1894,5 +1750,107 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Schneider Electric proche d'un rachat à 20 Md$ de l'éditeur logiciel américain PTC",
     "url": "https://www.boursorama.com/bourse/actualites/selon-une-source-le-groupe-francais-schneider-electric-serait-sur-le-point-de-conclure-un-accord-de-20-milliards-de-dollars-pour-racheter-le-groupe-americain-de-logiciels-ptc-9d0e497ffb6f9f40092ef4b3c4298f63"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "Actualités Internationales",
+    "titre": "À la veille du 3e anniversaire du 7-Octobre, Guterres appelle à un cessez-le-feu permanent à Gaza",
+    "url": "https://www.lalibre.be/dernieres-depeches/2026/10/06/conflit-israelo-palestinien-le-chef-de-lonu-appelle-a-un-cessez-le-feu-permanent-a-gaza-OL37O7H5DBA2NIFQJPIBQ34XNY"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "Actualités Internationales",
+    "titre": "Russie : attaque combinée de 549 drones et missiles sur la région de Lviv, 4 morts",
+    "url": "https://unn.ua/en/news/combined-russian-attack-four-people-killed-injured-in-lviv-region"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "Actualités Internationales",
+    "titre": "Flydubai : l'enquête établit que le copilote assaillant visait l'aéroport de Tel-Aviv",
+    "url": "https://timesofisrael.com/liveblog-october-5-2026"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "Actualités Internationales",
+    "titre": "Serbie : Vučić annonce des élections législatives anticipées probablement en décembre 2026",
+    "url": "https://betabriefing.com/news/politics/32670-vucic-elections-most-likely-in-december-2026"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "Actualités France",
+    "titre": "Accusations d'antisémitisme : Jordan Bardella conteste formellement et menace de poursuites Mediapart",
+    "url": "https://www.publicsenat.fr/actualites/politique/ecrits-antisemites-jordan-bardella-conteste-formellement-les-accusations-marine-le-pen-evoque-un-faux-dont-mediapart-a-le-secret"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "Actualités France",
+    "titre": "Le collectif « Le Sens du service public » alerte sur la fracture numérique dans l'administration",
+    "url": "https://www.titrespresse.com/24051362603/ia-sens-administration"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "République de Guinée",
+    "titre": "Manéah : un camion se renverse au pont, circulation paralysée entre Coyah et Conakry",
+    "url": "https://guineenews.org/2026/10/04/maneah-un-camion-se-renverse-au-pont-la-circulation-fortement-paralysee-entre-coyah-et-conakry/"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "République de Guinée",
+    "titre": "La Fondation Orange Guinée et l'UNICEF s'unissent pour renforcer l'éducation numérique dans 50 écoles",
+    "url": "https://guineematin.com/2026/10/05/guinee-la-fondation-orange-et-lunicef-sunissent-pour-renforcer-leducation-numerique/"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "République de Guinée",
+    "titre": "Interdiction des sachets d'eau : les bouteilles prennent de la valeur à Conakry",
+    "url": "https://guineenews.org/2026/10/05/"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "République de Guinée",
+    "titre": "Passeports de service accordés aux joueurs et encadreurs du Syli, primes payées",
+    "url": "https://guineenews.org/2026/10/05/"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "République de Guinée",
+    "titre": "Déchets plastiques : la proposition d'Ismaël Touré pour transformer la collecte en emplois pour les jeunes",
+    "url": "https://www.guinee7.com/2026/10/05/dechets-plastiques-ismael-toure-collecte-remuneree-guinee/"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : prix spot moyen à 169,8 €/MWh le 5 octobre (+1,4%)",
+    "url": "https://selectra.info/energie/electricite/prix/marche-de-gros/spot"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Marchés électrique et gazier : le contrat CAL 2027 grimpe à 94 €/MWh (+8% sur la semaine), tensions autour d'Ormuz",
+    "url": "https://www.wattvalue.fr/lactu-du-marche-de-lelectricite-et-du-gaz-du-05-10-2026/"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Audition au Conseil municipal de New York : les dirigeants d'Anthropic, OpenAI, Google et Meta témoignent des risques de l'IA",
+    "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Anthropic lance Claude Frontier Academy, 100 M$ pour former 10 000 ingénieurs IA d'ici 2027",
+    "url": "https://anthropic.com/news/claude-frontier-academy"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Sam Altman (OpenAI) juge que les bénéfices de l'IA valent la prise de certains risques",
+    "url": "https://www.foxnews.com/live-news/ai-super-intelligence-trump-altman-10-05"
+  },
+  {
+    "date": "2026-10-06",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La startup Ghost lève 11 M$ pour vendre Core, un PC à 3499$ dédié aux agents IA locaux",
+    "url": "https://aiweekly.co/alerts/ghost-raises-11m-to-sell-3499-core-pc-running-local-ai-agents"
   }
 ]
