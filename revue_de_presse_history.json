@@ -1,155 +1,5 @@
 [
   {
-    "date": "2026-09-22",
-    "theme": "Actualités Internationales",
-    "titre": "Un sommet Trump-Xi est attendu le 24 septembre à Washington, avec le commerce, Taïwan, l'IA et les minerais critiques au menu",
-    "url": "https://www.thenationalnews.com/news/us/2026/09/21/trump-set-for-washington-summit-with-xi-focused-on-trade-taiwan-and-ai/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités Internationales",
-    "titre": "Israël a placé ses troupes en état d'alerte maximale pour Yom Kippour après la mort par balle d'un colon près de Ramallah",
-    "url": "https://fr.news.yahoo.com/isra%C3%ABl-%C3%A9tat-dalerte-maximale-yom-110143398.html"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités Internationales",
-    "titre": "Donald Trump a signé une loi renforçant les sanctions américaines contre la Russie et l'Iran",
-    "url": "https://www.justsecurity.org/158222/early-edition-september-21-2026/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités Internationales",
-    "titre": "La France a annoncé des mesures contre Téhéran après la fermeture forcée d'un centre culturel français",
-    "url": "https://www.justsecurity.org/158222/early-edition-september-21-2026/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités Internationales",
-    "titre": "Tsahal a frappé des cibles du Hamas à Gaza après qu'un engin explosif a visé un véhicule du génie israélien",
-    "url": "https://www.timesofisrael.com/liveblog-september-21-2026/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités France",
-    "titre": "Carburants : Lecornu propose une \"règle d'or\" neutralisant la TVA supplémentaire et autorise le gazole d'été jusqu'au 15 novembre",
-    "url": "https://www.cnews.fr/france/2026-09-22/crise-des-carburants-le-gouvernement-va-annoncer-de-nouvelles-aides-pour-les"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités France",
-    "titre": "Guerre des mots entre Édouard Philippe et Gabriel Attal pour le leadership du bloc central avant 2027",
-    "url": "https://www.planet.fr/apres-royal-contre-glucksmann-edouard-philippe-lance-la-guerre-des-mots-contre-gabriel-attal.2999378.817022.html"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités France",
-    "titre": "Primaire à gauche : Raphaël Glucksmann et Ségolène Royal s'affrontent publiquement",
-    "url": "https://www.titrespresse.com/22188402603/glucksmann-raphael-segolene"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités France",
-    "titre": "Lancement de la plateforme \"Noted\" pour recueillir la parole des 13-25 ans victimes de violences",
-    "url": "https://www.franceinfo.fr/internet/une-nouvelle-plateforme-noted-lancee-pour-recueillir-la-parole-des-13-25-ans-victimes-de-tous-types-de-violences_8202509.html"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Actualités France",
-    "titre": "L'Insee publie l'indice de production dans les services et le volume des ventes du commerce pour juillet 2026",
-    "url": "https://www.insee.fr/fr/information/2497042"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya s'est rendu à New York pour la 81e session de l'Assemblée générale des Nations unies",
-    "url": "https://guineelive.com/2026/09/21/assemblee-generale-de-lonu-mamadi-doumbouya-attendu-a-new-york/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "République de Guinée",
-    "titre": "Inondations à Coyah : 269 personnes affectées, un décès enregistré",
-    "url": "https://guineelive.com/2026/09/21/67207/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "République de Guinée",
-    "titre": "À Batouya (Coyah), la montée des eaux menace la rentrée scolaire",
-    "url": "https://www.guinee7.com/2026/09/21/coyah-a-batouya-les-eaux-menacent-aussi-la-rentree-scolaire/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "République de Guinée",
-    "titre": "12es Jeux universitaires africains : la Guinée qualifiée pour les Mondiaux 2028, champions accueillis à Conakry",
-    "url": "https://www.avenirguinee.org/2026/09/20/12%E1%B5%89%CB%A2-jeux-universitaires-africains-la-guinee-rentre-le-buste-bombe-et-se-qualifie-pour-les-mondiaux-2028/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "République de Guinée",
-    "titre": "Les sinistrés de Coyah racontent une nuit d'angoisse et lancent un appel à l'aide",
-    "url": "https://guineenews.org/2026/09/20/coyah-les-sinistres-racontent-une-nuit-dangoisse-et-lancent-un-cri-ue-coeur/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot moyen à 159,1€/MWh le 22 septembre, écart de 3€ à 282,4€/MWh selon l'heure",
-    "url": "https://www.optima-energie.fr/blog/actualites/tendance-marche-du-petrole/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Enedis va pouvoir brider à distance les petites installations solaires en basse tension dès le 1er octobre 2026",
-    "url": "https://selectra.info/energie/actualites/marche/enedis-bridage-solaire-basse-tension-1er-octobre"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Rentrée 2026 : plus de 12 000 élèves dans les Écoles des réseaux pour la transition énergétique d'Enedis",
-    "url": "https://www.enedis.fr/magazine/les-ecoles-des-reseaux-pour-la-transition-energetique-se-branchent-sur-les-lycees-et-bts"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Le tarif réglementé du gaz CRE augmente de 8% en octobre pour le chauffage",
-    "url": "https://www.optima-energie.fr/blog/actualites/prix-du-gaz-evolution/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Le baril de Brent recule à environ 99 dollars le 22 septembre",
-    "url": "https://prixdubaril.com/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "xAI (SpaceXAI) lance Grok 4.7, modèle de codage à fenêtre de contexte de 500 000 tokens",
-    "url": "https://next.ink/257288/spacexai-lance-son-modele-grok-4-7-dont-les-performances-decoivent/"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Alibaba annonce un futur modèle IA de 5 000 à 10 000 milliards de paramètres et une nouvelle puce",
-    "url": "https://money.usnews.com/investing/news/articles/2026-09-21/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Le ministère du Travail lance \"Impulsion IA 2027\", plan pour l'IA au travail, à Station F",
-    "url": "https://www.aefinfo.fr/depeche/757094-impulsion-ia-2027-le-ministere-du-travail-lance-un-plan-pour-lintelligence-artificielle-au-travail"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic réitère son appel à ralentir la course à l'IA tout en envisageant une nouvelle étape",
-    "url": "https://www.titrespresse.com/22177222603/anthropic-openai-course"
-  },
-  {
-    "date": "2026-09-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "La startup française Kheops lève 12M€ pour son outil IA appliqué à l'assortiment en grande distribution",
-    "url": "https://refrance.fr/intelligence-artificielle-la-start-up-francaise-kheops-leve-12-millions-deuros-pour-rearmer-les-circuits-courts-dans-la-grande-distribution/"
-  },
-  {
     "date": "2026-09-23",
     "theme": "Actualités Internationales",
     "titre": "Pakistan : frappes aériennes contre des militants dans la province afghane du Kunar, 28 morts selon Islamabad",
@@ -1852,5 +1702,143 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "La startup Ghost lève 11 M$ pour vendre Core, un PC à 3499$ dédié aux agents IA locaux",
     "url": "https://aiweekly.co/alerts/ghost-raises-11m-to-sell-3499-core-pc-running-local-ai-agents"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités Internationales",
+    "titre": "Nouvelle frappe russe meurtrière sur Kiev",
+    "url": "https://unn.ua/en/news/a-nighttime-attack-on-kyiv-claimed-the-lives-of-two-people-in-the-darnytskyi-district"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités Internationales",
+    "titre": "Des drones endommagent plusieurs navires marchands en mer Noire",
+    "url": "https://kyivindependent.com/drones-strike-merchant-vessels-in-black-sea-off-bulgaria-and-ukraine-killing-at-least-one/"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités Internationales",
+    "titre": "Un ex-chef du renseignement extérieur allemand arrêté pour trahison",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/allemagne-un-ancien-directeur-du-renseignement-arrete-pour-des-soupcons-de-trahison-dd667e788bd218bc11c8f28e01e1fed2"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités Internationales",
+    "titre": "Le prix Nobel de physique 2026 attribué à Francis Halzen",
+    "url": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-physique-2026-decerne-au-belge-francis-halzen-pour-ses-contributions-decisives-a-l-astrophysique_8224861.html"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités Internationales",
+    "titre": "L'OMS réagit à une mort suspecte liée à la peste en Sibérie",
+    "url": "https://news.un.org/fr/story/2026/10/1159614"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités France",
+    "titre": "Ouverture de l'examen du budget 2027 en commission des finances",
+    "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/plf-pour-2027-examen-de-la-premiere-partie-en-commission-des-finances"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités France",
+    "titre": "Nouvelle journée de mobilisation lycéenne, les lycées huppés touchés",
+    "url": "https://www.cnews.fr/france/2026-10-06/blocus-des-lycees-488-personnes-interpellees-et-43-membres-des-forces-de-lordre"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités France",
+    "titre": "Le RN présente son contre-budget en pleine affaire Bardella",
+    "url": "https://www.franceinfo.fr/politique/front-national/le-rn-va-presenter-son-contre-budget-en-pleine-affaire-bardella_8223664.html"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités France",
+    "titre": "L'Ademe chiffre l'économie réalisée en passant à l'électrique",
+    "url": "https://www.franceinfo.fr/economie/automobile/un-menage-passant-d-un-vehicule-thermique-a-un-electrique-depensera-trois-fois-moins-d-argent-selon-l-ademe_8226259.html"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Actualités France",
+    "titre": "Jean-Noël Barrot en Israël pour les commémorations du 7-Octobre",
+    "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/le-ministre-des-affaires-etrangeres-jean-noel-barrot-se-rend-en-israel-mercredi-pour-les-commemorations-du-7-octobre_8225404.html"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya fixe par décret le nouveau cadre d'action du gouvernement",
+    "url": "https://www.guinee360.com/07/10/2026/guinee-mamadi-doumbouya-fixe-le-nouveau-cadre-daction-du-gouvernement"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "République de Guinée",
+    "titre": "Une mission économique tunisienne de 30 entreprises en Guinée",
+    "url": "https://www.lapresse.tn/2026/10/05/simandou-2040-30-entreprises-tunisiennes-ciblent-les-opportunites-en-guinee/"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "République de Guinée",
+    "titre": "Le gouvernement veut rapprocher les services publics des citoyens via des guichets uniques",
+    "url": "https://guineematin.com/2026/10/06/guinee-le-gouvernement-veut-rapprocher-les-services-publics-des-citoyens-a-travers-des-guichets-uniques/"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "République de Guinée",
+    "titre": "Dansa Kourouma fixe cinq priorités pour la 10e législature",
+    "url": "https://www.guinee360.com/06/10/2026/10e-legislature-dansa-kourouma-fixe-cinq-priorites-et-appelle-les-deputes-a-reparer-les-fractures-de-la-societe"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "République de Guinée",
+    "titre": "Une explosion de gaz tue deux personnes dans un atelier à Kankan",
+    "url": "https://guineenews.org/2026/10/06/kankan-deux-morts-et-plusieurs-blesses-apres-lexplosion-dune-bouteille-de-gaz-dans-un-atelier-de-tolerie/"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Le prix de gros de l'électricité bondit de 18,6% en un jour",
+    "url": "https://entreprises.selectra.info/energie/electricite/marche-de-gros"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Le prix du gaz se détend légèrement sur les marchés de gros",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-06"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Enedis et les autoroutes veulent multiplier par 10 la puissance de recharge électrique",
+    "url": "https://www.enedis.fr/presse"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Mistral AI dévoile \"Le Chonk\", son nouveau modèle géant",
+    "url": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Nvidia et Microsoft lancent les premiers PC dotés de la puce IA RTX Spark",
+    "url": "https://www.materiel-gamer.com/les-pc-nvidia-rtx-spark-arrivent-ce-mois-ci-et-microsoft-tient-son-evenement-le-7-octobre-quatre-mois-apres-la-promesse-anti-triche-le-recensement-independant-donne-5-jeux-en-ligne-jouables-sur-61/"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "L'AP-HP alerte sur des deepfakes utilisant l'image d'un médecin",
+    "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/les-hopitaux-de-paris-alertent-sur-une-campagne-de-deepfakes-utilisant-l-image-d-un-medecin-pour-la-promotion-d-un-produit_8223163.html"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Anthropic élargit son programme pour les startups",
+    "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
+  },
+  {
+    "date": "2026-10-07",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Google resserre l'accès aux modèles Gemini pour les utilisateurs gratuits",
+    "url": "https://www.businesstoday.in/technology/news/story/google-gemini-plans-are-changing-from-october-9-free-ai-plus-users-face-new-limits-on-ai-model-access-559434-2026-10-05"
   }
 ]
