@@ -630,5 +630,29 @@
     "date_envoi": "2026-10-06",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.meteojob.com/jobs/55950251",
+    "titre": "Chief Data Officer & IA – Secteur BTP",
+    "entreprise": "Client confidentiel (secteur BTP) — recrutement via Externatic",
+    "date_envoi": "2026-10-08",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://careers.wewardapp.com/jobs/7793761-head-of-data-fr",
+    "titre": "Head of Data (FR)",
+    "entreprise": "WeWard",
+    "date_envoi": "2026-10-08",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://jobs.lever.co/theodo/0a0fa3b1-454a-4d7e-b3c9-aca4e58a0e9b",
+    "titre": "CTO – Theodo Data & AI",
+    "entreprise": "Theodo Data & AI",
+    "date_envoi": "2026-10-08",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
