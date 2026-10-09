@@ -1,131 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "theme": "Actualités Internationales",
-    "titre": "À la tribune de l'ONU, Donald Trump menace d'«annihiler» l'Iran si aucun accord n'est trouvé après les midterms",
-    "url": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Actualités Internationales",
-    "titre": "Des frappes russes tuent au moins sept personnes en Ukraine, à Kyiv et dans la région de Donetsk",
-    "url": "https://www.france24.com/en/live-news/20260923-fresh-russian-strikes-on-ukraine-s-infrastructure-kill-seven"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Actualités Internationales",
-    "titre": "Guterres réclame un siège permanent pour l'Afrique au Conseil de sécurité de l'ONU",
-    "url": "https://www.the-star.co.ke/news/2026-09-23-guterres-africas-missing-un-council-seat-is-unjust"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Actualités Internationales",
-    "titre": "Venezuela : Delcy Rodríguez promet des élections lors de son premier discours à l'ONU",
-    "url": "https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Actualités Internationales",
-    "titre": "Xi Jinping arrive à Washington pour un sommet avec Trump, sa première visite aux États-Unis depuis 2015",
-    "url": "https://www.thenationalnews.com/news/us/2026/09/23/trump-xi-visit/"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : Lecornu propose aux socialistes de travailler à un compromis",
-    "url": "https://www.journaldunet.com/business/action-publique/1555329-sebastien-lecornu-propose-aux-socialistes-de-travailler-a-un-compromis-sur-le-budget-2027/"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Actualités France",
-    "titre": "Grève chez SFR le 24 septembre contre le plan de reclassement jugé insuffisant lors du rachat par Bouygues, Free et Orange",
-    "url": "https://www.letribunaldunet.fr/actualites/greve-sfr-24-septembre-syndicats-rachat.html"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Actualités France",
-    "titre": "Gérard Larcher officialise sa candidature à sa réélection à la présidence du Sénat",
-    "url": "https://www.publicsenat.fr/actualites/politique/info-public-senat-gerard-larcher-officialise-sa-candidature-a-la-presidence-du-senat-dans-une-lettre-aux-senateurs"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Actualités France",
-    "titre": "L'écrivain Thélyson Orélien, accusé d'avoir utilisé l'IA, se défend ; le président de l'Académie Goncourt appelle à la prudence",
-    "url": "https://www.franceinfo.fr/culture/livres/l-ecrivain-thelyson-orelien-accuse-d-avoir-utilise-une-ia-il-faut-quand-meme-etre-tres-prudent-je-laisse-toujours-le-benefice-du-doute-declare-philippe-claudel-president-de-l-academie-goncourt_8206340.html"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "République de Guinée",
-    "titre": "À l'ONU, Mamadi Doumbouya défend le «modèle guinéen» et met en avant Simandou",
-    "url": "https://guineenews.org/2026/09/23/onu-doumbouya-defend-le-modele-guineen-et-appelle-lafrique-a-tracer-sa-propre-voie/"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "République de Guinée",
-    "titre": "EDG-SA décroche la certification ISO 9001:2015 et lance son application eEDG",
-    "url": "https://conakryinfos.com/2026/09/23/electricite-edg-decroche-la-certification-iso-9001-2015-et-lance-son-application-digitale-eedgdg/"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "République de Guinée",
-    "titre": "François Bourouno convoque l'intersyndicale de l'Éducation sur le sort des enseignants contractuels non retenus",
-    "url": "https://www.guineesouverain.com/article/enseignants-contractuels-non-retenus-francois-bourouno-intersyndicale/"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "République de Guinée",
-    "titre": "Le Stade du 28 Septembre, rénové par GUICOPRES, s'apprête à accueillir le Syli national",
-    "url": "https://www.guinee7.com/2026/09/23/stade-28-septembre-renovation-guicopres-btp-syli-national-kenya/"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Énergie & ENEDIS",
-    "titre": "L'EPR de Flamanville va s'arrêter 350 jours à partir du 26 septembre pour sa première grande maintenance",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/nucleaire-l-epr-de-flamanville-a-l-arret-samedi-pour-sa-premiere-inspection-approfondie-a4cc22c0bc1a34dd91705a65b3582d2c"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : le gazole atteint un nouveau record à 2,411 €/L le 23 septembre",
-    "url": "https://prix-carburant.eu/article/prix-carburants-2026-09-23"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot moyen à 148,95 €/MWh le 23 septembre, en baisse de 6,4%",
-    "url": "https://selectra.info/energie/electricite/prix/marche-de-gros"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : le Brent autour de 99-103 $/baril le 23 septembre sur fond d'espoirs de désescalade à Ormuz",
-    "url": "https://abcnews.com/US/wireStory/gulf-nations-found-ways-oil-flowing-iran-war-136708375"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Gaz : le PEG France clôture à 72,61 €/MWh le 22 septembre",
-    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-09-23"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Chine : frénésie d'investissements dans l'IA, DeepSeek et ses rivaux préparent une IPO à Hong Kong",
-    "url": "https://www.boursorama.com/bourse/actualites/intelligence-artificielle-frenesie-d-investissements-guerre-des-puces-et-reves-de-robotique-au-coeur-du-boom-de-l-ia-en-chine-194e4202dd44f727d710ed2888e2ea3d"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "À l'ONU, Trump revendique la primauté américaine sur la «superintelligence» et rejette tout ralentissement de l'IA",
-    "url": "https://www.axios.com/2026/09/22/trump-speech-un-general-assembly-iran-annihilate"
-  },
-  {
-    "date": "2026-09-24",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Mirendil, startup fondée par d'ex-chercheurs d'Anthropic, en discussions pour lever jusqu'à 1 Md$",
-    "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-23-2026/"
-  },
-  {
     "date": "2026-09-25",
     "theme": "Actualités Internationales",
     "titre": "CPI: Mahamat Saïd Abdel Kani reconnu coupable de crimes contre l'humanité en Centrafrique",
@@ -1714,5 +1588,59 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Lambda vise jusqu'à 4 Md$ dans un tour de financement pré-IPO mené par Blackstone et Coatue",
     "url": "https://letsdatascience.com/news/lambda-pursues-4-billion-pre-ipo-funding-round-909f4022"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : négociations Trump-Zelensky les 9-10 octobre, bilan de 78 morts dans les frappes russes",
+    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "Actualités Internationales",
+    "titre": "Le porte-avions USS Abraham Lincoln rentré aux Etats-Unis après près d'un an de déploiement",
+    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "Actualités Internationales",
+    "titre": "Israël ferme le consulat britannique de Jérusalem-Est en représailles aux sanctions sur les colonies",
+    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "Actualités Internationales",
+    "titre": "Cisjordanie : une enquête du Monde sur le réseau de fermes pastorales des colons",
+    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "Actualités France",
+    "titre": "L'Allemagne s'inquiète de l'endettement de la France et appelle à des finances publiques saines en Europe",
+    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "République de Guinée",
+    "titre": "Plafonnement des prix de l'eau minérale et minéralisée conditionnée, applicable depuis le 7 octobre",
+    "url": "https://guineenews.org/bbgy"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Enedis et RTE financent une voile de parapente de sensibilisation aux risques électriques dans les Pyrénées",
+    "url": "https://www.titrespresse.com/24218672603/pyrenees-enedis-rte"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Anthropic interdit tout comportement abusif ou cruel envers Claude dans sa nouvelle politique d'utilisation",
+    "url": "https://intelligence-artificielle.developpez.com/actu/387960/Anthropic-interdit-tout-comportement-abusif-ou-cruel-envers-Claude-sous-peine-de-perdre-l-acces-a-l-assistance-IA-selon-sa-nouvelle-politique-d-utilisation"
+  },
+  {
+    "date": "2026-10-09",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Trump : la Maison Blanche considérera comme 'L'ENNEMI' quiconque emploie 'intelligence artificielle' plutôt que 'super-intelligence'",
+    "url": "https://intelligence-artificielle.developpez.com/actu/387961/Le-president-americain-Donald-Trump-a-ecrit-que-la-Maison-Blanche-considerait-comme-L-ENNEMI-toute-personne-utilisant-le-terme-intelligence-artificielle-plutot-que-super-intelligence/"
   }
 ]
