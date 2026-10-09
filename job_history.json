@@ -654,5 +654,21 @@
     "date_envoi": "2026-10-08",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://jobpublic.fr/jobs/directeur-delegue-data-ia-hf",
+    "titre": "Directeur délégué DATA - IA H/F",
+    "entreprise": "Communauté d'Agglomération Paris-Saclay",
+    "date_envoi": "2026-10-09",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.wizbii.com/company/collective-work/job/directeur-de-projets-data-ia-h-f-cdi",
+    "titre": "Directeur de Projets Data & IA (H/F) - CDI",
+    "entreprise": "Collective.work",
+    "date_envoi": "2026-10-09",
+    "candidature_preparee": true,
+    "contact_email": "juliette@collective.work"
   }
 ]
