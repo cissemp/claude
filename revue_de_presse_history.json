@@ -1,101 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "theme": "Actualités Internationales",
-    "titre": "CPI: Mahamat Saïd Abdel Kani reconnu coupable de crimes contre l'humanité en Centrafrique",
-    "url": "https://www.icc-cpi.int/news/mahamat-said-abdel-kani-found-guilty-crimes-against-humanity-committed-central-african"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "Actualités Internationales",
-    "titre": "Ebola en RDC: recul en Ituri mais forte hausse des cas au Nord-Kivu",
-    "url": "https://fr.allafrica.com/stories/202609240098.html"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "Actualités Internationales",
-    "titre": "Milei à l'ONU: critique de l'organisation, revendication sur les Malouines, alignement avec Washington",
-    "url": "https://www.infobae.com/politica/2026/09/23/el-discurso-completo-de-milei-reclamo-por-malvinas-criticas-a-la-onu-ia-y-alineamiento-con-los-eeuu/"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "Actualités France",
-    "titre": "Macron sur TF1/France2: hausse des carburants, envoi de moyens militaires en Arabie saoudite",
-    "url": "https://www.france24.com/fr/france/20260924-hausse-des-prix-%C3%A0-la-pompe-menace-russe-emmanuel-macron-s-exprime-sur-tf1-et-france-2-onu-russie-petrole-iran-presidentielle-budget-interview-que-retenir"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "Actualités France",
-    "titre": "Carburants: les transporteurs routiers dénoncent leur exclusion des aides et menacent de se mobiliser",
-    "url": "https://www.franceinfo.fr/economie/automobile/essence/direct-flambee-du-prix-des-carburants-les-transporteurs-routiers-denoncent-une-difference-de-traitement-incomprehensible-et-menacent-de-se-mobiliser_8207369.html"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "Actualités France",
-    "titre": "INSEE: le moral des ménages reste dégradé et stable en septembre à 86 points",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/france-le-moral-des-menages-toujours-degrade-en-septembre-selon-l-insee-62d08d98d5bd390a9e3793319d3480c9"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "Actualités France",
-    "titre": "Le moral des patrons de l'industrie s'améliore, celui des services recule en septembre",
-    "url": "https://www.devizu.news/le-moral-des-patrons-francais-de-lindustrie-sameliore-a-1014-points-en-septembre-2026/"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "Actualités France",
-    "titre": "U2P: 27 propositions patronales pour la présidentielle 2027",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-reforme-de-la-fiscalite-amelioration-des-remunerations-nettes-les-petites-entreprises-livrent-leurs-propositions-d75296b6d5bb4390861b4a8f71bc3edb"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "République de Guinée",
-    "titre": "Ecobank Guinée organise un forum sur les marchés de capitaux à Conakry",
-    "url": "https://www.guinee360.com/23/09/2026/financement-de-leconomie-ecobank-mise-sur-les-marches-de-capitaux-pour-accompagner-la-croissance-guineenne"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "République de Guinée",
-    "titre": "La CNFHPG proroge la suspension des activités de Tabital Pulaaku",
-    "url": "https://guineematin.com/2026/09/24/guinee-la-cnfhpg-proroge-la-suspension-de-tabital-pulaaku-jusqua-nouvel-ordre/"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "République de Guinée",
-    "titre": "Projet PROTECT: atelier national de lutte contre la traite des êtres humains à Conakry",
-    "url": "https://www.africaguinee.com/lutte-contre-la-traite-des-etres-humains-en-guinee-le-projet-protect-prepare-son-plan-daction-national/"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Prix de l'électricité et du gaz sous tension liée aux craintes autour du détroit d'Ormuz",
-    "url": "https://capitole-energie.com/2026/09/24/prix-electricite-indexe-sur-le-gaz/"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "OpenAI et Anthropic devant le Conseil de sécurité de l'ONU appellent à la coopération sur l'IA",
-    "url": "https://www.france24.com/fr/%C3%A9co-tech/20260923-ia-%C3%A0-l-onu-les-patrons-d-anthropic-et-openai-exhortent-%C3%A0-la-vigilance-et-la-coop%C3%A9ration"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic: Claude découvre un nouveau système enzymatique de type CRISPR dans des bactériophages",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Amazon ouvre son Seller Central aux agents IA externes, en bêta avec Claude",
-    "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude"
-  },
-  {
-    "date": "2026-09-25",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Reecall, start-up française d'IA vocale, lève des fonds",
-    "url": "https://www.maddyness.com/2026/09/24/reecall-cette-startup-dia-vocale-qui-a-tape-dans-loeil-de-founders-future-et-francis-nappez-blablacar/"
-  },
-  {
     "date": "2026-09-26",
     "theme": "Actualités Internationales",
     "titre": "Trump refuse l'offre iranienne de rouvrir le détroit d'Ormuz sous 7 jours, envisage de reprendre les frappes après les midterms",
@@ -1642,5 +1546,71 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Trump : la Maison Blanche considérera comme 'L'ENNEMI' quiconque emploie 'intelligence artificielle' plutôt que 'super-intelligence'",
     "url": "https://intelligence-artificielle.developpez.com/actu/387961/Le-president-americain-Donald-Trump-a-ecrit-que-la-Maison-Blanche-considerait-comme-L-ENNEMI-toute-personne-utilisant-le-terme-intelligence-artificielle-plutot-que-super-intelligence/"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : une frappe russe sur deux bus fait au moins 33 morts à Kramatorsk",
+    "url": "https://novayagazeta.eu/en/articles/2026/10/08/more-than-30-killed-by-russian-strike-on-bus-stop-in-ukraines-kramatorsk-en-news"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : les forces ukrainiennes repoussent la Russie dans le Donetsk",
+    "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "Actualités Internationales",
+    "titre": "Le Nobel de la paix 2026 attribué à Navi Pillay",
+    "url": "https://www.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "Actualités Internationales",
+    "titre": "Le Nobel de littérature 2026 attribué à Anne Carson",
+    "url": "https://www.newsbytesapp.com/news/world/canadian-poet-anne-carson-wins-nobel-prize-in-literature/story"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "Actualités France",
+    "titre": "Mobilisation lycéenne : Lecornu lance cinq chantiers prioritaires, Geffray à Reims",
+    "url": "https://www.letudiant.fr/lycee/mouvement-lyceen-alors-que-la-mobilisation-continue-le-gouvernement-lance-cinq-chantiers-prioritaires.html"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : la commission des Finances supprime déjà plusieurs mesures d'économies",
+    "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/des-deputes-suppriment-deja-les-premieres-mesures-d-economie-prevues-dans-le-budget-2027_8207129.html"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "République de Guinée",
+    "titre": "Deux centres de cancérologie annoncés à Conakry et Kankan pour 2027",
+    "url": "https://www.guinee114.com/2026/10/09/guinee-deux-centres-de-cancerologie-annonces-a-conakry-et-a-kankan-pour-2027/"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "République de Guinée",
+    "titre": "Assemblée constitutive de la FEPAP-GUI : le président de la HAC appelle à l'assainissement de la presse",
+    "url": "https://guineenews.org/2026/10/08/le-desordre-doit-sarreter-le-president-de-la-hac-sattaque-aux-petits-patrons-de-presse/"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gaz : le contrat PEG novembre clôture à 76,92 €/MWh le 8 octobre",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-09"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : prix spot moyen à 75,6 €/MWh le 9 octobre, moyenne mensuelle en hausse de 14,8%",
+    "url": "https://opera-energie.com/prix-spot-electricite/"
+  },
+  {
+    "date": "2026-10-10",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Samsung prévoit un bénéfice trimestriel record porté par la demande en mémoire pour l'IA",
+    "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
   }
 ]
