@@ -678,5 +678,21 @@
     "date_envoi": "2026-10-11",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-de-programmes-numeriques-transverses-fh-reference-2026-2365635/",
+    "titre": "Directeur de programmes numériques transverses F/H",
+    "entreprise": "Direction du Numérique (DNUM) - Secrétariat général des ministères économiques et financiers, État",
+    "date_envoi": "2026-10-12",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://jobs.finopsweekly.com/?p=502",
+    "titre": "Data Engineering Director",
+    "entreprise": "Client confidentiel (grande entreprise internationale) — recrutement via Upward",
+    "date_envoi": "2026-10-12",
+    "candidature_preparee": true,
+    "contact_email": "contact@groupe-upward.fr"
   }
 ]
