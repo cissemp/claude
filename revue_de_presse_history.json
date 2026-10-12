@@ -1,125 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "theme": "Actualités Internationales",
-    "titre": "Éthiopie : combats dans l'Afar après la prise de l'aéroport de Mekele par le TPLF",
-    "url": "https://fr.euronews.com/video/2026/09/27/linfo-du-jour-27-septembre-2026-matin"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités Internationales",
-    "titre": "Gaza : le Premier ministre qatari accuse Netanyahu d'être le « plus grand obstacle » au plan de paix",
-    "url": "https://www.haaretz.com/gaza/2026-09-26/ty-article/netanyahu-is-biggest-obstacle-to-gaza-cease-fire-qatari-pm-tells-cnn/000001a0-de80-d259-a3b4-de985f360000"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités Internationales",
-    "titre": "Golfe : l'Iran tire des missiles anti-navires près d'Ormuz, Israël frappe le Hezbollah au Liban",
-    "url": "https://www.jpost.com/middle-east/iran-news/2026-09-26/live-updates-909755"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : un adolescent israélien tué dans une frappe de drone russe sur Kyiv",
-    "url": "https://www.timesofisrael.com/israeli-teen-killed-in-russian-drone-attack-on-kyiv-apartment-building/"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités Internationales",
-    "titre": "Philippines : la défense de Duterte demande à la CPI de réduire les preuves de 62 000 à 10 000 éléments",
-    "url": "https://www.philstar.com/headlines/2026/09/27/2559209/duterte-camp-seeks-cap-evidence"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités France",
-    "titre": "Élections sénatoriales : renouvellement de la moitié du Sénat",
-    "url": "https://www.franceinfo.fr/elections/senatoriales/direct-elections-senatoriales-2026-suivez-le-vote-des-grands-electeurs-et-les-premiers-resultats-du-scrutin_8206589.html"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités France",
-    "titre": "Visite du pape Léon XIV : messe géante aux Champs-Élysées devant 600 000 fidèles",
-    "url": "https://www.pape-france.fr/evenements/messe-champs-elysees-concorde/"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités France",
-    "titre": "Clermont-Ferrand : un automobiliste fonce dans une manifestation pour le climat, plusieurs blessés",
-    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/une-voiture-fonce-sur-la-foule-lors-de-la-manifestation-pour-le-climat-a-clermont-ferrand-plusieurs-personnes-blessees-3423653.html"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités France",
-    "titre": "Finistère : un surfeur meurt au large de la plage de Penhors",
-    "url": "https://www.ici.fr/bretagne/finistere-29/pouldreuzic/dans-le-finistere-un-surfeur-est-mort-au-large-de-penhors-7949499"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Actualités France",
-    "titre": "Arras : Logan Poirson remporte le championnat du monde de la frite 2026",
-    "url": "https://www.ici.fr/hauts-de-france/pas-de-calais-62/arras/arras-logan-poirson-remporte-le-championnat-du-monde-de-la-frite-2026-4413524"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "République de Guinée",
-    "titre": "Décès à Paris de l'ancien Premier ministre et opposant Sidya Touré",
-    "url": "https://guineenews.org/2026/09/26/paris-deces-de-lancien-premier-ministre-sidya-toure/"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "République de Guinée",
-    "titre": "CAN 2027 : le Syli national s'incline 2-1 face à l'Afrique du Sud",
-    "url": "https://guineematin.com/2026/09/26/eliminatoires-can-2027-la-guinee-sincline-face-a-lafrique-du-sud-pour-son-entree-en-lice/"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "République de Guinée",
-    "titre": "Le marché de Madina se pare aux couleurs de la fête nationale avant le 2 octobre",
-    "url": "https://guineematin.com/2026/09/26/preparatifs-du-2-octobre-le-marche-de-madina-aux-couleurs-de-la-fete-nationale/"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : le gazole à 2,398 €/L en moyenne le 26 septembre",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-samedi-26-septembre-2026"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot moyen à 148,2 €/MWh le 26 septembre (-8,2%)",
-    "url": "https://www.fournisseurs-electricite.com/contrat-electricite/prix/spot"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : le Brent recule à 104,32$/baril le 26 septembre",
-    "url": "https://www.lapresse.tn/2026/09/26/petrole-le-baril-de-brent-a-10432-dollars/"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "xAI : Elon Musk vise un doublement des puces Nvidia de Colossus 2 d'ici fin d'année",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/elon-musk-aims-to-double-colossus-2-s-nvidia-chips-by-year-end"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "OpenAI révèle une vingtaine d'incidents d'agents IA ayant contourné des contrôles de sécurité",
-    "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Les startups françaises lèvent 114 M€ en une semaine, dont 90 M€ dans l'IA",
-    "url": "https://www.maddyness.com/2026/09/25/les-startups-francaises-ont-leve-114-millions-deuros-cette-semaine-dont-90-millions-dans-lia/"
-  },
-  {
-    "date": "2026-09-27",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Claude Opus 5.5 reconstruit Prince of Persia en réutilisant la routine DOS originale",
-    "url": "https://aiweekly.co/ai-news-today"
-  },
-  {
     "theme": "Actualités Internationales",
     "titre": "Vučić démissionne, la Serbie vers des élections anticipées",
     "url": "https://www.aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests",
@@ -1630,5 +1510,53 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Upscale lance Token Fabric, architecture réseau ouverte pour GPU",
     "url": "https://www.actuia.com/veille/2026-10-09/"
+  },
+  {
+    "date": "2026-10-12",
+    "theme": "Actualités Internationales",
+    "titre": "Trump annonce un cessez-le-feu énergétique immédiat entre la Russie et l'Ukraine, frappes russes rapportées malgré l'annonce",
+    "url": "https://euronews.com/2026/10/12/energy-ceasefire-confusion-in-kyiv-support-from-allies-silence-from-moscow-and-fresh-strik"
+  },
+  {
+    "date": "2026-10-12",
+    "theme": "Actualités Internationales",
+    "titre": "Zelensky se dit prêt à une désescalade réciproque sur les sites énergétiques",
+    "url": "https://www.france24.com/fr/europe/20261011-sites-%C3%A9nerg%C3%A9tiques-zelensky-pr%C3%AAt-d%C3%A9sescalade-russie-ukraine-r%C3%A9ciproque-trump"
+  },
+  {
+    "date": "2026-10-12",
+    "theme": "Actualités Internationales",
+    "titre": "Nouvelle frappe houthie sur l'aéroport de Riyad, missile balistique intercepté le lendemain",
+    "url": "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
+  },
+  {
+    "date": "2026-10-12",
+    "theme": "Actualités France",
+    "titre": "Raphaël Glucksmann remporte la primaire de la gauche sociale-démocrate dès le premier tour avec 66,17% des voix",
+    "url": "https://www.france24.com/fr/france/20261011-glucksmann-largement-%C3%A9lu-candidat-de-la-gauche-sociale-d%C3%A9mocrate-pour-la-pr%C3%A9sidentielle-france"
+  },
+  {
+    "date": "2026-10-12",
+    "theme": "Actualités France",
+    "titre": "Le Mondial de l'Auto 2026 ouvre à Paris, inauguré par Macron qui défend une préférence européenne",
+    "url": "https://www.france24.com/fr/info-en-continu/20261012-inaugur%C3%A9-par-macron-un-mondial-de-l-auto-pour-d%C3%A9fendre-l-industrie-europ%C3%A9enne"
+  },
+  {
+    "date": "2026-10-12",
+    "theme": "République de Guinée",
+    "titre": "La Banque mondiale prévoit une croissance guinéenne de 8,8% en 2026 et 11,6% en 2027 grâce à Simandou",
+    "url": "https://www.guinee7.com/2026/10/10/banque-mondiale-guinee-croissance-2025-simandou-emplois/"
+  },
+  {
+    "date": "2026-10-12",
+    "theme": "République de Guinée",
+    "titre": "Bah Oury annonce une réforme pour réduire le coût des infrastructures routières en Guinée",
+    "url": "https://www.africaguinee.com/cout-eleve-des-infrastructures-en-guinee-bah-oury-tape-du-poing-sur-la-table-et-annonce-de-grandes-reformes/"
+  },
+  {
+    "date": "2026-10-12",
+    "theme": "République de Guinée",
+    "titre": "Mandiana : un jeune homme accusé d'avoir tué son père se remet à la justice",
+    "url": "https://guineematin.com/2026/10/11/mandiana-un-jeune-homme-accuse-davoir-tue-son-pere-avec-un-fusil-remis-a-la-justice"
   }
 ]
