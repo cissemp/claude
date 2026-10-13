@@ -1,131 +1,5 @@
 [
   {
-    "theme": "Actualités Internationales",
-    "titre": "Vučić démissionne, la Serbie vers des élections anticipées",
-    "url": "https://www.aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités Internationales",
-    "titre": "L'Éthiopie au bord d'une nouvelle guerre civile au Tigré",
-    "url": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités Internationales",
-    "titre": "Le Soudan sous les frappes malgré la pression pour un cessez-le-feu",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/09/27/strikes-hit-sudan-cities-as-army-chief-remains-defiant-after-us-visa-snub",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités Internationales",
-    "titre": "Deux fusillades meurtrières secouent l'Afrique du Sud",
-    "url": "https://www.france24.com/en/africa/20260927-gunmen-kill-27-people-in-separate-mass-shootings-in-south-africa",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités Internationales",
-    "titre": "Madrid, épicentre d'une contestation contre la crise du logement",
-    "url": "https://www.pbs.org/newshour/world/eviction-of-87-year-old-sparks-encampment-protest-in-madrid-over-housing-crisis",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Le RN forme pour la première fois un groupe au Sénat",
-    "url": "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-le-rn-reussit-a-constituer-un-groupe-au-senat-pour-la-premiere-fois-de-son-histoire_8212448.html",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Grève du 29 septembre : test politique pour Lecornu",
-    "url": "https://www.politiquematin.fr/greve-29-septembre-pourquoi-lecornu-joue-gros-face-syndicats",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Une femme tuée à coups de couteau à Courbevoie",
-    "url": "https://policeetrealites.com/2026/09/27/jai-entendu-ses-hurlements-une-femme-meurt-apres-avoir-ete-poignardee-a-des-dizaines-de-reprises-a-la-defense-deux-hommes-interpelles/",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Fusillade sur la terrasse d'un restaurant à Vénissieux",
-    "url": "https://policeetrealites.com/2026/09/27/venissieux-fusillade-sur-la-terrasse-dun-restaurant-trois-blesses-dont-un-avec-le-pronostic-vital-engage/",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Actualités France",
-    "titre": "Macron assiste finalement à la messe du pape Léon XIV à Metz",
-    "url": "https://www.jeanmarcmorandini.com/article-653279-en-direct-pape-en-france-revirement-de-derniere-minute-avec-emmanuel-macron-qui-assistera-finalement-aujourd-hui-a-la-messe-celebree-par-le-pape-leon-xiv-a-la-cathedrale-saint-etienne-de-metz.html",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "République de Guinée",
-    "titre": "Sidya Touré sera inhumé à Abidjan",
-    "url": "https://www.guinee7.com/2026/09/27/sidya-toure-inhumation-abidjan/",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "République de Guinée",
-    "titre": "La Guinée émet un emprunt obligataire de 2 500 milliards GNF pour Simandou 2040",
-    "url": "https://www.guinee360.com/27/09/2026/guinee-letat-sollicite-2-500-milliards-gnf-pour-financer-les-investissements-de-simandou-2040",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "République de Guinée",
-    "titre": "Rentrée scolaire : négociations État-syndicats de la dernière chance",
-    "url": "https://www.guinee360.com/26/09/2026/rentree-scolaire-en-guinee-negociations-de-la-derniere-chance-entre-letat-et-les-syndicats",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Énergie & ENEDIS",
-    "titre": "EDF veut assouplir les normes de température des fleuves",
-    "url": "https://www.europe1.fr/environnement/nucleaire-edf-veut-revoir-les-normes-de-temperature-des-fleuves-face-au-rechauffement-climatique-1103876",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Énergie & ENEDIS",
-    "titre": "Les prix de l'électricité à un sommet historique fin septembre",
-    "url": "https://www.wattvalue.fr/lactu-du-marche-de-lelectricite-et-du-gaz-du-28-09-2026/",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "Énergie & ENEDIS",
-    "titre": "Inauguration du parc solaire du Chênet dans la Marne",
-    "url": "https://tecsol-quotidien.fr/a-sapignicourt-et-hauteville-51-q-energy-a-inaugure-le-parc-solaire-chenet-et-ouvert-ses-portes-aux-habitants/",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "OpenAI suspend l'entraînement après des dérapages d'agents IA",
-    "url": "https://www.usnews.com/news/business/articles/2026-09-26/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google intègre l'achat direct Flipkart dans Gemini",
-    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'Australie somme Altman et Amodei de s'expliquer",
-    "url": "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "KT décroche la 2e place mondiale en routage de modèles IA",
-    "url": "https://en.sedaily.com/technology/2026/09/28/kts-ai-model-routing-technology-ranks-second-globally",
-    "date": "2026-09-28"
-  },
-  {
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "La Chine envisage de rouvrir la porte aux puces Nvidia",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
-    "date": "2026-09-28"
-  },
-  {
     "date": "2026-09-29",
     "theme": "Actualités Internationales",
     "titre": "Royaume-Uni : cinq hommes arrêtés pour soupçons de terrorisme près de la base aérienne de RAF Fairford",
@@ -1558,5 +1432,143 @@
     "theme": "République de Guinée",
     "titre": "Mandiana : un jeune homme accusé d'avoir tué son père se remet à la justice",
     "url": "https://guineematin.com/2026/10/11/mandiana-un-jeune-homme-accuse-davoir-tue-son-pere-avec-un-fusil-remis-a-la-justice"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités Internationales",
+    "titre": "Canada : Carney appelle à l'unité avant le référendum albertain",
+    "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités Internationales",
+    "titre": "Inde : l'opposition marche sur la Cour suprême contre la révision des listes électorales",
+    "url": "https://www.france24.com/en/live-news/20261012-thousands-march-in-india-s-capital-to-demand-election-chief-resign"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités Internationales",
+    "titre": "Taïwan : la Chine sanctionne des ministres du Paraguay et du Belize",
+    "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités Internationales",
+    "titre": "Espagne : Sánchez convoque des élections anticipées, l'extrême droite en embuscade",
+    "url": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités Internationales",
+    "titre": "Mexique : l'ouragan Simon menace la côte Pacifique",
+    "url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités France",
+    "titre": "Fusillade dans un collège à Aubagne",
+    "url": "https://www.franceinfo.fr/faits-divers/un-suspect-de-14-ans-un-principal-et-une-professeure-blesses-ce-que-l-on-sait-des-tirs-par-arme-a-feu-dans-un-college-d-aubagne_8233699.html"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités France",
+    "titre": "Le marché des Enfants Rouges détruit par un incendie",
+    "url": "https://www.franceinfo.fr/faits-divers/incendie/le-marche-des-enfants-rouges-a-paris-ravage-par-les-flammes-annonce-la-mairie_8233399.html"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités France",
+    "titre": "Cyberattaque inédite contre les frigos de supermarchés français",
+    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités France",
+    "titre": "Gazole : TotalEnergies annonce une baisse de prix dès novembre",
+    "url": "https://entrevue.fr/consommation/carburants-totalenergies-promet-jusqua-12-centimes-de-baisse-sur-le-gazole/"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : le gouvernement fragilisé à la veille des débats",
+    "url": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "République de Guinée",
+    "titre": "Élections régionales et sénatoriales : les dates fixées",
+    "url": "https://www.guinee360.com/12/10/2026/guinee-les-elections-regionales-et-senatoriales-fixees"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "République de Guinée",
+    "titre": "CRIEF : trois dossiers d'anciens hauts responsables relancés",
+    "url": "https://www.guinee360.com/12/10/2026/crief-les-dossiers-de-trois-anciens-hauts-responsables-de-retour-au-premier-plan"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "République de Guinée",
+    "titre": "Conakry : des commerçantes du marché de Kissosso protestent",
+    "url": "https://guineematin.com/2026/10/12/kissosso-conakry-des-vendeuses-en-colere-manifestent-contre-la-gestion-du-marche/"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "République de Guinée",
+    "titre": "Petit-Simbaya : deux corps découverts dans une voiture",
+    "url": "https://guineematin.com/2026/10/12/conakry-les-corps-dun-homme-et-dune-femme-retrouves-dans-une-voiture-a-petit-simbaya"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya à bord du TransGuinéen avec le comité Simandou",
+    "url": "https://www.guinee360.com/12/10/2026/mamadi-doumbouya-le-train-de-lavenir-est-en-marche-rien-ne-larretera"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Flambée du prix spot de l'électricité le 11 octobre",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-11"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Le gaz matière première grimpe de 17% en octobre, stocks bien remplis",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-11"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Carburants : le gazole quasi stable le 11 octobre",
+    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-dimanche-11-octobre-2026"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Meta lance Muse Wonder, son IA payante",
+    "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Nadella réclame un « frein d'urgence » pour l'IA",
+    "url": "https://telanganatoday.com/nadella-calls-for-ai-emergency-brake-warns-firms-against-trusting-advanced-models-blindly"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Anthropic renforce ses défenses contre le vol de Claude",
+    "url": "https://whtc.com/2026/10/12/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks/"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Microsoft appelle à une régulation mondiale de l'IA",
+    "url": "https://www.foxnews.com/live-news/ai-news-microsoft-rules-safety-10-12"
+  },
+  {
+    "date": "2026-10-13",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Le FMI souligne le rôle moteur mais inégal de l'IA",
+    "url": "https://www.boursorama.com/bourse/actualites/l-ia-soutient-la-croissance-mondiale-mais-guerres-et-dette-assombrissent-l-horizon-fmi-a8f8a9763323e2bb417c35df4f4b2df7"
   }
 ]
