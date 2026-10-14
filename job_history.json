@@ -710,5 +710,29 @@
     "date_envoi": "2026-10-13",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/82086291.html",
+    "titre": "Directeur de Business Unit Data & IA",
+    "entreprise": "Client confidentiel (cabinet de conseil Data & IA) — recrutement par Skaelia",
+    "date_envoi": "2026-10-14",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/82086292.html",
+    "titre": "Responsable Practice Data - IA",
+    "entreprise": "Client confidentiel (cabinet de conseil Data & IA) — recrutement par Skaelia",
+    "date_envoi": "2026-10-14",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://jobs.lever.co/theodo/62702f9d-23ff-4e38-aeaa-b7af5327c74a",
+    "titre": "CTO Cloud",
+    "entreprise": "Theodo Cloud",
+    "date_envoi": "2026-10-14",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
