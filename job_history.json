@@ -734,5 +734,21 @@
     "date_envoi": "2026-10-14",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-adjointe-des-systemes-d-information---cdi-reference-2026-2286920/",
+    "titre": "Directeur / Directrice adjoint(e) des Systèmes d'Information",
+    "entreprise": "Télécom Paris (IMT)",
+    "date_envoi": "2026-10-15",
+    "candidature_preparee": true,
+    "contact_email": "recrutement@telecom-paris.fr"
+  },
+  {
+    "url": "https://lesjeudis.com/jobs/data-or-big-data-jobs/184015",
+    "titre": "Head of Data",
+    "entreprise": "BeReal (Voodoo)",
+    "date_envoi": "2026-10-15",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
