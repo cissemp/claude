@@ -1,149 +1,5 @@
 [
   {
-    "date": "2026-09-30",
-    "theme": "Actualités Internationales",
-    "titre": "Moldavie : le parti pro-européen de Maia Sandu remporte les législatives face au bloc pro-russe",
-    "url": "https://www.franceinfo.fr/monde/europe/legislatives-en-moldavie-le-parti-pro-europeen-pas-remporte-le-scrutin-avec-plus-de-50-des-voix-selon-les-resultats-officiels_7520746.html"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : une frappe de drones russes sur l'Académie des sciences de Kyiv fait au moins 9 morts",
-    "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités Internationales",
-    "titre": "Irak : les forces américaines achèvent leur retrait de leurs dernières bases",
-    "url": "https://www.usnews.com/news/world/articles/2026-09-29/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités Internationales",
-    "titre": "Malouines : l'Argentine de Milei menace le Royaume-Uni d'un recours en arbitrage international",
-    "url": "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités Internationales",
-    "titre": "Europe en alerte face à l'intensification de la guerre hybride russe",
-    "url": "https://www.npr.org/2026/09/29/nx-s1-5980099/europe-on-edge-from-threats-of-russias-growing-escalation-can-nato-defend-itself"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités France",
-    "titre": "Le RN visé par des révélations sur des écrits antisémites attribués à Jordan Bardella",
-    "url": "https://www.france24.com/fr/france/20260929-france-accusations-antisemitisme-rassemblement-national-lance-contre-attaque-jordan-bardella-marine-le-pen"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités France",
-    "titre": "Bilan chiffré de la mobilisation du 29 septembre : jusqu'à 300 000 manifestants selon la CGT",
-    "url": "https://www.franceinfo.fr/economie/greve/direct-greve-dans-la-fonction-publique-plus-de-170-manifestations-attendues-dans-toute-la-france-ce-mardi_8214257.html"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités France",
-    "titre": "La dette publique française atteint un niveau record de 119% du PIB au 2e trimestre 2026",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/france-la-dette-publique-s-etablit-a-119-0-du-pib-au-t2-insee-5ee8aba17564d618b4615808a17c689f"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités France",
-    "titre": "Vigilance orange orages et inondations dans le Gard, l'Hérault et la Lozère",
-    "url": "https://www.cnews.fr/france/2026-09-29/orages-voici-les-4-departements-places-en-vigilance-orange-ce-mercredi-1926295"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Actualités France",
-    "titre": "Macron entame une visite d'État en Espagne, première d'un président français depuis 2009",
-    "url": "https://www.france24.com/fr/europe/20260928-emmanuel-macron-entame-une-visite-d-%C3%A9tat-en-espagne-pour-rehausser-les-relations"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "République de Guinée",
-    "titre": "Fonction publique : lancement d'un concours de recrutement 2026-2027 territorialisé et digitalisé",
-    "url": "https://guineenews.org/2026/09/29/fonction-publique-le-gouvernement-annonce-un-concours-entierement-territorialise-et-digitalise-pour-renforcer-la-transparence/"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "République de Guinée",
-    "titre": "Usage des gyrophares et avertisseurs sonores désormais strictement encadré",
-    "url": "https://www.guinee360.com/29/09/2026/guinee-lusage-des-gyrophares-et-avertisseurs-sonores-desormais-strictement-encadre"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "République de Guinée",
-    "titre": "Fête du 2 octobre : dispositif exceptionnel de circulation à Kaloum",
-    "url": "https://www.guinee7.com/2026/09/28/fete-du-2-octobre-la-circulation-fortement-encadree-a-kaloum-des-ce-mardi/"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "République de Guinée",
-    "titre": "Conakry : campagne judiciaire contre le déversement d'ordures, condamnations au TPI de Dixinn",
-    "url": "https://www.guinee360.com/29/09/2026/deversement-dordures-le-parquet-de-dixinn-annonce-des-poursuites-et-rappelle-les-sanctions-prevues-par-la-loi"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Gazole : recul léger à 2,374 €/L en moyenne nationale le 30 septembre",
-    "url": "https://mon-carburant.com/prix-moyen-carburant-france/"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : le prix spot retombe à 166,8 €/MWh le 29 septembre (-18,2%)",
-    "url": "https://www.wattvalue.fr/lactu-du-marche-de-lelectricite-et-du-gaz-du-29-09-2026/"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : le Brent grimpe à 105,31 $/baril le 29 septembre",
-    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Tarif réglementé du gaz : +6,3% au 1er octobre, à 182,88 €/MWh TTC",
-    "url": "https://www.cnews.fr/france/2026-09-28/prix-du-gaz-prime-carburant-franchises-medicales-tout-ce-qui-change-au-1er"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Gaz : le contrat PEG Année 2027 grimpe à 54,37 €/MWh le 29 septembre",
-    "url": "https://www.wattvalue.fr/lactu-du-marche-de-lelectricite-et-du-gaz-du-29-09-2026/"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "AMD rachète World Labs, la startup de Fei-Fei Li, pour 8,2 Md$",
-    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Le prospectus d'IPO d'Anthropic vise une valorisation de plus de 2000 Md$",
-    "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "La startup d'agents IA Instinct lève 1 Md$ en série C, valorisée 10 Md$",
-    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Des dirigeants de la tech signent à la Maison Blanche un accord volontaire sur la superintelligence",
-    "url": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump"
-  },
-  {
-    "date": "2026-09-30",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "OpenAI viserait 30 Md$ de levée de fonds à 1400 Md$ de valorisation",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value"
-  },
-  {
     "date": "2026-10-01",
     "theme": "Actualités Internationales",
     "titre": "Au Maroc, Fatima Ezzahra El Mansouri devient la première femme à diriger le gouvernement",
@@ -1504,5 +1360,155 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Une plainte antitrust accuse Anthropic, OpenAI, Google et SpaceXAI d'avoir coordonné un ralentissement de l'IA",
     "url": "https://kulturegeek.fr/news-359793/plainte-anthropic-openai-google-spacexai-ralentissement-ia"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : frappe russe sur la centrale CHP-4 de Kyiv, 600 000 personnes privées d'électricité",
+    "url": "https://www.euronews.com/2026/10/14/russian-missile-hits-kyiv-power-plant-with-no-early-warning-from-allies-zelensky-says"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités Internationales",
+    "titre": "Arabie saoudite : un missile houthi frappe le QG historique d'Aramco à Dhahran",
+    "url": "https://www.thenationalnews.com/business/energy/2026/10/14/houthi-attack-hits-aramcos-historic-nerve-centre-in-saudi-arabia/"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités Internationales",
+    "titre": "États-Unis : Kimberly Guilfoyle démissionne de son poste d'ambassadrice en Grèce",
+    "url": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités Internationales",
+    "titre": "Allemagne : procès Nord Stream, un ex-officier ukrainien jugé à Hambourg",
+    "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités Internationales",
+    "titre": "Russie-Japon : un journaliste japonais arrêté pour espionnage présumé",
+    "url": "https://www.euronews.com/2026/10/14/russia-arrests-japanese-hokkaido-shimbun-journalist-on-suspicion-of-spying"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : Lecornu met en garde contre le « cauchemar » budgétaire du RN pour les collectivités",
+    "url": "https://lesinguliersete.fr/lecornu-previent-que-le-programme-budgetaire-du-rn-vire-au-cauchemar/"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités France",
+    "titre": "Présidentielle 2027 : Natacha Polony officialise sa candidature",
+    "url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités France",
+    "titre": "France-Tchad : Macron et Déby Itno signent une déclaration d'intention militaire",
+    "url": "https://fr.allafrica.com/stories/202610140407.html"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités France",
+    "titre": "PLFSS 2027 : les députés votent l'extension de la « taxe soda » aux produits sucrés transformés",
+    "url": "https://www.franceinfo.fr/economie/budget/les-deputes-favorables-a-l-extension-de-la-taxation-des-aliments-sucres-lors-des-premiers-debats-sur-le-budget_8238067.html"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Actualités France",
+    "titre": "Inflation : l'Insee confirme une hausse de 3 % sur un an en septembre",
+    "url": "https://www.insee.fr/fr/statistiques/9056956"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "République de Guinée",
+    "titre": "Grâce présidentielle : 312 détenus graciés par Mamadi Doumbouya",
+    "url": "https://mediaguinee.com/2026/10/guinee-312-detenus-gracies-par-mamadi-doumbouya-sous-condition-dun-stage-de-30-jours"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "République de Guinée",
+    "titre": "Diplomatie : Mohamed Keïta nommé ambassadeur de Guinée en Russie",
+    "url": "https://mediaguinee.com/2026/10/diplomatie-le-president-doumbouya-nomme-mohamed-keita-ambassadeur-de-la-guinee-en-russie-decret"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "République de Guinée",
+    "titre": "Un séisme de magnitude 6,9 détecté au large de la Guinée, Conakry non menacée",
+    "url": "https://www.guinee7.com/2026/10/14/seisme-au-large-de-la-guinee-voici-pourquoi-conakry-nest-pas-menacee/"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "République de Guinée",
+    "titre": "FDSI : le directeur général Lansana Diawara placé sous mandat de dépôt",
+    "url": "https://www.lerenifleur224.com/2026/10/14/guinee-le-directeur-general-du-fdsi-lansana-diawara-place-sous-mandat-de-depot/"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "République de Guinée",
+    "titre": "Éducation : les enseignants contractuels de Conakry dénoncent une « trahison » syndicale",
+    "url": "https://www.guinee7.com/2026/10/14/education-les-contractuels-de-conakry-denoncent-une-trahison-et-desertent-les-classes/"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : le prix spot bondit à 191 €/MWh le 14 octobre (+12,8 %)",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-14"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Nucléaire : arrêt automatique d'un réacteur à la centrale EDF de Golfech",
+    "url": "https://www.edf.fr/la-centrale-nucleaire-de-golfech/les-actualites-de-la-centrale-nucleaire-de-golfech/arret-automatique-du-reacteur-de-l-unite-de-production-ndeg2"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Maintenance nucléaire : le PNF perquisitionne des prestataires d'EDF",
+    "url": "https://rtenfrancais.tv/france/138975-maintenance-nucleaire-france-pnf-perquisitionne-entreprises-soup%C3%A7onnees-entente-corruption"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Renault prévoit 25 % de production électrique supplémentaire, un défi énergétique pour ses usines",
+    "url": "https://lenergeek.com/2026/10/14/renault-production-electrique-consommation-energie-usines/"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Carburants : le gazole stable à 2,358 €/L le 14 octobre",
+    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mercredi-14-octobre-2026"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "L'Union européenne ouvre ses premières enquêtes au titre de l'AI Act contre OpenAI et Anthropic",
+    "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Un ingénieur saoudien d'OpenAI arrêté par le FBI pour avoir dissimulé un micro espion",
+    "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI poursuivie par huit États américains sur la sécurité des mineurs",
+    "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "L'IA a gagné les marchés mais perd la confiance de l'opinion mondiale",
+    "url": "https://legrandcontinent.eu/fr/2026/10/15/intelligence-artificielle-inverser-lerosion-de-la-confiance/"
+  },
+  {
+    "date": "2026-10-15",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Sommet OCP de San Jose : xFusion présente ses infrastructures de refroidissement pour l'IA",
+    "url": "https://enerzine.com/xfusion-detaille-ses-solutions-dinfrastructure-ia-a-locp-2026/197190-2026-10"
   }
 ]
