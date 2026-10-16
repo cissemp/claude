@@ -1,137 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "theme": "Actualités Internationales",
-    "titre": "Au Maroc, Fatima Ezzahra El Mansouri devient la première femme à diriger le gouvernement",
-    "url": "https://www.france24.com/fr/afrique/20260929-maroc-fatima-ezzahra-el-mansouri-devient-premi%C3%A8re-femme-premi%C3%A8re-ministre"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Actualités Internationales",
-    "titre": "Un vol Flydubai dérouté vers l'Arabie saoudite après qu'un pilote a été poignardé par son copilote",
-    "url": "https://www.cnews.fr/monde/2026-09-30/vol-flydubai-deroute-en-arabie-saoudite-acte-terroriste-pilote-poignarde-deuxieme"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Actualités Internationales",
-    "titre": "L'éruption du volcan Etna paralyse l'aéroport de Catane en Sicile",
-    "url": "https://lepetitjournal.com/milan/actualites/volcan-etna-eruption-paralyse-sicile-454651"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Actualités Internationales",
-    "titre": "La coalition internationale achève sa mission de 12 ans contre l'État islamique en Irak",
-    "url": "https://fr.euronews.com/2026/10/01/irak-la-coalition-menee-par-les-etats-unis-acheve-sa-mission-contre-letat-islamique-sur-fo"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Actualités France",
-    "titre": "Lecornu présente son budget de redressement pour 2027, 54 Md€ d'économies",
-    "url": "https://fr.finance.yahoo.com/actualites/crise-financi%C3%A8re-s%C3%A9bastien-lecornu-pr%C3%A9sentera-151550985.html"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Actualités France",
-    "titre": "L'inflation en France grimpe à 3% sur un an en septembre",
-    "url": "https://www.journaldunet.com/business/1555633-l-inflation-atteint-3-sur-un-an-en-septembre-2026-portee-par-la-hausse-des-prix-de-l-energie-et-des-produits-frais/"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Actualités France",
-    "titre": "PLFSS 2027 : désindexation partielle des pensions de retraite supérieures à 1260€",
-    "url": "https://www.contexte.com/fr/actualite/sante/le-plfss-finalement-presente-le-1er-octobre_277539"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Actualités France",
-    "titre": "Darnaud (LR) et Kanner (PS) reconduits à la tête de leurs groupes au Sénat",
-    "url": "https://www.publicsenat.fr/actualites/politique/mathieu-darnaud-reconduit-a-la-tete-du-groupe-lr-du-senat"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya crée par décret l'École de guerre de Guinée",
-    "url": "https://www.guinee360.com/30/09/2026/guinee-mamadi-doumbouya-cree-une-ecole-de-guerre"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "République de Guinée",
-    "titre": "Conseil des ministres : consignes sur la rentrée scolaire et la politique nationale de l'emploi",
-    "url": "https://www.exclusif.net/Communique-du-conseil-des-ministres-du-Mercredi-30-Septembre-2026_a66386.html"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "République de Guinée",
-    "titre": "Le Syli national affronte le Kenya au Stade du 28 Septembre pour les éliminatoires CAN 2027",
-    "url": "https://www.guinee7.com/2026/09/23/stade-28-septembre-renovation-guicopres-btp-syli-national-kenya/"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "République de Guinée",
-    "titre": "Boké mobilise 150 délégués pour le défilé du 2 octobre à Conakry",
-    "url": "https://agpguinee.com/boke-vers-le-02-octobre-2026-la-region-prepare-activement-sa-participation-au-grand-defile-national/"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "République de Guinée",
-    "titre": "Conakry : Seydouba Soumah relaxé après un mois de détention pour des propos tenus dans un taxi",
-    "url": "https://guineematin.com/2026/09/30/conakry-juge-pour-des-propos-tenus-dans-un-taxi-seydouba-soumah-declare-non-coupable/"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot moyen à 202,33 €/MWh le 1er octobre (+37,8%)",
-    "url": "https://prix-elec.com/electricite/prix-spot"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : le Brent recule à 96,76$/baril le 1er octobre (-1,3%)",
-    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Enedis va modifier les horaires d'heures creuses de 9,3 millions de clients",
-    "url": "https://selectra.info/energie/actualites/marche/heures-creuses-changement-horaires-9-millions"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "Énergie & ENEDIS",
-    "titre": "4400 foyers testent une nouvelle grille tarifaire heures de pointe hiver dès le 1er octobre",
-    "url": "https://selectra.info/energie/actualites/marche/grille-tarifaire-testee-4400-foyers-octobre"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google annonce Gemini 4 Argon, modèle IA à accès restreint",
-    "url": "https://intelligence-artificielle.developpez.com/actu/387751/Google-annonce-le-modele-d-IA-de-pointe-Gemini-4-Argon-qui-reprend-la-tete-des-classements-face-a-OpenAI-et-Anthropic-mais-n-est-pas-encore-accessible-au-grand-public-en-raison-de-tests-de-securite/"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Audience sur la demande d'OpenAI de rejeter la plainte d'Apple pour vol de secrets industriels",
-    "url": "https://www.courtlistener.com/docket/73602437/apple-inc-v-liu/"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'action Nvidia bondit après la demande de puces Vera CPU et un rachat d'actions de 150 Md$",
-    "url": "https://invezz.com/news/2026/09/30/why-is-nvidia-stock-rising-on-wednesday/"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "OpenAI lance Dots et GPT-6.1 Sol après avoir renoncé à Astra",
-    "url": "https://www.cryptointegrat.com/p/ai-news-september-30-2026"
-  },
-  {
-    "date": "2026-10-01",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Le prestataire Shipup subit une fuite de données affectant des clients Carrefour",
-    "url": "https://frenchbreaches.com/"
-  },
-  {
     "date": "2026-10-02",
     "theme": "Actualités Internationales",
     "titre": "Taïwan reçoit ses deux premiers avions de combat F-16V face à la Chine",
@@ -1510,5 +1378,35 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Sommet OCP de San Jose : xFusion présente ses infrastructures de refroidissement pour l'IA",
     "url": "https://enerzine.com/xfusion-detaille-ses-solutions-dinfrastructure-ia-a-locp-2026/197190-2026-10"
+  },
+  {
+    "date": "2026-10-16",
+    "theme": "Actualités Internationales",
+    "titre": "Sommet européen à Bruxelles (15-16 octobre) : soutien à l'Ukraine, flambée des prix de l'énergie et budget 2028-2034",
+    "url": "https://fr.euronews.com/video/2026/10/15/linfo-du-jour-15-octobre-2026-matin"
+  },
+  {
+    "date": "2026-10-16",
+    "theme": "Actualités Internationales",
+    "titre": "Pakistan : effondrement du toit d'une école à Peshawar, plusieurs dizaines d'enfants tués",
+    "url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday"
+  },
+  {
+    "date": "2026-10-16",
+    "theme": "Actualités Internationales",
+    "titre": "Vatican : le pape Léon XIV a passé une « bonne nuit » après son opération pulmonaire",
+    "url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-evening"
+  },
+  {
+    "date": "2026-10-16",
+    "theme": "Actualités France",
+    "titre": "Mobilisation lycéenne : nouvelles violences à Paris lors d'un rassemblement de lycéens et d'étudiants",
+    "url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-evening"
+  },
+  {
+    "date": "2026-10-16",
+    "theme": "République de Guinée",
+    "titre": "OGP : Mamadi Doumbouya nomme Mohamed Bangoura « Banks » directeur général",
+    "url": "https://www.guinee360.com/15/10/2026/ogp-mohamed-bangoura-nomme-directeur-general"
   }
 ]
