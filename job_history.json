@@ -750,5 +750,21 @@
     "date_envoi": "2026-10-15",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/O093260617000376/",
+    "titre": "Un Directeur adjoint ou une Directrice adjointe Data et IA (15753-26)",
+    "entreprise": "Région Île-de-France (Conseil régional)",
+    "date_envoi": "2026-10-17",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-du-pole-securite-si-rssi-fh-reference-APHP_2026-22556/",
+    "titre": "Directeur du pôle sécurité SI (RSSI) F/H",
+    "entreprise": "AP-HP (Siège)",
+    "date_envoi": "2026-10-17",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
