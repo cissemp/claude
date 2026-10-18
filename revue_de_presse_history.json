@@ -1,83 +1,5 @@
 [
   {
-    "date": "2026-10-03",
-    "theme": "Actualités Internationales",
-    "titre": "Les frappes russes visent un pont stratégique à Kiev, paralysant la circulation",
-    "url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-evening"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Actualités Internationales",
-    "titre": "Sánchez n'exclut plus des élections anticipées après le rejet de ses décrets logement",
-    "url": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-morning"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Actualités Internationales",
-    "titre": "L'épidémie d'Ebola en RDC dépasse 4 000 morts pour plus de 8 000 cas",
-    "url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-evening"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Actualités Internationales",
-    "titre": "L'inflation en zone euro grimpe à 3,8% en septembre selon Eurostat",
-    "url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-evening"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Actualités Internationales",
-    "titre": "Javier Milei reçu par Emmanuel Macron à l'Élysée pour l'Argentina Week",
-    "url": "https://fr.euronews.com/video/2026/10/03/linfo-du-jour-3-octobre-2026-matin"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Actualités France",
-    "titre": "Mediapart publie de nouvelles captures d'écran antisémites attribuées à Jordan Bardella",
-    "url": "https://www.euronews.com/2026/10/01/france-mediapart-publishes-new-antisemitic-screenshots-attributed-to-jordan-bardella"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Actualités France",
-    "titre": "Les prix des logements en France reculent de 0,8% sur un an au 2e trimestre 2026",
-    "url": "https://www.euronews.com/2026/10/03/house-prices-keep-rising-across-europe-which-countries-saw-the-biggest-increases-and-why"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Le G7 annonce la libération de 100 millions de barils de diesel et de brut",
-    "url": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-evening"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Énergie & ENEDIS",
-    "titre": "RTE veut réduire la longue file d'attente des raccordements au réseau",
-    "url": "https://greenunivers.com/2026/10/raccordements-comment-rte-compte-reduire-la-longue-file-dattente-434862"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Prix de gros de l'électricité à 173€/MWh en moyenne le 2 octobre",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-02"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Nouvelle étape pour la plus haute éolienne du monde (365m) en Allemagne",
-    "url": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-morning"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google explore des centres de données IA dans l'espace",
-    "url": "https://www.euronews.com/2026/10/02/could-the-future-of-ai-data-centres-be-in-space-google-wants-to-find-out"
-  },
-  {
-    "date": "2026-10-03",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Des chercheurs suédois créent un \"scientifique IA\" autonome",
-    "url": "https://www.euronews.com/2026/10/02/swedish-researchers-create-an-ai-scientist-that-designs-and-runs-its-own-experiments"
-  },
-  {
     "date": "2026-10-04",
     "theme": "Actualités Internationales",
     "titre": "Sénégal : information judiciaire pour \"crime contre l'humanité\" sur les violences politiques de 2021-2024",
@@ -1336,5 +1258,47 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Le modèle Jev de TypeSafe AI devient le plus rapidement adopté sur Vercel",
     "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+  },
+  {
+    "date": "2026-10-18",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : nouvelles frappes russes sur les infrastructures énergétiques (Jytomyr, Dnipro, Kyiv)",
+    "url": "https://www.ukrinform.net/rubric-ato/3595947-russia-has-launched-about-190-strikes-on-ukraine-since-oct-7.html"
+  },
+  {
+    "date": "2026-10-18",
+    "theme": "Actualités Internationales",
+    "titre": "Mer Noire : Nicușor Dan annonce une session spéciale de l'OTAN après des attaques contre des navires marchands",
+    "url": "https://lepetitjournal.com/bucarest/actualites/otan-les-attaques-contre-des-navires-en-mer-noire-au-coeur-des-discussions-456363"
+  },
+  {
+    "date": "2026-10-18",
+    "theme": "Actualités France",
+    "titre": "Mobilisation du 17 octobre : incendie ravage la mairie historique de Limoges, plusieurs mairies attaquées",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/manifestations-du-17-octobre-la-mairie-de-limoges-detruite-par-un-violent-incendie_8242222.html"
+  },
+  {
+    "date": "2026-10-18",
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : la France \"au bord du gouffre\" selon Fortune, tensions sur les taux obligataires",
+    "url": "https://fortune.com/2026/10/17/france-debt-crisis-budget-deficit-bond-yields-spread-protests-riots"
+  },
+  {
+    "date": "2026-10-18",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya déclasse plus de 750 hectares de réserves foncières à Simbaya-Wanindara et sur l'île de Kassa",
+    "url": "https://www.lerenifleur224.com/2026/10/17/guinee-mamadi-doumbouya-declasse-les-reserves-foncieres-de-simbaya-wanindara-et-de-lile-de-kassa/"
+  },
+  {
+    "date": "2026-10-18",
+    "theme": "République de Guinée",
+    "titre": "Un navire transportant 730 tonnes de gaz butane accoste au Port autonome de Conakry",
+    "url": "https://guinee7.com/2026/10/17/gaz-butane-butanier-730-tonnes-port-autonome-conakry-fapgaz"
+  },
+  {
+    "date": "2026-10-18",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI déploie Slides dans ChatGPT, une mise à jour de Codex et des améliorations de GPT-6 Pro",
+    "url": "https://releasebot.io/updates/openai"
   }
 ]
