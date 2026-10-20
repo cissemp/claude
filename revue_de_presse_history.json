@@ -1,155 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "theme": "Actualités Internationales",
-    "titre": "Brésil : Bolsonaro devance Lula au 1er tour de la présidentielle (47,06% contre 45,12%), second tour le 25 octobre",
-    "url": "https://www.france24.com/fr/am%C3%A9riques/20261004-en-direct-premier-tour-presidentielle-bresil-resultats-estimations-lula-bolsonaro"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités Internationales",
-    "titre": "Éthiopie : les forces gouvernementales reprennent Mekelle, capitale du Tigré, au TPLF",
-    "url": "https://www.aljazeera.com/amp/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités Internationales",
-    "titre": "Corée du Nord : Kim Jong Un supervise un tir de missile hypersonique de portée intermédiaire",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-03/north-korea-s-kim-oversaw-hypersonic-missile-drill-kcna-says"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités Internationales",
-    "titre": "Washington déploie un 3e groupe aéronaval vers le Moyen-Orient, l'Iran se prépare à une nouvelle manche d'affrontement",
-    "url": "https://www.thenationalnews.com/news/mena/2026/10/03/iran-gearing-up-for-major-round-of-fighting-with-us-source-says/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités Internationales",
-    "titre": "Houthis : attaque revendiquée contre une installation pétrolière près de Riyad, frappes saoudiennes sur Sanaa",
-    "url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités France",
-    "titre": "Mobilisation lycéenne : plus de 400 établissements perturbés le 5 octobre, nouvelle journée d'action le 6 octobre",
-    "url": "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : le PS maintient la menace de censure contre le gouvernement Lecornu",
-    "url": "https://echosplus.com/2026/10/03/budget-2027-le-ps-presse-lecornu-de-revoir-sa-copie-et-maintient-la-menace-de-censure/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités France",
-    "titre": "Ouverture à Paris du procès de Rohan Rane pour un réseau international d'extorsion sexuelle visant des mineures via Discord",
-    "url": "https://www.cnews.fr/france/2026-10-05/un-reseau-sadique-qui-ciblait-des-mineures-en-ligne-qui-est-rohan-rane"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités France",
-    "titre": "Vigilance orange pluie-inondation dans l'Aude et les Pyrénées-Orientales",
-    "url": "https://www.meteo-paris.com/actualites/dimanche-le-coeur-des-pluies-bascule-vers-les-pyrenees-orientales"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Actualités France",
-    "titre": "Reprise de la circulation ferroviaire entre Rouen et Caen, trois semaines après le déraillement d'un train",
-    "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/trois-semaines-apres-le-deraillement-d-un-train-la-circulation-ferroviaire-entre-rouen-et-caen-reprend-du-service-3427380.html"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "République de Guinée",
-    "titre": "Visite officielle du VP Banque mondiale Ousmane Diagana à Conakry pour lancer le nouveau Cadre de partenariat-pays 2027-2033",
-    "url": "https://www.guinee7.com/2026/10/03/banque-mondiale-ousmane-diagana-a-conakry-pour-lancer-un-nouveau-cadre-de-partenariat-signer-trois-conventions/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "République de Guinée",
-    "titre": "Rentrée scolaire 2026-2027 : l'intersyndicale de l'Éducation écarte toute menace de grève immédiate",
-    "url": "https://www.guinee360.com/04/10/2026/il-ne-sagit-pas-dune-nouvelle-confrontation-avec-le-gouvernement-lintersyndicale-rassure-et-ecarte-toute-menace-de-greve"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "République de Guinée",
-    "titre": "Labé : un boulanger retrouvé mort avec de graves blessures à N'Deylal (Dionfo)",
-    "url": "https://guineematin.com/2026/10/04/dionfo-labe-un-boulanger-retrouve-mort-avec-de-graves-blessures-a-ndeylal/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "République de Guinée",
-    "titre": "Mamou : un accident de moto à Sokotoro fait deux morts et un blessé grave",
-    "url": "https://guineenews.org/2026/10/04/mamou-un-accident-de-moto-fait-deux-morts-et-un-blesse-grave-a-sokotoro/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "République de Guinée",
-    "titre": "Grâce présidentielle d'Aliou Bah : le MoDeL prend acte « avec sérénité » et appelle au calme",
-    "url": "https://guineenews.org/2026/10/03/grace-presidentielle-accordee-a-aliou-bah-son-mouvement-le-model-en-prend-acte-et-appelle-au-calme/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot moyen à 172,5 €/MWh le 3 octobre (-11,8%)",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-03"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : le gazole à 2,381 €/L en moyenne le 4 octobre 2026",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-dimanche-4-octobre-2026"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Pétrole : le Brent stable autour de 102,4 $/baril à l'ouverture du 4 octobre",
-    "url": "https://cours-du-petrole.fr/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Gaz : le PEG clôture la semaine à 72,87 €/MWh le 2 octobre",
-    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-03"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Dordogne : un compteur Linky prend feu devant une discothèque, Enedis reconnaît sa responsabilité",
-    "url": "https://actu.orange.fr/societe/fait-divers/dordogne-un-compteur-linky-prend-feu-devant-une-discotheque-bondee-magic-CNT000002sjyLk.html"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic lance l'inférence « in-country » de Claude en Inde via Amazon Bedrock",
-    "url": "https://www.storyboard18.com/amp/how-it-works/anthropic-brings-claude-in-country-inference-to-india-through-amazon-bedrock-111980.htm"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Forum STS de Kyoto : les États-Unis et 16 pays endossent la « Kyoto Vision » sur la super intelligence pour la science",
-    "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Scott Bessent qualifie d'« alarmisme sans solutions » les appels d'Amodei, Altman et Musk à ralentir l'IA",
-    "url": "https://thenextweb.com/news/bessent-says-ai-alarmism-without-solutions-is-not-leadership"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Démission du responsable de la transparence sécurité d'OpenAI, David Robinson, qui dénonce une « culture brisée »",
-    "url": "https://www.progressiverobot.com/2026/10/03/openai-safety-culture-david-robinson-quits-atlantic-essay/"
-  },
-  {
-    "date": "2026-10-05",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Schneider Electric proche d'un rachat à 20 Md$ de l'éditeur logiciel américain PTC",
-    "url": "https://www.boursorama.com/bourse/actualites/selon-une-source-le-groupe-francais-schneider-electric-serait-sur-le-point-de-conclure-un-accord-de-20-milliards-de-dollars-pour-racheter-le-groupe-americain-de-logiciels-ptc-9d0e497ffb6f9f40092ef4b3c4298f63"
-  },
-  {
     "date": "2026-10-06",
     "theme": "Actualités Internationales",
     "titre": "À la veille du 3e anniversaire du 7-Octobre, Guterres appelle à un cessez-le-feu permanent à Gaza",
@@ -1258,5 +1108,47 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "OpenAI pourrait manquer son objectif de 2,4 Md$ de revenus publicitaires en 2026",
     "url": "https://fourweekmba.com/ai-daily-roundup-17-oct-2026-anthropic-debt-openai-ads/"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "Actualités France",
+    "titre": "PLFSS 2027 rejeté en commission, examiné à l'Assemblée à partir du 20 octobre, objectif de déficit à 12,7 Md€",
+    "url": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "République de Guinée",
+    "titre": "Finale CAN 2025 : le TAS annonce sa sentence pour fin novembre",
+    "url": "https://guineenews.org/2026/10/19/finale-can-2025-le-tas-annonce-sa-sentence-pour-fin-novembre/"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : prix spot moyen à 221,8 €/MWh le 19 octobre (+15,7%), pic du mois sur le marché de gros",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-19"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Trois identifiants de modèles non documentés repérés dans l'API d'OpenAI le 18 octobre",
+    "url": "https://aiweekly.co/ai-news-today"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Google préparerait Gemini 4 Carbon, successeur de Gemini 4 Argon",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Anthropic développerait un nouveau modèle à raisonnement et intuition renforcés",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891"
+  },
+  {
+    "date": "2026-10-20",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Anthropic annoncerait l'engagement de 5% de ses parts dans un fonds d'intérêt public",
+    "url": "https://aiweekly.co/ai-news-today"
   }
 ]
