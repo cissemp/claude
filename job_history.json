@@ -782,5 +782,29 @@
     "date_envoi": "2026-10-19",
     "candidature_preparee": true,
     "contact_email": "contact@yele.fr"
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-service-numerique-fh-reference-2026-2396310/",
+    "titre": "Responsable du Service Numerique (F/H)",
+    "entreprise": "Presidence de la Republique",
+    "date_envoi": "2026-10-22",
+    "candidature_preparee": true,
+    "contact_email": "jepostule@elysee.fr"
+  },
+  {
+    "url": "https://www.wizbii.com/company/bouygues/job/directeur-transformation-digitale-f-h-1",
+    "titre": "Directeur Transformation Digitale F/H",
+    "entreprise": "Bouygues (filiere Equipements)",
+    "date_envoi": "2026-10-22",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://welcometothejungle.com/fr/companies/xange/jobs/cto-vc-backed-company_paris",
+    "titre": "CTO @ VC backed company",
+    "entreprise": "Startup accompagnee par XAnge (VC)",
+    "date_envoi": "2026-10-22",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
