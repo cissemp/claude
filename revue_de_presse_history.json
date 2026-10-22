@@ -1,143 +1,5 @@
 [
   {
-    "date": "2026-10-07",
-    "theme": "Actualités Internationales",
-    "titre": "Nouvelle frappe russe meurtrière sur Kiev",
-    "url": "https://unn.ua/en/news/a-nighttime-attack-on-kyiv-claimed-the-lives-of-two-people-in-the-darnytskyi-district"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités Internationales",
-    "titre": "Des drones endommagent plusieurs navires marchands en mer Noire",
-    "url": "https://kyivindependent.com/drones-strike-merchant-vessels-in-black-sea-off-bulgaria-and-ukraine-killing-at-least-one/"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités Internationales",
-    "titre": "Un ex-chef du renseignement extérieur allemand arrêté pour trahison",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/allemagne-un-ancien-directeur-du-renseignement-arrete-pour-des-soupcons-de-trahison-dd667e788bd218bc11c8f28e01e1fed2"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités Internationales",
-    "titre": "Le prix Nobel de physique 2026 attribué à Francis Halzen",
-    "url": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-physique-2026-decerne-au-belge-francis-halzen-pour-ses-contributions-decisives-a-l-astrophysique_8224861.html"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités Internationales",
-    "titre": "L'OMS réagit à une mort suspecte liée à la peste en Sibérie",
-    "url": "https://news.un.org/fr/story/2026/10/1159614"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités France",
-    "titre": "Ouverture de l'examen du budget 2027 en commission des finances",
-    "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/plf-pour-2027-examen-de-la-premiere-partie-en-commission-des-finances"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités France",
-    "titre": "Nouvelle journée de mobilisation lycéenne, les lycées huppés touchés",
-    "url": "https://www.cnews.fr/france/2026-10-06/blocus-des-lycees-488-personnes-interpellees-et-43-membres-des-forces-de-lordre"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités France",
-    "titre": "Le RN présente son contre-budget en pleine affaire Bardella",
-    "url": "https://www.franceinfo.fr/politique/front-national/le-rn-va-presenter-son-contre-budget-en-pleine-affaire-bardella_8223664.html"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités France",
-    "titre": "L'Ademe chiffre l'économie réalisée en passant à l'électrique",
-    "url": "https://www.franceinfo.fr/economie/automobile/un-menage-passant-d-un-vehicule-thermique-a-un-electrique-depensera-trois-fois-moins-d-argent-selon-l-ademe_8226259.html"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Actualités France",
-    "titre": "Jean-Noël Barrot en Israël pour les commémorations du 7-Octobre",
-    "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/le-ministre-des-affaires-etrangeres-jean-noel-barrot-se-rend-en-israel-mercredi-pour-les-commemorations-du-7-octobre_8225404.html"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya fixe par décret le nouveau cadre d'action du gouvernement",
-    "url": "https://www.guinee360.com/07/10/2026/guinee-mamadi-doumbouya-fixe-le-nouveau-cadre-daction-du-gouvernement"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "République de Guinée",
-    "titre": "Une mission économique tunisienne de 30 entreprises en Guinée",
-    "url": "https://www.lapresse.tn/2026/10/05/simandou-2040-30-entreprises-tunisiennes-ciblent-les-opportunites-en-guinee/"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "République de Guinée",
-    "titre": "Le gouvernement veut rapprocher les services publics des citoyens via des guichets uniques",
-    "url": "https://guineematin.com/2026/10/06/guinee-le-gouvernement-veut-rapprocher-les-services-publics-des-citoyens-a-travers-des-guichets-uniques/"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "République de Guinée",
-    "titre": "Dansa Kourouma fixe cinq priorités pour la 10e législature",
-    "url": "https://www.guinee360.com/06/10/2026/10e-legislature-dansa-kourouma-fixe-cinq-priorites-et-appelle-les-deputes-a-reparer-les-fractures-de-la-societe"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "République de Guinée",
-    "titre": "Une explosion de gaz tue deux personnes dans un atelier à Kankan",
-    "url": "https://guineenews.org/2026/10/06/kankan-deux-morts-et-plusieurs-blesses-apres-lexplosion-dune-bouteille-de-gaz-dans-un-atelier-de-tolerie/"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Le prix de gros de l'électricité bondit de 18,6% en un jour",
-    "url": "https://entreprises.selectra.info/energie/electricite/marche-de-gros"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Le prix du gaz se détend légèrement sur les marchés de gros",
-    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-06"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Enedis et les autoroutes veulent multiplier par 10 la puissance de recharge électrique",
-    "url": "https://www.enedis.fr/presse"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Mistral AI dévoile \"Le Chonk\", son nouveau modèle géant",
-    "url": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Nvidia et Microsoft lancent les premiers PC dotés de la puce IA RTX Spark",
-    "url": "https://www.materiel-gamer.com/les-pc-nvidia-rtx-spark-arrivent-ce-mois-ci-et-microsoft-tient-son-evenement-le-7-octobre-quatre-mois-apres-la-promesse-anti-triche-le-recensement-independant-donne-5-jeux-en-ligne-jouables-sur-61/"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'AP-HP alerte sur des deepfakes utilisant l'image d'un médecin",
-    "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/les-hopitaux-de-paris-alertent-sur-une-campagne-de-deepfakes-utilisant-l-image-d-un-medecin-pour-la-promotion-d-un-produit_8223163.html"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic élargit son programme pour les startups",
-    "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
-  },
-  {
-    "date": "2026-10-07",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google resserre l'accès aux modèles Gemini pour les utilisateurs gratuits",
-    "url": "https://www.businesstoday.in/technology/news/story/google-gemini-plans-are-changing-from-october-9-free-ai-plus-users-face-new-limits-on-ai-model-access-559434-2026-10-05"
-  },
-  {
     "date": "2026-10-08",
     "theme": "Actualités Internationales",
     "titre": "Troisième anniversaire des attaques du 7 octobre 2023 : cérémonies en Israël, Netanyahou promet qu'il n'y aura pas de pouvoir du Hamas à Gaza",
@@ -1072,5 +934,143 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Anthropic et OpenAI lancent de nouveaux modèles moins coûteux (Claude Opus 5.5, GPT-6 Sol et Luna)",
     "url": "https://bourse.fortuneo.fr/actualites/anthropic-et-openai-lancent-de-nouveaux-modeles-en-plein-debat-sur-le-ralentissement-de-l-ia-4193242"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités Internationales",
+    "titre": "Witkoff rencontre Poutine à Saint-Pétersbourg, la Russie libère Stephen Hubbard",
+    "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités Internationales",
+    "titre": "Les relations Washington-Kyiv se tendent, Trump et Zelensky s'opposent sur les négociations et les armes",
+    "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités Internationales",
+    "titre": "Attaque contre l'aéroport King Fahd de Dammam, un mort et huit blessés",
+    "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités Internationales",
+    "titre": "L'Italie adopte des mesures de sécurité renforcées et déploie 500 militaires à Milan",
+    "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités Internationales",
+    "titre": "La tempête Adam fait au moins cinq morts dans l'est de l'Espagne",
+    "url": "https://www.euronews.com/2026/10/20/at-least-five-killed-and-thousands-evacuated-as-storm-adam-batters-eastern-spain"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités France",
+    "titre": "L'armée déployée dans les rues avant de nouvelles manifestations",
+    "url": "https://www.euronews.com/video/2026/10/21/europe-today-france-to-deploy-army-before-weekend-protests-as-italy-tightens-powers"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités France",
+    "titre": "Lecornu promet de nouveaux couvre-feux localisés après une nuit calme",
+    "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités France",
+    "titre": "La police accusée d'avoir brutalisé des mineurs, l'IGPN ouvre 36 enquêtes",
+    "url": "https://www.aljazeera.com/news/2026/10/21/i-am-still-traumatised-french-police-accused-of-brutalising-minors"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités France",
+    "titre": "Macron sécurise un supplément de gazole du Golfe face à la flambée des prix",
+    "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Actualités France",
+    "titre": "Macron affirme que les manifestants ne provoqueront pas le chaos, plus de 2500 arrestations",
+    "url": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "République de Guinée",
+    "titre": "Nouveaux présidents et procureurs nommés dans les tribunaux de première instance (décret)",
+    "url": "https://guineenews.org/2026/10/21/justice-de-nouveaux-presidents-et-procureurs-nommes-dans-les-tribunaux-de-premiere-instance-decret/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "République de Guinée",
+    "titre": "Ex-président de la Cour constitutionnelle Bangoura condamné à 7 ans de prison",
+    "url": "https://guineematin.com/2026/10/21/guinee-mohamed-lamine-bangoura-ex-president-de-la-cour-constitutionnelle-condamne-a-7-ans-de-prison-pour-des-crimes-economiques/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "République de Guinée",
+    "titre": "La Guinée accélère sa marche vers le zéro papier avec la signature électronique de l'État",
+    "url": "https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "République de Guinée",
+    "titre": "Grève illimitée menacée à la mairie de Dixinn dès le 26 octobre",
+    "url": "https://guineematin.com/2026/10/20/mairie-de-dixinn-neuf-mois-darrieres-de-salaire-les-travailleurs-menacent-dune-greve-illimitee-des-le-26-octobre/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "République de Guinée",
+    "titre": "Dix hectares de périmètres maraîchers en aménagement à Sonfonia Lac (PAGUITA)",
+    "url": "https://guineematin.com/2026/10/21/paguita-dix-hectares-de-perimetres-maraichers-en-amenagement-a-sonfonia-lac-pour-renforcer-la-souverainete-alimentaire/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Départ de feu maîtrisé sur un transformateur à la centrale nucléaire de Cattenom",
+    "url": "https://www.ici.fr/grand-est/moselle-57/cattenom/un-depart-de-feu-rapidement-maitrise-a-la-centrale-nucleaire-de-cattenom-aucun-impact-sur-l-activite-du-site-7398726"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Énergie & ENEDIS",
+    "titre": "La CRE valide une hausse des tarifs de raccordement Enedis dès le 28 octobre",
+    "url": "https://www.les-energies-renouvelables.eu/article/actualites/energies/ce-que-la-hausse-des-tarifs-enedis-change-pour-votre-raccordement-solaire-des-le-28-octobre-2026-1740/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "Énergie & ENEDIS",
+    "titre": "La Russie envoie son premier pétrolier de diesel vers les États-Unis dans le cadre de l'accord Trump",
+    "url": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Vague d'incidents de cybersécurité, le proxy open source LiteLLM compromis",
+    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Anthropic lance Claude Duet, un agent proactif en accès anticipé",
+    "url": "https://docs.anthropic.com/en/release-notes/claude-apps"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Walmart ouvre son site aux agents d'achat IA via Agent Gateway, Amazon les bloque",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La startup juridique Legora lève 550 millions de dollars en série E",
+    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"
+  },
+  {
+    "date": "2026-10-22",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Craintes sur la dette liée à l'IA, Blackstone rassure alors que CoreWeave chute",
+    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
   }
 ]
