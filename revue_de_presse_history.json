@@ -1,245 +1,5 @@
 [
   {
-    "date": "2026-10-08",
-    "theme": "Actualités Internationales",
-    "titre": "Troisième anniversaire des attaques du 7 octobre 2023 : cérémonies en Israël, Netanyahou promet qu'il n'y aura pas de pouvoir du Hamas à Gaza",
-    "url": "https://www.i24news.tv/en/news/israel/artc-families-mark-1000-days-since-october-7-with-protests-opening-the-day-with-march-near-the-knesset"
-  },
-  {
-    "date": "2026-10-08",
-    "theme": "Actualités France",
-    "titre": "Mobilisation lycéenne : Laurent Nuñez annonce la suspension de l'usage des grenades assourdissantes",
-    "url": "https://www.publicsenat.fr/actualites/politique/manifestations-lyceennes-sebastien-lecornu-sexprime-ce-soir-laurent-nunez-annonce-la-suspension-de-lusage-des-grenades-assourdissantes"
-  },
-  {
-    "date": "2026-10-08",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "SAP annonce l'acquisition de la start-up belge TechWolf pour ses agents RH",
-    "url": "https://letsdatascience.com/news/sap-agrees-to-acquire-techwolf-for-workforce-ai-1805e3ca"
-  },
-  {
-    "date": "2026-10-08",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Lambda vise jusqu'à 4 Md$ dans un tour de financement pré-IPO mené par Blackstone et Coatue",
-    "url": "https://letsdatascience.com/news/lambda-pursues-4-billion-pre-ipo-funding-round-909f4022"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : négociations Trump-Zelensky les 9-10 octobre, bilan de 78 morts dans les frappes russes",
-    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "Actualités Internationales",
-    "titre": "Le porte-avions USS Abraham Lincoln rentré aux Etats-Unis après près d'un an de déploiement",
-    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "Actualités Internationales",
-    "titre": "Israël ferme le consulat britannique de Jérusalem-Est en représailles aux sanctions sur les colonies",
-    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "Actualités Internationales",
-    "titre": "Cisjordanie : une enquête du Monde sur le réseau de fermes pastorales des colons",
-    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "Actualités France",
-    "titre": "L'Allemagne s'inquiète de l'endettement de la France et appelle à des finances publiques saines en Europe",
-    "url": "https://www.presse-evasion.fr/article/revue-presse-09-10-2026"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "République de Guinée",
-    "titre": "Plafonnement des prix de l'eau minérale et minéralisée conditionnée, applicable depuis le 7 octobre",
-    "url": "https://guineenews.org/bbgy"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Enedis et RTE financent une voile de parapente de sensibilisation aux risques électriques dans les Pyrénées",
-    "url": "https://www.titrespresse.com/24218672603/pyrenees-enedis-rte"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic interdit tout comportement abusif ou cruel envers Claude dans sa nouvelle politique d'utilisation",
-    "url": "https://intelligence-artificielle.developpez.com/actu/387960/Anthropic-interdit-tout-comportement-abusif-ou-cruel-envers-Claude-sous-peine-de-perdre-l-acces-a-l-assistance-IA-selon-sa-nouvelle-politique-d-utilisation"
-  },
-  {
-    "date": "2026-10-09",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Trump : la Maison Blanche considérera comme 'L'ENNEMI' quiconque emploie 'intelligence artificielle' plutôt que 'super-intelligence'",
-    "url": "https://intelligence-artificielle.developpez.com/actu/387961/Le-president-americain-Donald-Trump-a-ecrit-que-la-Maison-Blanche-considerait-comme-L-ENNEMI-toute-personne-utilisant-le-terme-intelligence-artificielle-plutot-que-super-intelligence/"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : une frappe russe sur deux bus fait au moins 33 morts à Kramatorsk",
-    "url": "https://novayagazeta.eu/en/articles/2026/10/08/more-than-30-killed-by-russian-strike-on-bus-stop-in-ukraines-kramatorsk-en-news"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : les forces ukrainiennes repoussent la Russie dans le Donetsk",
-    "url": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "Actualités Internationales",
-    "titre": "Le Nobel de la paix 2026 attribué à Navi Pillay",
-    "url": "https://www.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "Actualités Internationales",
-    "titre": "Le Nobel de littérature 2026 attribué à Anne Carson",
-    "url": "https://www.newsbytesapp.com/news/world/canadian-poet-anne-carson-wins-nobel-prize-in-literature/story"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "Actualités France",
-    "titre": "Mobilisation lycéenne : Lecornu lance cinq chantiers prioritaires, Geffray à Reims",
-    "url": "https://www.letudiant.fr/lycee/mouvement-lyceen-alors-que-la-mobilisation-continue-le-gouvernement-lance-cinq-chantiers-prioritaires.html"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : la commission des Finances supprime déjà plusieurs mesures d'économies",
-    "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/des-deputes-suppriment-deja-les-premieres-mesures-d-economie-prevues-dans-le-budget-2027_8207129.html"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "République de Guinée",
-    "titre": "Deux centres de cancérologie annoncés à Conakry et Kankan pour 2027",
-    "url": "https://www.guinee114.com/2026/10/09/guinee-deux-centres-de-cancerologie-annonces-a-conakry-et-a-kankan-pour-2027/"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "République de Guinée",
-    "titre": "Assemblée constitutive de la FEPAP-GUI : le président de la HAC appelle à l'assainissement de la presse",
-    "url": "https://guineenews.org/2026/10/08/le-desordre-doit-sarreter-le-president-de-la-hac-sattaque-aux-petits-patrons-de-presse/"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Gaz : le contrat PEG novembre clôture à 76,92 €/MWh le 8 octobre",
-    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-09"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot moyen à 75,6 €/MWh le 9 octobre, moyenne mensuelle en hausse de 14,8%",
-    "url": "https://opera-energie.com/prix-spot-electricite/"
-  },
-  {
-    "date": "2026-10-10",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Samsung prévoit un bénéfice trimestriel record porté par la demande en mémoire pour l'IA",
-    "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "Actualités Internationales",
-    "titre": "Un séisme de magnitude 7,7 frappe le Panama, alerte au tsunami dans la région",
-    "url": "https://abcnews.com/video/137142910/"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "Actualités Internationales",
-    "titre": "Attaque de missile houthi contre l'aéroport de Riyad : trois morts dont un pilote de ligne",
-    "url": "https://www.euronews.com/2026/10/09/houthi-missile-strikes-kill-three-at-riyadh-airport-including-airline-captain"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "Actualités Internationales",
-    "titre": "L'Autorité palestinienne s'apprêterait à reporter les élections législatives du 28 novembre",
-    "url": "https://www.omanobserver.om/ampArticle/1197509"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "Actualités Internationales",
-    "titre": "Une tornade dévaste un collège en Sicile, une dizaine de blessés",
-    "url": "https://fr.euronews.com/2026/10/09/des-tornades-balayent-la-sicile-voitures-retournees-et-batiments-endommages"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "Actualités Internationales",
-    "titre": "30 000 manifestants contre la rigueur budgétaire à Bruxelles, heurts avec la police",
-    "url": "https://en.yenisafak.com/world/brussels-anti-austerity-protest-draws-thousands-amid-clashes-3724319"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "Actualités France",
-    "titre": "La primaire socialiste visée par une cyberattaque DDoS sur sa plateforme de vote",
-    "url": "https://fr.euronews.com/2026/10/09/primaire-de-la-gauche-sociale-democrate-la-plateforme-de-vote-ciblee-par-une-cyberattaque"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "Actualités France",
-    "titre": "Dans le Tarn, la quatrième mobilisation contre l'A69 se termine",
-    "url": "https://www.linfodurable.fr/dans-le-tarn-la-quatrieme-mobilisation-contre-la69-se-termine-52022"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "République de Guinée",
-    "titre": "Décès à Conakry de l'ex-cheffe de la diplomatie Hadja M'Mahawa Bangoura",
-    "url": "https://guineenews.org/2026/10/09/guinee-lex-cheffe-de-la-diplomatie-mmahawa-bangoura-tire-sa-reverence"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "République de Guinée",
-    "titre": "Le concours de recrutement de 6 000 enseignants reprogrammé au 17 octobre",
-    "url": "https://www.guinee360.com/11/10/2026/guinee-le-concours-de-recrutement-de-6-000-enseignants-reprogramme-au-17-octobre"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "République de Guinée",
-    "titre": "Financement agricole : le FGPE et Ecobank Guinée scellent un partenariat stratégique",
-    "url": "https://guineenews.org/2026/10/10/financement-agricole-le-fgpe-et-ecobank-guinee-scellent-un-partenariat-strategique-pour-faciliter-lacces-au-credit"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "République de Guinée",
-    "titre": "Sachets interdits, bouteilles partout : Conakry face au même problème",
-    "url": "https://guineenews.org/2026/10/09/sachets-interdits-bouteilles-partout-conakry-face-au-meme-probleme/"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : la journée du 10 octobre s'annonce comme la moins chère du mois",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-09"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "TypeSafe AI lève 870 millions de dollars en série A, valorisée 7,5 milliards",
-    "url": "https://www.actuia.com/veille/2026-10-09/"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Firmus retire sa demande d'introduction à la Bourse australienne",
-    "url": "https://www.actuia.com/veille/2026-10-09/"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "GlobalFoundries présente FDX Fusion et une extension de 1,1 milliard d'euros à Dresde",
-    "url": "https://www.actuia.com/veille/2026-10-09/"
-  },
-  {
-    "date": "2026-10-11",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Upscale lance Token Fabric, architecture réseau ouverte pour GPU",
-    "url": "https://www.actuia.com/veille/2026-10-09/"
-  },
-  {
     "date": "2026-10-12",
     "theme": "Actualités Internationales",
     "titre": "Trump annonce un cessez-le-feu énergétique immédiat entre la Russie et l'Ukraine, frappes russes rapportées malgré l'annonce",
@@ -1072,5 +832,41 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Craintes sur la dette liée à l'IA, Blackstone rassure alors que CoreWeave chute",
     "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "Actualités Internationales",
+    "titre": "Frappe israélienne sur l'université islamique de Gaza : trois morts, huit blessés",
+    "url": "https://www.france24.com/en/live-news/20261025-strike-on-gaza-university-kills-three-staff-hospital"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "Actualités Internationales",
+    "titre": "Serbie : Vučić reconnaît sa défaite aux législatives face à la liste citoyenne du mouvement étudiant",
+    "url": "https://legrandcontinent.eu/fr/2026/10/25/legislatives-serbes-vucic-nous-avons-perdu-les-elections/"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "Actualités Internationales",
+    "titre": "Bulgarie : Iotova en tête du premier tour de la présidentielle, second tour face à Gyurov",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/la-presidentielle-en-bulgarie-revele-les-divisions-sur-la-guerre-en-ukraine-4e72c35f3bd28817021033df989e9291"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "Actualités France",
+    "titre": "Jordan Bardella réélu président du RN avec 98,98% des voix au congrès d'Orléans",
+    "url": "https://www.france24.com/fr/france/20261024-jordan-bardella-r%C3%A9%C3%A9lu-pr%C3%A9sident-du-rn-avec-98-98-des-voix"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya crée un nouveau Service national d'appui à la garde communale (SNAGC)",
+    "url": "https://www.guinee7.com/2026/10/24/guinee-mamadi-doumbouya-cree-un-nouveau-service-pour-renforcer-la-securite-dans-les-communes/"
+  },
+  {
+    "date": "2026-10-26",
+    "theme": "République de Guinée",
+    "titre": "Résultats définitifs du concours de recrutement des 6 000 enseignants dévoilés",
+    "url": "https://www.guinee7.com/2026/10/24/guinee-les-resultats-definitifs-du-concours-des-6-000-enseignants-enfin-devoiles/"
   }
 ]
