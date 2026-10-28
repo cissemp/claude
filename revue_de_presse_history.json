@@ -1,143 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "theme": "Actualités Internationales",
-    "titre": "Canada : Carney appelle à l'unité avant le référendum albertain",
-    "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités Internationales",
-    "titre": "Inde : l'opposition marche sur la Cour suprême contre la révision des listes électorales",
-    "url": "https://www.france24.com/en/live-news/20261012-thousands-march-in-india-s-capital-to-demand-election-chief-resign"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités Internationales",
-    "titre": "Taïwan : la Chine sanctionne des ministres du Paraguay et du Belize",
-    "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités Internationales",
-    "titre": "Espagne : Sánchez convoque des élections anticipées, l'extrême droite en embuscade",
-    "url": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités Internationales",
-    "titre": "Mexique : l'ouragan Simon menace la côte Pacifique",
-    "url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités France",
-    "titre": "Fusillade dans un collège à Aubagne",
-    "url": "https://www.franceinfo.fr/faits-divers/un-suspect-de-14-ans-un-principal-et-une-professeure-blesses-ce-que-l-on-sait-des-tirs-par-arme-a-feu-dans-un-college-d-aubagne_8233699.html"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités France",
-    "titre": "Le marché des Enfants Rouges détruit par un incendie",
-    "url": "https://www.franceinfo.fr/faits-divers/incendie/le-marche-des-enfants-rouges-a-paris-ravage-par-les-flammes-annonce-la-mairie_8233399.html"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités France",
-    "titre": "Cyberattaque inédite contre les frigos de supermarchés français",
-    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-magasins-systeme-u-et-intermarche-touches-par-une-cyberattaque-contre-leurs-installations-frigorifiques_8233720.html"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités France",
-    "titre": "Gazole : TotalEnergies annonce une baisse de prix dès novembre",
-    "url": "https://entrevue.fr/consommation/carburants-totalenergies-promet-jusqua-12-centimes-de-baisse-sur-le-gazole/"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : le gouvernement fragilisé à la veille des débats",
-    "url": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "République de Guinée",
-    "titre": "Élections régionales et sénatoriales : les dates fixées",
-    "url": "https://www.guinee360.com/12/10/2026/guinee-les-elections-regionales-et-senatoriales-fixees"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "République de Guinée",
-    "titre": "CRIEF : trois dossiers d'anciens hauts responsables relancés",
-    "url": "https://www.guinee360.com/12/10/2026/crief-les-dossiers-de-trois-anciens-hauts-responsables-de-retour-au-premier-plan"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "République de Guinée",
-    "titre": "Conakry : des commerçantes du marché de Kissosso protestent",
-    "url": "https://guineematin.com/2026/10/12/kissosso-conakry-des-vendeuses-en-colere-manifestent-contre-la-gestion-du-marche/"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "République de Guinée",
-    "titre": "Petit-Simbaya : deux corps découverts dans une voiture",
-    "url": "https://guineematin.com/2026/10/12/conakry-les-corps-dun-homme-et-dune-femme-retrouves-dans-une-voiture-a-petit-simbaya"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya à bord du TransGuinéen avec le comité Simandou",
-    "url": "https://www.guinee360.com/12/10/2026/mamadi-doumbouya-le-train-de-lavenir-est-en-marche-rien-ne-larretera"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Flambée du prix spot de l'électricité le 11 octobre",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-11"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Le gaz matière première grimpe de 17% en octobre, stocks bien remplis",
-    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-11"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : le gazole quasi stable le 11 octobre",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-dimanche-11-octobre-2026"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Meta lance Muse Wonder, son IA payante",
-    "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Nadella réclame un « frein d'urgence » pour l'IA",
-    "url": "https://telanganatoday.com/nadella-calls-for-ai-emergency-brake-warns-firms-against-trusting-advanced-models-blindly"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic renforce ses défenses contre le vol de Claude",
-    "url": "https://whtc.com/2026/10/12/anthropic-says-new-safeguards-sharply-reduce-ai-distillation-attacks/"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Microsoft appelle à une régulation mondiale de l'IA",
-    "url": "https://www.foxnews.com/live-news/ai-news-microsoft-rules-safety-10-12"
-  },
-  {
-    "date": "2026-10-13",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Le FMI souligne le rôle moteur mais inégal de l'IA",
-    "url": "https://www.boursorama.com/bourse/actualites/l-ia-soutient-la-croissance-mondiale-mais-guerres-et-dette-assombrissent-l-horizon-fmi-a8f8a9763323e2bb417c35df4f4b2df7"
-  },
-  {
     "date": "2026-10-14",
     "theme": "Actualités Internationales",
     "titre": "Le pape Léon XIV hospitalisé pour l'ablation d'un nodule pulmonaire",
@@ -886,5 +748,71 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Anthropic dépose publiquement son S-1 auprès de la SEC pour une IPO qui pourrait battre des records, visant le Nasdaq sous le symbole ANT",
     "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Actualités Internationales",
+    "titre": "Israël: élections législatives du 27 octobre, ni le bloc de Netanyahou ni celui d'Eisenkot n'obtiendrait de majorité selon les sondages sortie des urnes",
+    "url": "https://www.rador.ro/2026/10/28/revista-presei-internationale-28-octombrie-2026/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine: des dirigeants nordiques ont eu un échange téléphonique direct avec Vladimir Poutine, premier contact de ce type depuis juillet 2025",
+    "url": "https://www.rador.ro/2026/10/28/revista-presei-internationale-28-octombrie-2026/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Actualités Internationales",
+    "titre": "ONU: l'Assemblée générale examine une résolution portée par Cuba exigeant la fin de l'embargo américain",
+    "url": "https://www.rador.ro/2026/10/28/revista-presei-internationale-28-octombrie-2026/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Actualités Internationales",
+    "titre": "Brésil: Washington annonce l'octroi d'un visa à Flavio Bolsonaro et sa famille après la défaite électorale de son camp face à Lula",
+    "url": "https://www.rador.ro/2026/10/28/revista-presei-internationale-28-octombrie-2026/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Actualités Internationales",
+    "titre": "Diplomatie: Moscou accueille le troisième sommet Russie-Afrique",
+    "url": "https://www.rador.ro/2026/10/28/revista-presei-internationale-28-octombrie-2026/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Actualités France",
+    "titre": "Cinq syndicats (CFDT, CGT, FO, Unsa, FSU) appellent à une grève et mobilisation nationale le 5 novembre, après les rassemblements des 24 et 31 octobre",
+    "url": "https://lebonbon.fr/paris/news/apres-17-octobre-deux-nouvelles-manifestations-24-31-octobre/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "République de Guinée",
+    "titre": "Conakry: colère des enseignants contractuels après le recrutement des 6 000 nouveaux enseignants, le 27 octobre",
+    "url": "https://guineenews.org/2026/10/27/conakry-la-colere-des-contractuels-de-conakry-apres-le-recrutement-des-nouveaux-enseignants/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Enedis: le nouveau barème de raccordement V8, validé par la CRE, entre en vigueur le 28 octobre (+11,3% en moyenne)",
+    "url": "https://lenergeek.com/2026/10/27/raccordement-enedis-bareme-v8-28-octobre-2026-cre-271026-1236/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Énergie & ENEDIS",
+    "titre": "RTE lève 1 milliard d'euros d'obligations vertes pour financer la modernisation de son réseau de transport",
+    "url": "https://lenergeek.com/2026/10/25/rte-obligations-vertes-milliard-euros-reseau-octobre-2026/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Énergie & ENEDIS",
+    "titre": "RTE revoit à la baisse son programme d'investissements 2026, ramené à 4,09 milliards d'euros (-3,5%)",
+    "url": "https://lenergeek.com/2026/10/26/rte-investissements-2026-revision-cre-409-milliards-octobre/"
+  },
+  {
+    "date": "2026-10-28",
+    "theme": "Énergie & ENEDIS",
+    "titre": "L'IRENA anticipe un ralentissement mondial des renouvelables en 2026, faute de réseaux électriques suffisants",
+    "url": "https://lenergeek.com/2026/10/27/irena-ralentissement-renouvelables-2026-reseaux-chine"
   }
 ]
