@@ -878,5 +878,37 @@
     "date_envoi": "2026-10-27",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/84607907.html",
+    "titre": "Directeur des Systèmes d'Informations",
+    "entreprise": "Accile",
+    "date_envoi": "2026-10-28",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/82312538.html",
+    "titre": "Leader IA France",
+    "entreprise": "CGI",
+    "date_envoi": "2026-10-28",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://espace-emploi.agefiph.fr/candidat/offres/offre-d-emploi-director-of-data-ai-transformationcourbevoie-ile-de-france-industries-des-composants-equipements-cdi-22108598",
+    "titre": "Head of Data, AI and Digital Applications - Purchasing",
+    "entreprise": "Saint-Gobain",
+    "date_envoi": "2026-10-28",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-systemes-d-information-hf-reference-2026-2424772/",
+    "titre": "Directeur des systèmes d'information",
+    "entreprise": "Agence de l'eau Seine-Normandie",
+    "date_envoi": "2026-10-28",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
