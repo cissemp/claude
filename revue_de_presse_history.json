@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "theme": "Actualités Internationales",
-    "titre": "Le pape Léon XIV hospitalisé pour l'ablation d'un nodule pulmonaire",
-    "url": "https://infovaticana.com/fr/2026/10/12/le-vatican-annule-toutes-les-audiences-de-leon-xiv-jusquau-20-octobre-en-raison-de-son-hospitalisation/"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Actualités Internationales",
-    "titre": "L'indice mondial de pauvreté multidimensionnelle grimpe pour la première fois depuis 2010, à 1,2 milliard de personnes",
-    "url": "https://malaymail.com/news/world/2026/10/12/global-poverty-index-rises-for-first-time-since-its-2010-creation/238780"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Actualités Internationales",
-    "titre": "Espagne : le roi Felipe VI effectue une visite historique à Ceuta",
-    "url": "https://lepetitjournal.com/andalousie/actualites/espagne-le-roi-felipe-vi-ceuta-le-13-octobre-une-visite-haut-risque-diplomatique-454932"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Actualités France",
-    "titre": "Assemblée nationale : adoption de la loi « intégrale » contre les violences sexistes et sexuelles",
-    "url": "https://lcp.fr/index%2Ephp/dossiers/loi-integrale-contre-les-violences-sexuelles-et-sexistes-441435"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Actualités France",
-    "titre": "Transport aérien : préavis de grève du personnel navigant commercial du 17 au 21 octobre",
-    "url": "https://www.deplacementspros.com/transport/greve-nationale-du-17-octobre-a-quoi-faut-il-s-attendre"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Enedis et RTE testent leur outil commun de flexibilités locales dans le Sud-Ouest",
-    "url": "https://www.greenunivers.com/2026/10/enedis-et-rte-testent-leur-outil-commun-de-flexibilites-locales-dans-le-sud-ouest-435805/"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Enedis lance une grande enquête nationale sur les usages énergétiques des clients particuliers",
-    "url": "https://www.enedis.fr/presse"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google déploie à grande échelle Gemini 4 Argon face à OpenAI et Anthropic",
-    "url": "https://moncarnet.com/2026/10/13/avec-gemini-4-argon-google-revient-a-la-charge-contre-openai-et-anthropic/"
-  },
-  {
-    "date": "2026-10-14",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Une plainte antitrust accuse Anthropic, OpenAI, Google et SpaceXAI d'avoir coordonné un ralentissement de l'IA",
-    "url": "https://kulturegeek.fr/news-359793/plainte-anthropic-openai-google-spacexai-ralentissement-ia"
-  },
-  {
     "date": "2026-10-15",
     "theme": "Actualités Internationales",
     "titre": "Ukraine : frappe russe sur la centrale CHP-4 de Kyiv, 600 000 personnes privées d'électricité",
@@ -814,5 +760,59 @@
     "theme": "Énergie & ENEDIS",
     "titre": "L'IRENA anticipe un ralentissement mondial des renouvelables en 2026, faute de réseaux électriques suffisants",
     "url": "https://lenergeek.com/2026/10/27/irena-ralentissement-renouvelables-2026-reseaux-chine"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "Actualités Internationales",
+    "titre": "Trêve humanitaire à Oleshky : évacuation des civils prévue à partir du 29 octobre",
+    "url": "https://24tv.ua/en/ceasefire-in-oleshky-on-october-29-the-us-announced-an-evacuation_n3166406"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "Actualités Internationales",
+    "titre": "Inde : le cyclone Arnab touche l'Andhra Pradesh avant de s'affaiblir en dépression sur l'Odisha",
+    "url": "https://www.outlookindia.com/national/cyclone-arnab-deep-depression-over-odisha-8000-evacuated-as-heavy-rain-hits-andhra-pradesh-jharkhand"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "Actualités France",
+    "titre": "Macron juge les manifestations du week-end prochain de nouveau « à risque », conseil de défense réuni",
+    "url": "https://www.petitesaffiches.fr/politique,104/l-essentiel-de-l-actualite-ce,47136.html?lang=fr"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "Actualités France",
+    "titre": "Projet de loi « casseurs-payeurs » examiné en séance au Sénat depuis le 27 octobre",
+    "url": "https://lepetitjournal.com/expat-politique/actualites/casseurs-payeurs-apres-les-violences-du-17-octobre-la-reponse-legislative-au-senat-456653"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "République de Guinée",
+    "titre": "Fana Soumah officiellement installé ministre de la Communication",
+    "url": "https://guineematin.com/2026/10/28/sanou-kerfalla-cisse-a-linstallation-du-nouveau-ministre-fana-soumah-est-un-symbole-pour-la-presse-guineenne/"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "République de Guinée",
+    "titre": "Administration guinéenne : 643 milliards GNF d'économies annoncées",
+    "url": "https://www.guinee7.com/2026/10/28/administration-guineenne-643-milliards-gnf-deconomies-annoncees/"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "République de Guinée",
+    "titre": "JOJ 2026 : la délégation guinéenne prend la route de Dakar",
+    "url": "https://www.guinee7.com/2026/10/28/joj-2026-les-jeunes-talents-guineens-prennent-la-route-de-dakar/"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Google présente Gemini 4 Carbon, modèle orienté cybersécurité à accès limité",
+    "url": "https://winbuzzer.com/2026/10/28/gemini-4-carbon-ai-leads-test-for-fixing-vulnerable-code-xcxwbn/"
+  },
+  {
+    "date": "2026-10-29",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Meta lance Waddle World, une application d'animal de compagnie virtuel propulsée par l'IA",
+    "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/"
   }
 ]
