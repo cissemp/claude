@@ -1,155 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : frappe russe sur la centrale CHP-4 de Kyiv, 600 000 personnes privées d'électricité",
-    "url": "https://www.euronews.com/2026/10/14/russian-missile-hits-kyiv-power-plant-with-no-early-warning-from-allies-zelensky-says"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités Internationales",
-    "titre": "Arabie saoudite : un missile houthi frappe le QG historique d'Aramco à Dhahran",
-    "url": "https://www.thenationalnews.com/business/energy/2026/10/14/houthi-attack-hits-aramcos-historic-nerve-centre-in-saudi-arabia/"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités Internationales",
-    "titre": "États-Unis : Kimberly Guilfoyle démissionne de son poste d'ambassadrice en Grèce",
-    "url": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités Internationales",
-    "titre": "Allemagne : procès Nord Stream, un ex-officier ukrainien jugé à Hambourg",
-    "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités Internationales",
-    "titre": "Russie-Japon : un journaliste japonais arrêté pour espionnage présumé",
-    "url": "https://www.euronews.com/2026/10/14/russia-arrests-japanese-hokkaido-shimbun-journalist-on-suspicion-of-spying"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : Lecornu met en garde contre le « cauchemar » budgétaire du RN pour les collectivités",
-    "url": "https://lesinguliersete.fr/lecornu-previent-que-le-programme-budgetaire-du-rn-vire-au-cauchemar/"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités France",
-    "titre": "Présidentielle 2027 : Natacha Polony officialise sa candidature",
-    "url": "https://www.cnews.fr/france/2026-10-14/presidentielle-2027-lessayiste-natacha-polony-annonce-sa-candidature-1934782"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités France",
-    "titre": "France-Tchad : Macron et Déby Itno signent une déclaration d'intention militaire",
-    "url": "https://fr.allafrica.com/stories/202610140407.html"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités France",
-    "titre": "PLFSS 2027 : les députés votent l'extension de la « taxe soda » aux produits sucrés transformés",
-    "url": "https://www.franceinfo.fr/economie/budget/les-deputes-favorables-a-l-extension-de-la-taxation-des-aliments-sucres-lors-des-premiers-debats-sur-le-budget_8238067.html"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Actualités France",
-    "titre": "Inflation : l'Insee confirme une hausse de 3 % sur un an en septembre",
-    "url": "https://www.insee.fr/fr/statistiques/9056956"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "République de Guinée",
-    "titre": "Grâce présidentielle : 312 détenus graciés par Mamadi Doumbouya",
-    "url": "https://mediaguinee.com/2026/10/guinee-312-detenus-gracies-par-mamadi-doumbouya-sous-condition-dun-stage-de-30-jours"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "République de Guinée",
-    "titre": "Diplomatie : Mohamed Keïta nommé ambassadeur de Guinée en Russie",
-    "url": "https://mediaguinee.com/2026/10/diplomatie-le-president-doumbouya-nomme-mohamed-keita-ambassadeur-de-la-guinee-en-russie-decret"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "République de Guinée",
-    "titre": "Un séisme de magnitude 6,9 détecté au large de la Guinée, Conakry non menacée",
-    "url": "https://www.guinee7.com/2026/10/14/seisme-au-large-de-la-guinee-voici-pourquoi-conakry-nest-pas-menacee/"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "République de Guinée",
-    "titre": "FDSI : le directeur général Lansana Diawara placé sous mandat de dépôt",
-    "url": "https://www.lerenifleur224.com/2026/10/14/guinee-le-directeur-general-du-fdsi-lansana-diawara-place-sous-mandat-de-depot/"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "République de Guinée",
-    "titre": "Éducation : les enseignants contractuels de Conakry dénoncent une « trahison » syndicale",
-    "url": "https://www.guinee7.com/2026/10/14/education-les-contractuels-de-conakry-denoncent-une-trahison-et-desertent-les-classes/"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : le prix spot bondit à 191 €/MWh le 14 octobre (+12,8 %)",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-14"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Nucléaire : arrêt automatique d'un réacteur à la centrale EDF de Golfech",
-    "url": "https://www.edf.fr/la-centrale-nucleaire-de-golfech/les-actualites-de-la-centrale-nucleaire-de-golfech/arret-automatique-du-reacteur-de-l-unite-de-production-ndeg2"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Maintenance nucléaire : le PNF perquisitionne des prestataires d'EDF",
-    "url": "https://rtenfrancais.tv/france/138975-maintenance-nucleaire-france-pnf-perquisitionne-entreprises-soup%C3%A7onnees-entente-corruption"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Renault prévoit 25 % de production électrique supplémentaire, un défi énergétique pour ses usines",
-    "url": "https://lenergeek.com/2026/10/14/renault-production-electrique-consommation-energie-usines/"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Carburants : le gazole stable à 2,358 €/L le 14 octobre",
-    "url": "https://media.roole.fr/quotidien/au-volant/prix-des-carburants-voici-les-tarifs-en-france-ce-mercredi-14-octobre-2026"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'Union européenne ouvre ses premières enquêtes au titre de l'AI Act contre OpenAI et Anthropic",
-    "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Un ingénieur saoudien d'OpenAI arrêté par le FBI pour avoir dissimulé un micro espion",
-    "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "OpenAI poursuivie par huit États américains sur la sécurité des mineurs",
-    "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'IA a gagné les marchés mais perd la confiance de l'opinion mondiale",
-    "url": "https://legrandcontinent.eu/fr/2026/10/15/intelligence-artificielle-inverser-lerosion-de-la-confiance/"
-  },
-  {
-    "date": "2026-10-15",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Sommet OCP de San Jose : xFusion présente ses infrastructures de refroidissement pour l'IA",
-    "url": "https://enerzine.com/xfusion-detaille-ses-solutions-dinfrastructure-ia-a-locp-2026/197190-2026-10"
-  },
-  {
     "date": "2026-10-16",
     "theme": "Actualités Internationales",
     "titre": "Sommet européen à Bruxelles (15-16 octobre) : soutien à l'Ukraine, flambée des prix de l'énergie et budget 2028-2034",
@@ -814,5 +664,83 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Meta lance Waddle World, une application d'animal de compagnie virtuel propulsée par l'IA",
     "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Actualités Internationales",
+    "titre": "Gaza : Tsahal annonce avoir tué six membres du Hamas, le PAM alerte sur l'insécurité alimentaire",
+    "url": "https://www.timesofisrael.com/liveblog-october-29-2026/"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Actualités Internationales",
+    "titre": "Au moins 27 Ougandais recrutés pour combattre dans l'armée russe en Ukraine sont morts ou disparus",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-october-29-2026"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Actualités Internationales",
+    "titre": "Washington et Moscou discuteraient d'une levée des sanctions visant le fonds souverain russe",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-october-29-2026"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Actualités Internationales",
+    "titre": "Les ministres des Affaires étrangères du G20 ouvrent une réunion de deux jours à Atlanta",
+    "url": "https://rekto.substack.com/p/vendredi-30-octobre-2026"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Actualités Internationales",
+    "titre": "Italie : journée nationale de grèves à l'appel du syndicat USB contre la vie chère",
+    "url": "https://rekto.substack.com/p/vendredi-30-octobre-2026"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Actualités France",
+    "titre": "Sénat : adoption du projet de loi « casseurs-payeurs » par 229 voix contre 105",
+    "url": "https://regardsprotestants.com/actualites/societe/loi-casseurs-payeurs-les-senateurs-adoptent-le-texte-et-etendent-son-champ-daction/"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Actualités France",
+    "titre": "Budget 2027 : amendement adopté pour faire payer aux multinationales l'IS sur leur activité réelle en France",
+    "url": "https://lcp.fr/dossiers/budget-2027-440523"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Actualités France",
+    "titre": "L'Insee publie sa première estimation de l'inflation d'octobre 2026",
+    "url": "https://www.insee.fr/fr/accueil"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "République de Guinée",
+    "titre": "Plusieurs militaires et gendarmes radiés des effectifs de l'armée pour désertion",
+    "url": "https://guineematin.com/2026/10/29/guinee-plusieurs-militaires-radies-des-effectifs-de-larmee-pour-desertion/"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "République de Guinée",
+    "titre": "CAN féminine de handball 2026 : la Guinée fixée sur ses adversaires de poule B",
+    "url": "https://guineematin.com/2026/10/29/can-seniors-dames-de-handball-2026-la-guinee-fixee-sur-ses-adversaires/"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : le prix spot moyen atteint un record mensuel à 267 €/MWh le 29 octobre",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-29"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Gaz : les cours à terme 2027-2028 traduisent un pari du marché sur une détente des prix",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-10-28"
+  },
+  {
+    "date": "2026-10-30",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La startup indienne de « physical AI » Tensrai lève 3,4 crores de roupies en pré-amorçage",
+    "url": "https://ascendants.in/funding-feed/tensrai-raises-rs-3-4-crore-pre-seed-funding-physical-ai-robotics"
   }
 ]
