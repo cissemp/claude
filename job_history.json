@@ -910,5 +910,29 @@
     "date_envoi": "2026-10-28",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://jobs.concentrix.com/job/phn-phn-15751290",
+    "titre": "Director Data & AI Advisory Services",
+    "entreprise": "Concentrix",
+    "date_envoi": "2026-10-30",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.the-intelligence-academy.com/job-board/offre/directeur-de-programmes-data-ia-generale-europe-consultants-38168",
+    "titre": "Directeur de programmes Data / IA (F/H)",
+    "entreprise": "Generale Europe Consultants",
+    "date_envoi": "2026-10-30",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.the-intelligence-academy.com/job-board/offre/responsable-de-transformation-data-ia-i2p-data-ratp-28016",
+    "titre": "Responsable de transformation Data/IA F/H (I2P-DATA)",
+    "entreprise": "RATP",
+    "date_envoi": "2026-10-30",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
