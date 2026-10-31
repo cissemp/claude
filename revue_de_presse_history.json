@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-16",
-    "theme": "Actualités Internationales",
-    "titre": "Sommet européen à Bruxelles (15-16 octobre) : soutien à l'Ukraine, flambée des prix de l'énergie et budget 2028-2034",
-    "url": "https://fr.euronews.com/video/2026/10/15/linfo-du-jour-15-octobre-2026-matin"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "Actualités Internationales",
-    "titre": "Pakistan : effondrement du toit d'une école à Peshawar, plusieurs dizaines d'enfants tués",
-    "url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "Actualités Internationales",
-    "titre": "Vatican : le pape Léon XIV a passé une « bonne nuit » après son opération pulmonaire",
-    "url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-evening"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "Actualités France",
-    "titre": "Mobilisation lycéenne : nouvelles violences à Paris lors d'un rassemblement de lycéens et d'étudiants",
-    "url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-evening"
-  },
-  {
-    "date": "2026-10-16",
-    "theme": "République de Guinée",
-    "titre": "OGP : Mamadi Doumbouya nomme Mohamed Bangoura « Banks » directeur général",
-    "url": "https://www.guinee360.com/15/10/2026/ogp-mohamed-bangoura-nomme-directeur-general"
-  },
-  {
     "date": "2026-10-17",
     "theme": "Actualités Internationales",
     "titre": "Istanbul paralysée par des pluies record, au moins trois morts",
@@ -742,5 +712,41 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "La startup indienne de « physical AI » Tensrai lève 3,4 crores de roupies en pré-amorçage",
     "url": "https://ascendants.in/funding-feed/tensrai-raises-rs-3-4-crore-pre-seed-funding-physical-ai-robotics"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "Actualités France",
+    "titre": "Grève nationale des dockers CGT : 24 ports français quasiment à l'arrêt",
+    "url": "https://www.ici.fr/infos/economie-social/les-ports-francais-quasiment-a-l-arret-ce-vendredi-en-raison-d-une-greve-des-dockers-2878845"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "République de Guinée",
+    "titre": "FRATEL 2026 à Conakry : la Guinée au cœur du défi de la connectivité numérique pour tous",
+    "url": "https://guineenews.org/2026/10/29/fratel-2026-a-conakry-la-guinee-au-coeur-du-defi-de-la-connectivite-numerique-pour-tous/"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "République de Guinée",
+    "titre": "Port autonome de Conakry : une nouvelle présidente nommée au conseil d'administration",
+    "url": "https://guineenews.org/2026/10/30/port-autonome-de-conakry-une-nouvelle-presidente-nommee-au-conseil-dadministration-decret/"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "République de Guinée",
+    "titre": "Plusieurs hauts cadres nommés au ministère de l'Assainissement",
+    "url": "https://guineematin.com/2026/10/30/guinee-plusieurs-hauts-cadres-nommes-au-ministere-de-lassainissement/"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "République de Guinée",
+    "titre": "La Fédération pour la paix universelle en Afrique distingue 13 nouveaux ambassadeurs de paix en Guinée",
+    "url": "https://guineematin.com/2026/10/30/conakry-la-federation-pour-la-paix-universelle-pour-lafrique-distingue-13-nouveaux-ambassadeurs-de-paix-en-guinee/"
+  },
+  {
+    "date": "2026-10-31",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI réduit de 10 milliards de dollars l'objectif de son tour de financement en cours",
+    "url": "https://startupfortune.com/openai-cuts-its-funding-round-target-by-10-billion-dollars-amid-market-jitters/"
   }
 ]
