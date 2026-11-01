@@ -1,77 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "theme": "Actualités Internationales",
-    "titre": "Istanbul paralysée par des pluies record, au moins trois morts",
-    "url": "https://www.cp24.com/news/world/2026/10/15/heavy-rain-shuts-down-istanbul-causing-flooding-and-3-deaths/"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "Actualités France",
-    "titre": "Mobilisation nationale du 17 octobre : Macron appelle au calme",
-    "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-17-octobre-pour-le-moment-nous-n-avons-pas-un-accord-global-sur-un-itineraire-pour-le-cortege-parisien-annonce-le-prefet-de-police_8240176.html"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "République de Guinée",
-    "titre": "CRIEF : Mohamed Diané condamné à 4 ans et 8 mois de prison en appel",
-    "url": "https://guineenews.org/2026/10/15/crief-dr-mohamed-diane-condamne-a-4-ans-et-8-mois-deux-mois-de-prison-encore-a-purger/"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "République de Guinée",
-    "titre": "La Fondation UBA offre des kits scolaires à des enfants vulnérables à Conakry",
-    "url": "https://guineematin.com/2026/10/15/guinee-la-fondation-uba-offre-des-kits-scolaires-aux-enfants-vulnerables-et-en-situation-de-handicap/"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "République de Guinée",
-    "titre": "Bauxite : Fadi Wazni annonce une raffinerie d'alumine pour fin 2027",
-    "url": "https://guineenews.org/2026/10/16/bauxite-fadi-wazni-annonce-une-raffinerie-dalumine-pour-fin-2027-et-evoque-12-milliard-usd-de-recettes-fiscales-en-2026/"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "République de Guinée",
-    "titre": "Championnat d'Afrique de MMA : la Guinée remporte cinq médailles à Abidjan",
-    "url": "https://guineematin.com/2026/10/16/championnat-dafrique-de-mma-la-guinee-remporte-cinq-medailles-dont-deux-en-or-a-abidjan/"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "République de Guinée",
-    "titre": "Labé : 16 personnes jugées pour des faits liés à la chicha",
-    "url": "https://guineematin.com/2026/10/16/labe-16-personnes-repondent-de-faits-presumes-de-consommation-de-detention-et-de-recel-de-chicha-entre-autres/"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic ouvre l'accès à ses systèmes à des chercheurs indépendants de METR",
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "L'Inde signale une activité d'agents IA indésirables sur ses systèmes",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "La startup Elorian lance Glimpse, un modèle de raisonnement visuel",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Les valeurs technologiques liées à l'IA chutent sur fond d'inquiétudes de financement",
-    "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
-  },
-  {
-    "date": "2026-10-17",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Le modèle Jev de TypeSafe AI devient le plus rapidement adopté sur Vercel",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
-  },
-  {
     "date": "2026-10-18",
     "theme": "Actualités Internationales",
     "titre": "Ukraine : nouvelles frappes russes sur les infrastructures énergétiques (Jytomyr, Dnipro, Kyiv)",
@@ -748,5 +676,35 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "OpenAI réduit de 10 milliards de dollars l'objectif de son tour de financement en cours",
     "url": "https://startupfortune.com/openai-cuts-its-funding-round-target-by-10-billion-dollars-amid-market-jitters/"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "Actualités Internationales",
+    "titre": "Washington évoque un rapprochement vers un accord de paix en Ukraine, Européens exclus des pourparlers trilatéraux",
+    "url": "https://ua.news/en/war-vs-rf/mi-nablizhaiemosia-do-togo-shchob-dosiagti-mirnoyi-ugodi-v-ukrayini-tramp"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "République de Guinée",
+    "titre": "Assemblée nationale : 30 projets financés par prêts extérieurs peinent à dépasser 10% de décaissement",
+    "url": "https://guineematin.com/2026/10/31/assemblee-nationale-30-projets-finances-par-des-prets-exterieurs-peinent-a-depasser-10-de-decaissement/"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "République de Guinée",
+    "titre": "Emprunt obligataire : la Guinée mobilise 4 579 milliards GNF, dépassant l'objectif initial",
+    "url": "https://guineematin.com/2026/10/31/emprunt-obligataire-la-guinee-mobilise-4-579-milliards-gnf-depassant-largement-lobjectif-initial/"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "République de Guinée",
+    "titre": "Octobre Rose à Conakry : marche du ministère de la Santé et annonce d'un centre de cancérologie",
+    "url": "https://guineematin.com/2026/10/31/octobre-rose-a-conakry-le-ministere-de-la-sante-organise-une-marche-et-annonce-la-construction-dun-centre-de-cancerologie/"
+  },
+  {
+    "date": "2026-11-01",
+    "theme": "République de Guinée",
+    "titre": "« 10 ans au service de l'État pour 550 000 GNF » : le cri de détresse des contractuels temporaires",
+    "url": "https://www.guinee7.com/2026/10/31/guinee-10-ans-au-service-de-letat-pour-550-000-gnf-le-cri-de-detresse-des-contractuels/"
   }
 ]
