@@ -934,5 +934,37 @@
     "date_envoi": "2026-10-30",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/cs/companies/europ-assistance-holding/jobs/chief-data-officer-f-h_saint-denis",
+    "titre": "Chief Data Officer F/H",
+    "entreprise": "Europ Assistance Holding (Groupe Generali)",
+    "date_envoi": "2026-11-01",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/O093260617000402/",
+    "titre": "Directeur adjoint ou Directrice adjointe Data et IA (H/F)",
+    "entreprise": "Departement de la Seine-Saint-Denis",
+    "date_envoi": "2026-11-01",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/experte-ou-expert-de-haut-niveau---prefiguration-de-la-sous-direction-a-la-strategie-ia-et-numerique-reference-2026-2340926/",
+    "titre": "Experte ou expert de haut niveau - prefiguration de la sous-direction a la strategie IA et numerique",
+    "entreprise": "Ministere de l Economie et des Finances (DIAN)",
+    "date_envoi": "2026-11-01",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/2026-2365635/",
+    "titre": "Directeur de programmes numeriques transverses F/H",
+    "entreprise": "Direction du Numerique des ministeres sociaux (DNUM)",
+    "date_envoi": "2026-11-01",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
