@@ -966,5 +966,37 @@
     "date_envoi": "2026-11-01",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-systemes-d-information-hf---courbevoie-reference-O092260429000905/",
+    "titre": "Directeur des Systemes d'Information H/F",
+    "entreprise": "Mairie de Courbevoie",
+    "date_envoi": "2026-11-02",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-innovation-numerique-et-systemes-d-information---mairie-de-argenteuil-reference-O095260804000323/",
+    "titre": "Directeur Innovation Numerique et Systemes d'Information H/F",
+    "entreprise": "Mairie d'Argenteuil",
+    "date_envoi": "2026-11-02",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-systemes-dinformation--hf---rungis-reference-O094260521001977/",
+    "titre": "Directeur des Systemes d'Information H/F",
+    "entreprise": "Mairie de Rungis",
+    "date_envoi": "2026-11-02",
+    "candidature_preparee": true,
+    "contact_email": "recrutement@ville-rungis.fr"
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-systemes-d-information---mairie-de-villebon-sur-yvette-reference-O091260707002702/",
+    "titre": "Directeur des Systemes d'Information",
+    "entreprise": "Mairie de Villebon-sur-Yvette",
+    "date_envoi": "2026-11-02",
+    "candidature_preparee": true,
+    "contact_email": "drhrecrutement@villebon-sur-yvette.fr"
   }
 ]
