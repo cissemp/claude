@@ -1,101 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "theme": "Actualités Internationales",
-    "titre": "Ukraine : attaque de plus de 1000 drones contre la Russie, terminal pétrolier de Saint-Pétersbourg visé",
-    "url": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "Actualités Internationales",
-    "titre": "Poutine proposerait un sommet trilatéral avec Trump et Xi Jinping sur l'Ukraine (WSJ)",
-    "url": "https://www.devdiscourse.com/article/international/3994286-reuters-world-news-summary"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "Actualités Internationales",
-    "titre": "Zelensky qualifie d'erreur la levée par Trump de sanctions visant la Russie",
-    "url": "https://www.devdiscourse.com/article/international/3994286-reuters-world-news-summary"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "Actualités Internationales",
-    "titre": "Albanie : la police tire des balles en caoutchouc sur des étudiants réclamant la démission d'Edi Rama",
-    "url": "https://www.devdiscourse.com/article/international/3994286-reuters-world-news-summary"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "Actualités Internationales",
-    "titre": "République tchèque : l'opposition remporte la majorité des sièges sénatoriaux disputés, l'ANO de Babiš n'en obtient aucun",
-    "url": "https://abcnews.go.com/International/wireStory/main-czech-opposition-party-wins-seats-election-senate-114315978"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "Actualités France",
-    "titre": "Violences du 17 octobre : un mort, près de 1800 interpellations, Macron s'adresse à la nation",
-    "url": "https://www.usnews.com/news/world/articles/2026-10-18/france-faces-aftermath-of-worst-unrest-in-years"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "République de Guinée",
-    "titre": "Lancement du concours de recrutement de 6000 enseignants, environ 14 000 candidats à Kindia",
-    "url": "https://guineenews.org/2026/10/17/"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "République de Guinée",
-    "titre": "Concours de 4500 agents de santé : ouverture des inscriptions reportée au 22 octobre",
-    "url": "https://guineenews.org/2026/10/17/"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "République de Guinée",
-    "titre": "Décret fixant l'organisation du Service national des infrastructures judiciaires et pénitentiaires",
-    "url": "https://guineenews.org/2026/10/17/"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "République de Guinée",
-    "titre": "Les huissiers de justice suspendent leur mouvement de débrayage illimité",
-    "url": "https://guineenews.org/2026/10/17/"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "République de Guinée",
-    "titre": "Deux ministres limogés en août toujours sans successeurs nommés",
-    "url": "https://guineenews.org/2026/10/17/"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic pitche discrètement un projet de loi sur la sécurité de l'IA frontière au Congrès américain",
-    "url": "https://jpatoconnell.substack.com/p/the-and-report-42-october-17-2026"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "La Chine propose d'ajouter 23 technologies d'IA à sa liste de contrôle des exportations",
-    "url": "https://jpatoconnell.substack.com/p/the-and-report-42-october-17-2026"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Le FMI alerte sur le risque des montages financiers circulaires dans l'IA (300 Md$ de fonds propres, 650 Md$ de dette)",
-    "url": "https://jpatoconnell.substack.com/p/the-and-report-42-october-17-2026"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic proposerait à Blackstone un coupon de 10% sur 9 Md$ de dette junior (Project North Star)",
-    "url": "https://fourweekmba.com/ai-daily-roundup-17-oct-2026-anthropic-debt-openai-ads/"
-  },
-  {
-    "date": "2026-10-19",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "OpenAI pourrait manquer son objectif de 2,4 Md$ de revenus publicitaires en 2026",
-    "url": "https://fourweekmba.com/ai-daily-roundup-17-oct-2026-anthropic-debt-openai-ads/"
-  },
-  {
     "date": "2026-10-20",
     "theme": "Actualités France",
     "titre": "PLFSS 2027 rejeté en commission, examiné à l'Assemblée à partir du 20 octobre, objectif de déficit à 12,7 Md€",
@@ -700,5 +604,119 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Le CNC encadre l'usage de l'IA par ses commissions d'aide via une délibération publiée au Journal officiel",
     "url": "https://www.juriguide.com/2026/11/01/cnc-aides-intelligence-artificielle-auteurs-conditions-financement-novembre-2026/"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités Internationales",
+    "titre": "Les cours du pétrole reculent après des informations selon lesquelles le guide suprême iranien aurait délégué une partie de ses pouvoirs au gouvernement pour mener des pourparlers de paix",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-november-2-2026"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités Internationales",
+    "titre": "Les Américains votent le 3 novembre lors d'élections de mi-mandat décisives pour le contrôle du Congrès",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-november-2-2026"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités Internationales",
+    "titre": "Gaza : l'armée israélienne affirme avoir tué au moins cinq personnes et mis fin à un siège de onze jours à Hébron",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-november-2-2026"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités Internationales",
+    "titre": "Reprise des combats dans le nord de l'Éthiopie, l'OMS alerte sur un système de santé proche de l'effondrement",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-november-2-2026"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités Internationales",
+    "titre": "La Chine intensifie sa diplomatie au Moyen-Orient, multipliant les contacts avec l'Iran et Oman",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-november-2-2026"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités France",
+    "titre": "À la SNCF, quatre syndicats de cheminots forment un front syndical rare en vue de la grève du 5 novembre",
+    "url": "https://www.24matins.fr/a-la-sncf-un-front-syndical-rare-vise-le-5-novembre-2026-1422798"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités France",
+    "titre": "L'ensemble des syndicats de l'enseignement privé sous contrat rejoint pour la première fois la grève du 5 novembre",
+    "url": "https://www.24matins.fr/greve-du-5-novembre-le-prive-sous-contrat-bascule-a-son-tour-1422972"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités France",
+    "titre": "Grève du 5 novembre : les aéroports CDG et Orly pourraient être perturbés, aucun préavis déposé à la RATP",
+    "url": "https://thelocal.fr/20261102/french-protests-what-to-expect-from-november-5th-strikes"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Actualités France",
+    "titre": "Le prix Goncourt 2026 est décerné ce 3 novembre au restaurant Drouant à Paris",
+    "url": "https://thelocal.fr/20261102/french-protests-what-to-expect-from-november-5th-strikes"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "République de Guinée",
+    "titre": "Guinée-Türkiye : le ministre Aboubacar Kourouma plaide pour des échanges plus équilibrés et davantage d'investissements industriels",
+    "url": "https://guineematin.com/2026/11/02/guinee-turkiye-le-ministre-aboubacar-kourouma-plaide-pour-des-echanges-plus-equilibres-et-davantage-dinvestissements-industriels/"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "République de Guinée",
+    "titre": "6e Foire économique de Siguiri : 150 000 visiteurs attendus du 5 au 29 novembre",
+    "url": "https://guineematin.com/2026/11/01/150-000-visiteurs-attendus-100-stands-10-bourses-les-ambitions-de-la-6e-foire-economique-de-siguiri-devoilees/"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "République de Guinée",
+    "titre": "Le 68e anniversaire de l'armée guinéenne célébré le 1er novembre à travers le pays",
+    "url": "https://guineematin.com/2026/11/01/koubia-le-68e-anniversaire-de-larmee-guineenne-celebre-dans-le-nouveau-camp-militaire/"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "République de Guinée",
+    "titre": "La loi de finances rectificative 2026 réévalue les recettes de l'État guinéen à 60 064,47 milliards GNF",
+    "url": "https://guineelive.com/2026/11/02/plfr-2026-le-budget-de-letat-guineen-reevalue-a-60-06447-milliards-de-francs-guineens/"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "République de Guinée",
+    "titre": "Ligue 2 Pro : l'Union FC bat son dauphin le FC Séquence (1-0) lors de la 10e journée",
+    "url": "https://www.guinee7.com/2026/11/02/ligue-2-pro-lunion-fc-soffre-le-scalp-du-dauphin-fc-sequence/"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Énergie & ENEDIS",
+    "titre": "De nouvelles règles de calcul pour l'effacement électrique, approuvées par la CRE, entrent en vigueur le 1er novembre",
+    "url": "https://les-smartgrids.fr/effacement-electricite-cre-regles-rte-1er-novembre-2026/"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Le prix repère CRE du gaz pour le chauffage augmente de 8,3% en novembre, facture type à environ 1937€/an",
+    "url": "https://selectra.info/energie/actualites/marche/officiel-prix-gaz-novembre-2026-kwh-electricite"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Le marché du gaz (PEG) rouvre le 2 novembre après la clôture de vendredi",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-11-02"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Oracle dépose une demande pour lever 20 milliards de dollars afin de financer son expansion dans l'IA et le cloud, son action chute de plus de 6%",
+    "url": "https://aiweekly.co/alerts/oracle-files-20b-stock-and-bond-raise-to-fund-ai-buildout"
+  },
+  {
+    "date": "2026-11-03",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Les engagements d'infrastructure cumulés des cinq plus grandes entreprises technologiques dans l'IA dépasseraient 3000 milliards de dollars selon Bloomberg",
+    "url": "https://enoumen.substack.com/p/anthropic-ouvre-ses-livres-la-facture"
   }
 ]
