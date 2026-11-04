@@ -1,47 +1,5 @@
 [
   {
-    "date": "2026-10-20",
-    "theme": "Actualités France",
-    "titre": "PLFSS 2027 rejeté en commission, examiné à l'Assemblée à partir du 20 octobre, objectif de déficit à 12,7 Md€",
-    "url": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "République de Guinée",
-    "titre": "Finale CAN 2025 : le TAS annonce sa sentence pour fin novembre",
-    "url": "https://guineenews.org/2026/10/19/finale-can-2025-le-tas-annonce-sa-sentence-pour-fin-novembre/"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Électricité : prix spot moyen à 221,8 €/MWh le 19 octobre (+15,7%), pic du mois sur le marché de gros",
-    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-10-19"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Trois identifiants de modèles non documentés repérés dans l'API d'OpenAI le 18 octobre",
-    "url": "https://aiweekly.co/ai-news-today"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Google préparerait Gemini 4 Carbon, successeur de Gemini 4 Argon",
-    "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic développerait un nouveau modèle à raisonnement et intuition renforcés",
-    "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891"
-  },
-  {
-    "date": "2026-10-20",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic annoncerait l'engagement de 5% de ses parts dans un fonds d'intérêt public",
-    "url": "https://aiweekly.co/ai-news-today"
-  },
-  {
     "date": "2026-10-21",
     "theme": "Actualités France",
     "titre": "Incendie de la mairie de Limoges : les accusations de JD Vance sur l'immigration relancent la polémique",
@@ -718,5 +676,83 @@
     "theme": "IT & Intelligence Artificielle",
     "titre": "Les engagements d'infrastructure cumulés des cinq plus grandes entreprises technologiques dans l'IA dépasseraient 3000 milliards de dollars selon Bloomberg",
     "url": "https://enoumen.substack.com/p/anthropic-ouvre-ses-livres-la-facture"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Actualités Internationales",
+    "titre": "Midterms américaines : les démocrates proches de reprendre le contrôle du Congrès",
+    "url": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?entryId=137798926&id=137782085"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : un nouveau round de pourparlers trilatéraux confirmé à Abou Dabi les 10-11 novembre",
+    "url": "https://www.themoscowtimes.com/2026/11/03/us-mediated-ukraine-peace-talks-to-resume-in-abu-dhabi-next-week-witkoff-says-a94160"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Actualités Internationales",
+    "titre": "Les États-Unis frappent des cibles iraniennes sur l'île de Qeshm, dans le détroit d'Ormuz",
+    "url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Actualités Internationales",
+    "titre": "Afrique du Sud : élections locales ce 4 novembre, scrutin le plus disputé depuis 2021",
+    "url": "https://www.sanews.gov.za/node/81127"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Actualités France",
+    "titre": "Philippe Jaenada remporte le prix Goncourt 2026",
+    "url": "https://actualitte.com/article/135019/prix-litteraires/philippe-jaenada-laureat-du-prix-goncourt-2026-pour-l-inconnue-du-quai-de-javel"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Actualités France",
+    "titre": "Nice : enquête pour tentative de meurtre après l'agression d'une directrice d'école maternelle",
+    "url": "https://www.franceinfo.fr/faits-divers/une-enquete-pour-tentative-de-meurtre-ouverte-apres-l-agression-d-une-directrice-avec-une-arme-a-feu-dans-une-ecole-maternelle_8265497.html"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "République de Guinée",
+    "titre": "Élections régionales et sénatoriales : Doumbouya convoque le corps électoral",
+    "url": "https://guineematin.com/2026/11/03/elections-regionales-et-senatoriales-en-guinee-mamadi-doumbouya-convoque-le-corps-electoral/"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "République de Guinée",
+    "titre": "Guinée : deux candidats retenus pour les postes de gouverneur et 92 pour ceux de préfet",
+    "url": "https://guineematin.com/2026/11/03/guinee-deux-candidats-retenus-pour-les-postes-de-gouverneur-et-92-pour-ceux-de-prefet/"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "République de Guinée",
+    "titre": "Armée guinéenne : Doumbouya envoie plusieurs militaires à la retraite",
+    "url": "https://www.guinee360.com/03/11/2026/armee-guineenne-mamadi-doumbouya-envoie-plusieurs-militaires-a-la-retraite"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "République de Guinée",
+    "titre": "Conakry : la décharge de Dar es Salam fermée et sécurisée d'ici un an",
+    "url": "https://www.guinee7.com/2026/11/03/conakry-decharge-dar-es-salam-fermeture-rehabilitation-riverains/"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "République de Guinée",
+    "titre": "Championnat du monde de sambo : cinq Guinéens à la conquête des médailles en Ouzbékistan",
+    "url": "https://www.guinee7.com/2026/11/03/championnat-du-monde-de-sambo-cinq-guineens-a-la-conquete-des-medailles-en-ouzbekistan/"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Heures creuses : la réforme Enedis s'applique désormais à 9,3 millions de foyers supplémentaires",
+    "url": "https://lenergeek.com/2026/11/03/reforme-heures-creuses-enedis-reseau/"
+  },
+  {
+    "date": "2026-11-04",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "La startup portugaise Granter lève 1,6 M€ pour accélérer son expansion en Europe",
+    "url": "https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe"
   }
 ]
