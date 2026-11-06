@@ -1,143 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "theme": "Actualités Internationales",
-    "titre": "Witkoff rencontre Poutine à Saint-Pétersbourg, la Russie libère Stephen Hubbard",
-    "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités Internationales",
-    "titre": "Les relations Washington-Kyiv se tendent, Trump et Zelensky s'opposent sur les négociations et les armes",
-    "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités Internationales",
-    "titre": "Attaque contre l'aéroport King Fahd de Dammam, un mort et huit blessés",
-    "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités Internationales",
-    "titre": "L'Italie adopte des mesures de sécurité renforcées et déploie 500 militaires à Milan",
-    "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités Internationales",
-    "titre": "La tempête Adam fait au moins cinq morts dans l'est de l'Espagne",
-    "url": "https://www.euronews.com/2026/10/20/at-least-five-killed-and-thousands-evacuated-as-storm-adam-batters-eastern-spain"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités France",
-    "titre": "L'armée déployée dans les rues avant de nouvelles manifestations",
-    "url": "https://www.euronews.com/video/2026/10/21/europe-today-france-to-deploy-army-before-weekend-protests-as-italy-tightens-powers"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités France",
-    "titre": "Lecornu promet de nouveaux couvre-feux localisés après une nuit calme",
-    "url": "https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités France",
-    "titre": "La police accusée d'avoir brutalisé des mineurs, l'IGPN ouvre 36 enquêtes",
-    "url": "https://www.aljazeera.com/news/2026/10/21/i-am-still-traumatised-french-police-accused-of-brutalising-minors"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités France",
-    "titre": "Macron sécurise un supplément de gazole du Golfe face à la flambée des prix",
-    "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Actualités France",
-    "titre": "Macron affirme que les manifestants ne provoqueront pas le chaos, plus de 2500 arrestations",
-    "url": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "République de Guinée",
-    "titre": "Nouveaux présidents et procureurs nommés dans les tribunaux de première instance (décret)",
-    "url": "https://guineenews.org/2026/10/21/justice-de-nouveaux-presidents-et-procureurs-nommes-dans-les-tribunaux-de-premiere-instance-decret/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "République de Guinée",
-    "titre": "Ex-président de la Cour constitutionnelle Bangoura condamné à 7 ans de prison",
-    "url": "https://guineematin.com/2026/10/21/guinee-mohamed-lamine-bangoura-ex-president-de-la-cour-constitutionnelle-condamne-a-7-ans-de-prison-pour-des-crimes-economiques/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "République de Guinée",
-    "titre": "La Guinée accélère sa marche vers le zéro papier avec la signature électronique de l'État",
-    "url": "https://guineenews.org/2026/10/21/signature-electronique-de-letat-la-guinee-accelere-sa-marche-vers-le-zero-papier-et-la-souverainete-numerique/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "République de Guinée",
-    "titre": "Grève illimitée menacée à la mairie de Dixinn dès le 26 octobre",
-    "url": "https://guineematin.com/2026/10/20/mairie-de-dixinn-neuf-mois-darrieres-de-salaire-les-travailleurs-menacent-dune-greve-illimitee-des-le-26-octobre/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "République de Guinée",
-    "titre": "Dix hectares de périmètres maraîchers en aménagement à Sonfonia Lac (PAGUITA)",
-    "url": "https://guineematin.com/2026/10/21/paguita-dix-hectares-de-perimetres-maraichers-en-amenagement-a-sonfonia-lac-pour-renforcer-la-souverainete-alimentaire/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Départ de feu maîtrisé sur un transformateur à la centrale nucléaire de Cattenom",
-    "url": "https://www.ici.fr/grand-est/moselle-57/cattenom/un-depart-de-feu-rapidement-maitrise-a-la-centrale-nucleaire-de-cattenom-aucun-impact-sur-l-activite-du-site-7398726"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Énergie & ENEDIS",
-    "titre": "La CRE valide une hausse des tarifs de raccordement Enedis dès le 28 octobre",
-    "url": "https://www.les-energies-renouvelables.eu/article/actualites/energies/ce-que-la-hausse-des-tarifs-enedis-change-pour-votre-raccordement-solaire-des-le-28-octobre-2026-1740/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "Énergie & ENEDIS",
-    "titre": "La Russie envoie son premier pétrolier de diesel vers les États-Unis dans le cadre de l'accord Trump",
-    "url": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Vague d'incidents de cybersécurité, le proxy open source LiteLLM compromis",
-    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic lance Claude Duet, un agent proactif en accès anticipé",
-    "url": "https://docs.anthropic.com/en/release-notes/claude-apps"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Walmart ouvre son site aux agents d'achat IA via Agent Gateway, Amazon les bloque",
-    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "La startup juridique Legora lève 550 millions de dollars en série E",
-    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"
-  },
-  {
-    "date": "2026-10-22",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Craintes sur la dette liée à l'IA, Blackstone rassure alors que CoreWeave chute",
-    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
-  },
-  {
     "date": "2026-10-26",
     "theme": "Actualités Internationales",
     "titre": "Frappe israélienne sur l'université islamique de Gaza : trois morts, huit blessés",
@@ -790,5 +652,113 @@
     "theme": "Énergie & ENEDIS",
     "titre": "Chaleur industrielle : 22 projets bois-biomasse soutenus par plus de 19 millions d'euros",
     "url": "https://lenergeek.com/2026/11/03/biomasse-chaleur-industrie-bois-22-projets-19-millions-20261103-0638/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Actualités Internationales",
+    "titre": "Environ 30 vols visés par de fausses alertes à la bombe en Europe le 5 novembre, soupçons sur la Russie",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-november-5-2026"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Actualités Internationales",
+    "titre": "Un soldat turc tué par des tirs provenant d'Iran dans la province de Hakkâri, enquête ouverte",
+    "url": "https://www.foreignexchanges.news/p/world-roundup-november-5-2026"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Actualités Internationales",
+    "titre": "La Corée du Nord procède à de nouveaux tirs de missiles après avoir rejeté une reprise des pourparlers",
+    "url": "https://www.riotimesonline.com/asia-intelligence-brief-thursday-november-5-2026"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Actualités Internationales",
+    "titre": "Soudan : les coupures d'électricité s'aggravent après de nouvelles frappes de drones des FSR contre des postes électriques",
+    "url": "https://www.riotimesonline.com/africa-intelligence-brief-thursday-november-5-2026"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Actualités Internationales",
+    "titre": "Paraguay : le gouverneur de la banque centrale démissionne sous la pression du président Peña, crise de la banque Ueno",
+    "url": "https://www.thestar.com.my/news/world/2026/11/04/paraguay039s-central-bank-chief-resigns-at-president039s-request-as-digital-lender-crisis-deepens"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Actualités France",
+    "titre": "Grève du 5 novembre : entre 575 000 et 1,6 million de manifestants selon l'Intérieur et la CGT, 448 interpellations",
+    "url": "https://www.europe1.fr/societe/en-direct-greve-du-5-novembre-pres-de-600000-manifestants-en-france-selon-le-ministere-de-linterieur-16-million-selon-la-cgt-1209923"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Actualités France",
+    "titre": "Lecornu réunira une conférence sociale avec syndicats et patronat le 9 novembre après la grève du 5 novembre",
+    "url": "https://www.tahiti-infos.com/%E2%80%8BLecornu-reunira-lundi-a-Matignon-une-conference-sociale-avec-les-syndicats-et-le-patronat_a239967.html"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "République de Guinée",
+    "titre": "Recrutement des préfets et gouverneurs : plus de 700 candidatures en phase d'évaluation, résultats attendus le 6 novembre",
+    "url": "https://guineenews.org/2026/11/05/guinee-le-recrutement-des-prefets-et-gouverneurs-entre-dans-sa-phase-devaluation/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya instaure une liste nationale de 92 maladies professionnelles reconnues et indemnisables",
+    "url": "https://guineenews.org/2026/11/05/maladies-professionnelles-le-president-mamadi-doumbouya-instaure-un-nouveau-cadre-dindemnisation-en-guinee/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "République de Guinée",
+    "titre": "Disparition de trois tonnes d'or à la BCRG : Karamo Kaba et Yéro Baldé convoqués par la CRIEF, audience renvoyée au 23 novembre",
+    "url": "https://guineelive.com/2026/11/05/disparition-de-trois-tonnes-dor-a-la-bcrg-karamo-kaba-et-yero-balde-appeles-a-comparaitre-a-la-crief/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "République de Guinée",
+    "titre": "Pêche illégale : le CNSP intercepte deux navires chinois dans la ZEE guinéenne",
+    "url": "https://www.guinee7.com/2026/11/05/peche-illegale-le-cnsp-met-la-main-sur-deux-navires-chinois-et-menace-les-contrevenants/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "République de Guinée",
+    "titre": "Une vague de chaleur va toucher toute la Guinée du 4 au 18 novembre, risques sanitaires et énergétiques",
+    "url": "https://www.guinee7.com/2026/11/05/meteo-une-vague-de-chaleur-va-frapper-toute-la-guinee-pendant-quinze-jours/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Vigilance orange pluie-inondation dans le Gard, l'Hérault et en Corse le 5 novembre, risque surveillé sur le réseau électrique",
+    "url": "https://lenergeek.com/2026/11/05/inondations-vigilance-orange-risque-coupure-electricite-5-novembre-2026/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Le contrat de gaz PEG décembre 2026 recule à 86,66 €/MWh le 4 novembre (-3,8%), après la hausse du prix repère CRE",
+    "url": "https://selectra.info/energie/actualites/prix-gaz/2026-11-05"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Meta (Dina Powell McCormick) avertit que le recul électoral démocrate pourrait compliquer l'expansion des data centers IA",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Meta lance Muse Voice, permettant aux utilisateurs américains de dialoguer en visio avec l'avatar IA Muse",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Meta rachète la start-up de codage par IA Conductor, dont le service cloud fermera le 20 novembre",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Apple aurait réduit les plafonds de dépenses quotidiens alloués à l'IA interne pour ses équipes d'ingénierie",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
   }
 ]
