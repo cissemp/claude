@@ -1022,5 +1022,37 @@
     "date_envoi": "2026-11-05",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.michaelpage.fr/job-detail/directeur-des-syst%C3%A8mes-dinformation-hf/ref/jn-102026-7119994",
+    "titre": "Directeur des Systèmes d'Information (H/F)",
+    "entreprise": "Client confidentiel (secteur construction) — recrutement par Michael Page",
+    "date_envoi": "2026-11-07",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/MEF_2026-33322/",
+    "titre": "Directeur(trice) Technique / CDO (DSI) H/F",
+    "entreprise": "DGAFP - Direction générale de l'administration et de la fonction publique",
+    "date_envoi": "2026-11-07",
+    "candidature_preparee": true,
+    "contact_email": "emilie.roman@finances.gouv.fr"
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/sous-directeur-ou-sous-directrice-du-numerique-de-l-administration-centrale-reference-2026-2340923/",
+    "titre": "Sous-directeur ou sous-directrice du numérique de l'administration centrale",
+    "entreprise": "Secrétariat Général des Ministères Économiques et Financiers",
+    "date_envoi": "2026-11-07",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-systemes-d-information-dsi--fh-reference-2026-2398853/",
+    "titre": "Directeur des Systèmes d'Information (DSI) – F/H",
+    "entreprise": "Université Sorbonne Paris Nord",
+    "date_envoi": "2026-11-07",
+    "candidature_preparee": true,
+    "contact_email": "job-ref-lfysrydglw@emploi.beetween.com"
   }
 ]
