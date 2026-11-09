@@ -1086,5 +1086,37 @@
     "date_envoi": "2026-11-08",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://lesjeudis.com/en/jobs/project-management-jobs/184729",
+    "titre": "Director of Technology",
+    "entreprise": "Groupe international d'assurance (confidentiel) - recrutement par Orbis",
+    "date_envoi": "2026-11-09",
+    "candidature_preparee": true,
+    "contact_email": "info@weareorbis.com"
+  },
+  {
+    "url": "https://lesjeudis.com/jobs/data-or-big-data-jobs/205893",
+    "titre": "Director of Data Analytics",
+    "entreprise": "Corsearch",
+    "date_envoi": "2026-11-09",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.wizbii.com/company/collective-work/job/directeur-de-projets-data-ia-h-f-cdi",
+    "titre": "Directeur de Projets Data & IA (H/F)",
+    "entreprise": "Collective.work",
+    "date_envoi": "2026-11-09",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://jobs.lever.co/theodo/3d3aa57b-8cdc-4cc1-b9e5-8ae479849e75",
+    "titre": "Directeur de projets Data IA",
+    "entreprise": "Theodo",
+    "date_envoi": "2026-11-09",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
