@@ -1,41 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "theme": "Actualités Internationales",
-    "titre": "Frappe israélienne sur l'université islamique de Gaza : trois morts, huit blessés",
-    "url": "https://www.france24.com/en/live-news/20261025-strike-on-gaza-university-kills-three-staff-hospital"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "Actualités Internationales",
-    "titre": "Serbie : Vučić reconnaît sa défaite aux législatives face à la liste citoyenne du mouvement étudiant",
-    "url": "https://legrandcontinent.eu/fr/2026/10/25/legislatives-serbes-vucic-nous-avons-perdu-les-elections/"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "Actualités Internationales",
-    "titre": "Bulgarie : Iotova en tête du premier tour de la présidentielle, second tour face à Gyurov",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/la-presidentielle-en-bulgarie-revele-les-divisions-sur-la-guerre-en-ukraine-4e72c35f3bd28817021033df989e9291"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "Actualités France",
-    "titre": "Jordan Bardella réélu président du RN avec 98,98% des voix au congrès d'Orléans",
-    "url": "https://www.france24.com/fr/france/20261024-jordan-bardella-r%C3%A9%C3%A9lu-pr%C3%A9sident-du-rn-avec-98-98-des-voix"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya crée un nouveau Service national d'appui à la garde communale (SNAGC)",
-    "url": "https://www.guinee7.com/2026/10/24/guinee-mamadi-doumbouya-cree-un-nouveau-service-pour-renforcer-la-securite-dans-les-communes/"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "République de Guinée",
-    "titre": "Résultats définitifs du concours de recrutement des 6 000 enseignants dévoilés",
-    "url": "https://www.guinee7.com/2026/10/24/guinee-les-resultats-definitifs-du-concours-des-6-000-enseignants-enfin-devoiles/"
-  },
-  {
     "date": "2026-10-27",
     "theme": "Actualités Internationales",
     "titre": "La Russie se dit disposée à des cessez-le-feu localisés en Ukraine mais ne ralentit pas son offensive",
@@ -844,5 +808,53 @@
     "theme": "Énergie & ENEDIS",
     "titre": "Selectra prévoit un prix du gaz chauffage en hausse de 64% pour l'hiver 2026-2027, qui dépasserait le Tarif Bleu électrique en décembre",
     "url": "https://selectra.info/energie/actualites/marche/officiel-prix-gaz-novembre-2026-kwh-electricite"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Actualités Internationales",
+    "titre": "Gaza : inondations meurtrières à Deir al-Balah, Trump presse Netanyahu sur le plan de paix",
+    "url": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Actualités Internationales",
+    "titre": "Ukraine : la Russie frappe à nouveau le réseau électrique, l'UE active un mécanisme d'urgence énergétique",
+    "url": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Actualités France",
+    "titre": "Conférence sociale à Matignon : Lecornu réunit syndicats et patronat sur le pouvoir d'achat et le Smic",
+    "url": "https://www.info.gouv.fr/communique/conference-sociale"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya fixe les dates des campagnes électorales pour les régionales et les sénatoriales",
+    "url": "https://www.guinee7.com/2026/11/09/guinee-mamadi-doumbouya-fixe-les-dates-des-campagnes-electorales-pour-les-regionales-et-les-senatoriales/"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "République de Guinée",
+    "titre": "1er Simandou Mining Summit : Doumbouya appelle les investisseurs internationaux",
+    "url": "https://guineenews.org/2026/11/08/simandou-mining-summit-la-guinee-terre-dopportunites-et-dattractivite/"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : le prix spot moyen atteint un nouveau sommet mensuel à 334 €/MWh le 9 novembre",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-11-09"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Thinking Machines Lab proche de boucler un tour de table de 5 Md$ à 40 Md$ de valorisation",
+    "url": "https://jawlah.co/en/67847"
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "geniosAI sort de la discrétion avec 19,1 M$ pour une IA financière traçable",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/geniosai-raises-19-1-million-to-bring-traceable-ai-analysis-to-financial-institutions/"
   }
 ]
