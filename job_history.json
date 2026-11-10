@@ -1118,5 +1118,45 @@
     "date_envoi": "2026-11-09",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/adjoint-au-chef-du-departement-intelligence-artificielle-dnas-l-etat-responsable-du-pole-produits-i-hf-reference-2026-2354784/",
+    "titre": "Adjoint au chef du département Intelligence artificielle dans l'État, responsable du pôle Produits I H/F",
+    "entreprise": "DINUM (Direction interministérielle du numérique)",
+    "date_envoi": "2026-11-10",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://jobs.makesense.org/fr/jobs/orientation-durable-directeurrice-des-systemes-dinformation-dsi-certif-pro-3hKOp4wrS6ucxGR59sDY",
+    "titre": "Directeur.rice des Systèmes d'Information (DSI) - Certif Pro",
+    "entreprise": "Certif Pro (recrutement par Orientation Durable)",
+    "date_envoi": "2026-11-10",
+    "candidature_preparee": true,
+    "contact_email": "info@orientationdurable.com"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/jus-mundi/jobs/head-od_paris",
+    "titre": "Head of Data",
+    "entreprise": "Jus Mundi",
+    "date_envoi": "2026-11-10",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.qair.energy/news/emplois/digital-transformation-lead-data-ai-paris-m-f",
+    "titre": "Digital Transformation Lead – Data & AI",
+    "entreprise": "Qair",
+    "date_envoi": "2026-11-10",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://spiko.teamtailor.com/jobs/8212340-head-of-engineering",
+    "titre": "Head of Engineering",
+    "entreprise": "Spiko",
+    "date_envoi": "2026-11-10",
+    "candidature_preparee": true,
+    "contact_email": "contact@spiko.io"
   }
 ]
