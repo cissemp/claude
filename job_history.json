@@ -1158,5 +1158,45 @@
     "date_envoi": "2026-11-10",
     "candidature_preparee": true,
     "contact_email": "contact@spiko.io"
+  },
+  {
+    "url": "https://espace-emploi.agefiph.fr/candidat/offres/offre-d-emploi-directeur-de-projet-data-et-intelligence-artificielle-h-f-paris-ile-de-france-banque-finance-assurances-cdi-21592173",
+    "titre": "Directeur de Projets IA & Cloud (H/F)",
+    "entreprise": "AG2R La Mondiale",
+    "date_envoi": "2026-11-11",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.the-intelligence-academy.com/job-board/offre/senior-managing-consultant-directeur-en-transformation-digitale-produit-et-ia-pa-3594",
+    "titre": "Senior / Managing Consultant - Directeur en Transformation Digitale, Produit et IA",
+    "entreprise": "Capgemini Invent",
+    "date_envoi": "2026-11-11",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.wearedevelopers.com/jobs/ext/7091071/director-data-ai-team",
+    "titre": "Director, Data & AI Team",
+    "entreprise": "Alvarez & Marsal",
+    "date_envoi": "2026-11-11",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://lesjeudis.com/jobs/project-management-jobs/202837",
+    "titre": "Director of Technology (Enterprise Architecture)",
+    "entreprise": "Nagarro",
+    "date_envoi": "2026-11-11",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/82086291.html",
+    "titre": "Directeur de Business Unit Data & IA Paris (H/F)",
+    "entreprise": "Skaelia",
+    "date_envoi": "2026-11-11",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
