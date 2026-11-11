@@ -1,107 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "theme": "Actualités Internationales",
-    "titre": "Frappe israélienne sur l'université islamique de Gaza : trois morts, huit blessés",
-    "url": "https://www.france24.com/en/live-news/20261025-strike-on-gaza-university-kills-three-staff-hospital"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "Actualités Internationales",
-    "titre": "Serbie : Vučić reconnaît sa défaite aux législatives face à la liste citoyenne du mouvement étudiant",
-    "url": "https://legrandcontinent.eu/fr/2026/10/25/legislatives-serbes-vucic-nous-avons-perdu-les-elections/"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "Actualités Internationales",
-    "titre": "Bulgarie : Iotova en tête du premier tour de la présidentielle, second tour face à Gyurov",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/la-presidentielle-en-bulgarie-revele-les-divisions-sur-la-guerre-en-ukraine-4e72c35f3bd28817021033df989e9291"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "Actualités France",
-    "titre": "Jordan Bardella réélu président du RN avec 98,98% des voix au congrès d'Orléans",
-    "url": "https://www.france24.com/fr/france/20261024-jordan-bardella-r%C3%A9%C3%A9lu-pr%C3%A9sident-du-rn-avec-98-98-des-voix"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "République de Guinée",
-    "titre": "Doumbouya crée un nouveau Service national d'appui à la garde communale (SNAGC)",
-    "url": "https://www.guinee7.com/2026/10/24/guinee-mamadi-doumbouya-cree-un-nouveau-service-pour-renforcer-la-securite-dans-les-communes/"
-  },
-  {
-    "date": "2026-10-26",
-    "theme": "République de Guinée",
-    "titre": "Résultats définitifs du concours de recrutement des 6 000 enseignants dévoilés",
-    "url": "https://www.guinee7.com/2026/10/24/guinee-les-resultats-definitifs-du-concours-des-6-000-enseignants-enfin-devoiles/"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Actualités Internationales",
-    "titre": "La Russie se dit disposée à des cessez-le-feu localisés en Ukraine mais ne ralentit pas son offensive",
-    "url": "https://www.france24.com/en/live-news/20261026-russia-says-open-to-mini-ukraine-ceasefires-but-no-let-up-in-war"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Actualités Internationales",
-    "titre": "Moyen-Orient : les États-Unis renforcent leur alerte sécuritaire et réduisent le personnel de leurs ambassades, redoutant des plans d'attaque iraniens",
-    "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Actualités Internationales",
-    "titre": "Brésil : Lula remporte un quatrième mandat à la présidence du pays",
-    "url": "https://www.democracynow.org/2026/10/26/headlines"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Actualités Internationales",
-    "titre": "Israël : l'avenir politique de Benjamin Netanyahu domine la campagne électorale",
-    "url": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-evening"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Actualités Internationales",
-    "titre": "Israël : des tensions internes émergent autour d'un plan de frappe contre l'Iran porté par le Premier ministre",
-    "url": "https://timesofisrael.com/liveblog-october-26-2026"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Actualités France",
-    "titre": "Budget 2027 : le vote sur le volet recettes du PLF reporté au 3 novembre, le PLFSS toujours en examen",
-    "url": "https://www.franceinfo.fr/economie/budget/ou-en-sont-les-debats-sur-le-plf-et-le-plfss-2027-suivez-les-etapes-de-l-examen-du-budget-a-l-assemblee-et-au-senat_8254234.html"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Actualités France",
-    "titre": "Marine Le Pen lance officiellement sa campagne pour la présidentielle de 2027",
-    "url": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-evening"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "République de Guinée",
-    "titre": "L'Assemblée nationale adopte le volet recettes de la loi de finances rectificative 2026, 913 milliards GNF pour stabiliser les prix du carburant",
-    "url": "https://guineelive.com/2026/10/25/guinee-la-loi-de-finances-rectificative-2026-adoptee-913-milliards-gnf-pour-stabiliser-les-prix-du-carburant/"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "République de Guinée",
-    "titre": "Une croissance de 8,6% est attendue pour 2026, Simandou 2040 au cœur des investissements",
-    "url": "https://guineelive.com/2026/10/26/guinee-une-croissance-de-86-attendue-en-2026-simandou-2040-au-coeur-des-investissements/"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "Énergie & ENEDIS",
-    "titre": "Tempêtes Austen et Boelo : des foyers restent privés d'électricité en Seine-Maritime et dans l'Eure",
-    "url": "https://france3-regions.franceinfo.fr/normandie/eure/tempetes-austen-et-boelo-des-foyers-toujours-prives-d-electricite-en-seine-maritime-et-dans-l-eure-3439317.html"
-  },
-  {
-    "date": "2026-10-27",
-    "theme": "IT & Intelligence Artificielle",
-    "titre": "Anthropic dépose publiquement son S-1 auprès de la SEC pour une IPO qui pourrait battre des records, visant le Nasdaq sous le symbole ANT",
-    "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records"
-  },
-  {
     "date": "2026-10-28",
     "theme": "Actualités Internationales",
     "titre": "Israël: élections législatives du 27 octobre, ni le bloc de Netanyahou ni celui d'Eisenkot n'obtiendrait de majorité selon les sondages sortie des urnes",
@@ -844,5 +742,89 @@
     "theme": "Énergie & ENEDIS",
     "titre": "Selectra prévoit un prix du gaz chauffage en hausse de 64% pour l'hiver 2026-2027, qui dépasserait le Tarif Bleu électrique en décembre",
     "url": "https://selectra.info/energie/actualites/marche/officiel-prix-gaz-novembre-2026-kwh-electricite"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Actualités Internationales",
+    "titre": "Trump affirme que les États-Unis ont « gagné » la guerre contre l'Iran",
+    "url": "https://fr.euronews.com/2026/11/09/donald-trump-affirme-que-les-etats-unis-ont-gagne-la-guerre-contre-liran"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Actualités Internationales",
+    "titre": "La COP31 s'ouvre à Antalya, en Turquie, sous fortes tensions géopolitiques et financières",
+    "url": "https://www.ewn.co.za/2026/11/09/cop31-opens-as-climate-and-geopolitical-pressures-mount"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Actualités France",
+    "titre": "Conférence sociale du 9 novembre : le gouvernement annonce une hausse anticipée du Smic de 1,6% au 1er décembre",
+    "url": "https://www.juristique.org/actualite/smic-1502-nets-decembre-2026"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Actualités France",
+    "titre": "Le judoka Teddy Riner annonce sa candidature à la présidentielle de 2027",
+    "url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Actualités France",
+    "titre": "Emmanuel et Brigitte Macron déposent une nouvelle plainte contre Candace Owens dans le Tennessee",
+    "url": "https://www.wsmv.com/2026/11/09/french-president-sues-podcaster-candace-owens-nashville-heres-what-know/"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "République de Guinée",
+    "titre": "Doumbouya dévoile le calendrier des campagnes électorales (régionales le 29 novembre, sénatoriales le 20 décembre)",
+    "url": "https://guineematin.com/2026/11/09/elections-regionales-mamadi-doumbouya-devoile-le-calendrier-de-la-campagne/"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "République de Guinée",
+    "titre": "Lutte contre l'orpaillage clandestin à Siguiri : près de 1500 personnes présentées à la justice",
+    "url": "https://guineenews.org/2026/11/09/lutte-contre-lorpaillage-clandestin-en-guinee-pres-de-1500-personnes-attendues-a-la-barre-ce-mardi-officiel/"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Énergie & ENEDIS",
+    "titre": "EDF confirme la stabilité des tarifs réglementés de l'électricité jusqu'au 1er février 2027",
+    "url": "https://lenergeek.com/2026/11/10/edf-production-stabilite-electricite/"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Nucléaire : la production d'EDF recule de 9,2% en octobre mais reste stable sur dix mois",
+    "url": "https://lenergeek.com/2026/11/10/edf-nucleaire-production-octobre-2026-recul-92-pour-cent-10-novembre/"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Chooz 2 reconnecté au réseau après quatre mois d'arrêt lié à la Meuse",
+    "url": "https://lenergeek.com/2026/11/10/chooz-reacteur-2-reconnecte-meuse-novembre-2026"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Énergie & ENEDIS",
+    "titre": "Électricité : le prix spot moyen atteint un nouveau sommet de novembre à 334 €/MWh le 9 novembre",
+    "url": "https://selectra.info/energie/actualites/prix-electricite/2026-11-09"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "Énergie & ENEDIS",
+    "titre": "L'Italie approuve un plafonnement du prix du gaz pour réduire les prix de l'électricité pendant 18 mois",
+    "url": "https://lenergeek.com/2026/11/10/italie-electricite-plafonnement-gaz-589-euros-decret-bollette-novembre-2026"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "Nvidia ouvre une enquête indépendante sur son PDG Jensen Huang après des soupçons d'espionnage chinois",
+    "url": "https://fr.euronews.com/2026/11/09/nvidia-ouvre-une-enquete-sur-son-patron-apres-des-soupcons-despionnage-chinois"
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "IT & Intelligence Artificielle",
+    "titre": "OpenAI lance Control Room, un dispositif de sécurité capable de stopper une charge de calcul en 35 secondes",
+    "url": "https://openai.com/index/control-room/"
   }
 ]
