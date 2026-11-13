@@ -1206,5 +1206,29 @@
     "date_envoi": "2026-11-12",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-delegue-data---ia-hf---communaute-d-agglomeration-paris-saclay-reference-O091260715000906/",
+    "titre": "Directeur délégué DATA - IA H/F",
+    "entreprise": "Communauté d'agglomération Paris-Saclay",
+    "date_envoi": "2026-11-13",
+    "candidature_preparee": true,
+    "contact_email": "recrutement@paris-saclay.com"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/ankorstore/jobs/head-of-data_paris",
+    "titre": "Head of Data",
+    "entreprise": "Ankorstore",
+    "date_envoi": "2026-11-13",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/cafeyn/jobs/director-of-customer-data-data-science_paris",
+    "titre": "Director of Customer Data & Data Science",
+    "entreprise": "Cafeyn",
+    "date_envoi": "2026-11-13",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
