@@ -1230,5 +1230,29 @@
     "date_envoi": "2026-11-13",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/directeur-trice-strategie-transformation-digitale",
+    "titre": "Directeur(trice) Stratégie & Transformation Digitale",
+    "entreprise": "Kéa & Partners",
+    "date_envoi": "2026-11-14",
+    "candidature_preparee": true,
+    "contact_email": "info@kea-partners.com"
+  },
+  {
+    "url": "https://www.welcometothejungle.com/en/companies/arianee/jobs/head-of-data_paris",
+    "titre": "Head of Data",
+    "entreprise": "Arianee",
+    "date_envoi": "2026-11-14",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/vusiongroup/jobs/head-of-data-platform_paris",
+    "titre": "Head of Data Platform",
+    "entreprise": "VusionGroup",
+    "date_envoi": "2026-11-14",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
