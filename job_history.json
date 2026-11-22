@@ -1390,5 +1390,37 @@
     "date_envoi": "2026-11-21",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://candidat.francetravail.fr/offres/recherche/detail/5700991",
+    "titre": "Chief Data Officer F/H (CDI) - Responsable Data & IA",
+    "entreprise": "Client confidentiel (secteur sante) - recrutement via France Travail",
+    "date_envoi": "2026-11-22",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://jobs.makesense.org/fr/jobs/omeva-directrice-directeur-des-systemes-dinformation-65dXnGwK9LbmV56ysq61",
+    "titre": "Directrice / Directeur des Systemes d'Information",
+    "entreprise": "Adie (Association pour le droit a l'initiative economique) - recrutement par OMEVA",
+    "date_envoi": "2026-11-22",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.welcometothejungle.com/fr/companies/artefact/jobs/data-consulting-director_paris",
+    "titre": "Data Consulting Director",
+    "entreprise": "Artefact",
+    "date_envoi": "2026-11-22",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://welcometothejungle.com/fr/companies/jus-mundi/jobs/head-of-data-ai-llm-nlp_paris",
+    "titre": "Head of Data & AI | LLM - NLP",
+    "entreprise": "Jus Mundi",
+    "date_envoi": "2026-11-22",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
