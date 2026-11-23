@@ -1422,5 +1422,29 @@
     "date_envoi": "2026-11-22",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/84962773.html",
+    "titre": "Chief Data & AI Officer",
+    "entreprise": "Thales (AMS - Airspace Mobility Solutions)",
+    "date_envoi": "2026-11-23",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/MEF_2026-33322/",
+    "titre": "Directeur(trice) Technique / CDO (DSI)",
+    "entreprise": "DGAFP - Ministeres economiques et financiers",
+    "date_envoi": "2026-11-23",
+    "candidature_preparee": true,
+    "contact_email": "emilie.roman@finances.gouv.fr"
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/O093260617000376/",
+    "titre": "Directeur(trice) adjoint(e) Data et IA",
+    "entreprise": "Conseil regional (collectivite territoriale)",
+    "date_envoi": "2026-11-23",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
