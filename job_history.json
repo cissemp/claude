@@ -1446,5 +1446,21 @@
     "date_envoi": "2026-11-23",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.randstad.com/jobs/directeur-des-systemes-dinformation-du-numerique-fh_malakoff_46427403",
+    "titre": "Directeur des Systemes d'Information et du Numerique (DSIN) H/F",
+    "entreprise": "Etablissement public (confidentiel) - recrutement par Randstad",
+    "date_envoi": "2026-11-24",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/dirnov--responsable-du-departement-systemes-d-information-en-sante-hf-reference-ARSIF_2026-2394/",
+    "titre": "DIRNOV - Responsable du departement Systemes d'Information en Sante H/F",
+    "entreprise": "ARS Ile-de-France",
+    "date_envoi": "2026-11-24",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
