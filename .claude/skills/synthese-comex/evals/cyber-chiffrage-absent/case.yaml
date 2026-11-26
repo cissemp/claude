@@ -1,6 +1,0 @@
-schema_version: "1.1"
-name: cyber-chiffrage-absent
-expected_outcome: |
-  Une diapositive qui présente le risque cyber et le plan proposé sans inventer de coût (le document indique que le chiffrage est en cours), et qui signale ce manque à l'utilisateur.
-context:
-  scaffold_script: place-files.sh

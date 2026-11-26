@@ -1,6 +1,0 @@
-schema_version: "1.1"
-name: revue-t3-information
-expected_outcome: |
-  Une diapositive d'information (pas de décision d'investissement inventée) : CA 63,4 M€ sous objectif, marge en baisse, churn en hausse, avec une décision attendue du type prendre acte / valider le plan d'action T4.
-context:
-  scaffold_script: place-files.sh
