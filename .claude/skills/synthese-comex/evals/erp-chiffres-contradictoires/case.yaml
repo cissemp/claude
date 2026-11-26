@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: erp-chiffres-contradictoires
+expected_outcome: |
+  Une seule diapositive .pptx de synthèse, centrée sur la demande de valider le scénario greenfield, qui retient l'enveloppe actualisée de 4,8 M€ et signale l'écart avec 4,2 M€.
+context:
+  scaffold_script: place-files.sh
