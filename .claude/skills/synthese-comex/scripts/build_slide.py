@@ -40,7 +40,7 @@ def rgb(hexstr):
 def est_height(paragraphs, width_in, pt, bullet=True, spacing_pt=4):
     """Estimation prudente de la hauteur (en pouces) d'un bloc de texte."""
     usable = width_in - (0.25 if bullet else 0.0) - 0.1
-    cpl = max(8, usable * 72 / (pt * 0.50))  # ~0.5 em par caractère en Calibri
+    cpl = max(8, usable * 72 / (pt * 0.47))  # ~0.47 em par caractère en Calibri, avec marge
     lines = sum(max(1, math.ceil(len(p) / cpl)) for p in paragraphs)
     return lines * pt * 1.2 / 72 + len(paragraphs) * spacing_pt / 72
 
@@ -109,25 +109,151 @@ def section_header(slide, x, y, w, label, color):
     ln.line.width = Pt(1)
 
 
-def bullets_block(slide, x, y, w, h, items, label, color_head, sizes=(13, 12, 11, 10.5, 10)):
-    section_header(slide, x, y, w, label, color_head)
-    body_h = h - 0.38
-    paras = [i if isinstance(i, str) else i["texte"] for i in items]
-    pt = pick_size(paras, w, body_h, sizes, label)
-    add_text(slide, x, y + 0.38, w, body_h, paras, pt, bullet=True, name=f"Corps {label}")
+HEAD_H = 0.38      # hauteur d'un en-tête de section (libellé + filet)
+BLOCK_GAP = 0.12   # espace minimal entre deux blocs de la colonne gauche
+BODY_SIZES = (14, 13, 12, 11, 10.5, 10)
+RECO_MARK = "★ recommandé"
 
 
-def options_block(slide, x, y, w, h, options, color_head, recommended_idx):
-    section_header(slide, x, y, w, "Options étudiées", color_head)
-    body_h = h - 0.38
+def option_columns(options):
+    """Colonnes chiffrées communes à toutes les options (champ `valeurs`), sinon None."""
+    if len(options) < 2 or not all(isinstance(o.get("valeurs"), dict) and o["valeurs"] for o in options):
+        return None
+    keys = list(options[0]["valeurs"].keys())
+    if any(list(o["valeurs"].keys()) != keys for o in options):
+        WARNINGS.append("AVERTISSEMENT : les options n'ont pas toutes les mêmes clés dans `valeurs` — affichées en liste.")
+        return None
+    return keys
+
+
+def option_paragraphs(options, rec):
     paras, flat = [], []
     for i, o in enumerate(options):
-        nom = o["nom"] + ("  (recommandée)" if i == recommended_idx else "")
+        nom = o["nom"]
         detail = o.get("detail", "")
-        paras.append([(nom + (" — " if detail else ""), True), (detail, False)])
-        flat.append(nom + " — " + detail)
-    pt = pick_size(flat, w, body_h, (13, 12, 11, 10.5, 10), "Options étudiées")
-    add_text(slide, x, y + 0.38, w, body_h, paras, pt, bullet=True, name="Corps Options")
+        runs = [(nom, True)]
+        if i == rec:
+            runs.append(("  " + RECO_MARK, True))
+        if detail:
+            runs.append((" — " + detail, False))
+        paras.append(runs)
+        flat.append("".join(t for t, _ in runs))
+    return paras, flat
+
+
+def table_height(options, keys, w, pt):
+    has_detail = any(o.get("detail") for o in options)
+    name_w = w * (0.30 if has_detail else 0.40)
+    detail_w = w * 0.34 if has_detail else 0
+    line = pt * 1.2 / 72
+    total = line + 0.08  # en-tête
+    for o in options:
+        n = max(est_height([o["nom"] + "  ★"], name_w, pt, bullet=False, spacing_pt=0),
+                est_height([o.get("detail", "")], detail_w, pt, bullet=False, spacing_pt=0) if has_detail else 0)
+        total += max(n, line) + 0.08
+    return total
+
+
+def options_table(slide, x, y, w, options, keys, rec, pt, primary, accent):
+    has_detail = any(o.get("detail") for o in options)
+    headers = ["Option"] + keys + (["Commentaire"] if has_detail else [])
+    name_w = w * (0.30 if has_detail else 0.40)
+    detail_w = w * 0.34 if has_detail else 0
+    val_w = (w - name_w - detail_w) / len(keys)
+    widths = [name_w] + [val_w] * len(keys) + ([detail_w] if has_detail else [])
+    h = table_height(options, keys, w, pt)
+    gf = slide.shapes.add_table(len(options) + 1, len(headers), Inches(x), Inches(y), Inches(w), Inches(h))
+    gf.name = "Tableau options"
+    tbl = gf.table
+    tbl.first_row = True
+    row_h = Inches(pt * 1.2 / 72 + 0.08)
+    for r in tbl.rows:
+        r.height = row_h
+    for c, cw in enumerate(widths):
+        tbl.columns[c].width = Inches(cw)
+
+    def fill(cell, text, bold, color, bg, align=PP_ALIGN.LEFT):
+        cell.fill.solid()
+        cell.fill.fore_color.rgb = rgb(bg)
+        cell.margin_left = cell.margin_right = Inches(0.06)
+        cell.margin_top = cell.margin_bottom = Inches(0.03)
+        cell.vertical_anchor = MSO_ANCHOR.MIDDLE
+        tf = cell.text_frame
+        tf.word_wrap = True
+        p = tf.paragraphs[0]
+        p.alignment = align
+        runs = [(text, bold)] if isinstance(text, str) else text
+        for t, b in runs:
+            rr = p.add_run()
+            rr.text = t
+            rr.font.name = FONT
+            rr.font.size = Pt(pt)
+            rr.font.bold = b
+            rr.font.color.rgb = rgb(color if not (len(runs) > 1 and t.strip().startswith("★")) else accent)
+
+    for c, hd in enumerate(headers):
+        fill(tbl.cell(0, c), hd, True, "FFFFFF", primary, PP_ALIGN.LEFT if c == 0 else PP_ALIGN.CENTER)
+    for r, o in enumerate(options, 1):
+        is_rec = (r - 1) == rec
+        bg = "FCEBDD" if is_rec else ("FFFFFF" if r % 2 else "F2F4F8")
+        name = [(o["nom"], True)] + ([("  ★", True)] if is_rec else [])
+        fill(tbl.cell(r, 0), name, True, "222222", bg)
+        for c, k in enumerate(keys, 1):
+            fill(tbl.cell(r, c), str(o["valeurs"].get(k, "")), is_rec, "222222", bg, PP_ALIGN.CENTER)
+        if has_detail:
+            fill(tbl.cell(r, len(headers) - 1), o.get("detail", ""), False, "444444", bg)
+    return h
+
+
+def left_column(slide, x, y, w, avail, spec, primary, accent):
+    """Place Contexte / Enjeux / Options avec UNE taille de police commune,
+    et répartit l'espace restant entre les blocs (pas de trou en bas)."""
+    blocks = []
+    for label, key in (("Contexte", "contexte"), ("Enjeux & risques", "enjeux_risques")):
+        items = [i if isinstance(i, str) else i["texte"] for i in spec.get(key, [])]
+        if items:
+            blocks.append({"label": label, "kind": "bullets", "paras": items, "flat": items})
+    options = spec.get("options", [])
+    rec = spec.get("option_recommandee")
+    if options:
+        keys = option_columns(options)
+        if keys:
+            blocks.append({"label": "Options étudiées", "kind": "table", "options": options, "keys": keys})
+        else:
+            paras, flat = option_paragraphs(options, rec)
+            blocks.append({"label": "Options étudiées", "kind": "bullets", "paras": paras, "flat": flat})
+    if not blocks:
+        return
+
+    def need(b, pt):
+        if b["kind"] == "table":
+            return HEAD_H + table_height(b["options"], b["keys"], w, pt) + 0.05
+        return HEAD_H + est_height(b["flat"], w, pt)
+
+    gaps = BLOCK_GAP * (len(blocks) - 1)
+    pt = None
+    for cand in BODY_SIZES:
+        if sum(need(b, cand) for b in blocks) + gaps <= avail:
+            pt = cand
+            break
+    if pt is None:
+        pt = BODY_SIZES[-1]
+        WARNINGS.append("AVERTISSEMENT : Contexte + Enjeux + Options ne tiennent pas ensemble même en "
+                        f"{pt} pt — raccourcissez les puces les plus longues ou retirez-en une.")
+    needs = [need(b, pt) for b in blocks]
+    # l'espace libre va entre les blocs, pas en bas : la colonne reste remplie et aérée
+    spare = max(0.0, avail - sum(needs) - gaps)
+    extra_gap = spare / len(blocks) if len(blocks) > 1 else 0
+    cy = y
+    for b, n in zip(blocks, needs):
+        section_header(slide, x, cy, w, b["label"], primary)
+        body_h = n - HEAD_H
+        if b["kind"] == "table":
+            options_table(slide, x, cy + HEAD_H, w, b["options"], b["keys"], rec, pt, primary, accent)
+        else:
+            add_text(slide, x, cy + HEAD_H, w, body_h + extra_gap, b["paras"], pt, bullet=True,
+                     name=f"Corps {b['label']}")
+        cy += n + BLOCK_GAP + extra_gap
 
 
 def kpi_tiles(slide, x, y, w, h, kpis, primary, accent):
@@ -143,6 +269,14 @@ def kpi_tiles(slide, x, y, w, h, kpis, primary, accent):
     tw = (w - gap * (cols - 1)) / cols
     th = (h - 0.45 - gap * (rows - 1)) / rows
     arrows = {"hausse": "▲", "baisse": "▼", "neutre": "►"}
+    # une seule taille pour tous les libellés, calée sur le plus long
+    lib_pt = 11
+    for cand in (11, 10, 9):
+        lib_pt = cand
+        if all(est_height([k["libelle"]], tw - 0.2, cand, bullet=False) <= th * 0.5 - 0.1 for k in kpis):
+            break
+    else:
+        WARNINGS.append("AVERTISSEMENT : un libellé de chiffre clé est trop long — raccourcissez-le (≤ 50 caractères).")
     for i, k in enumerate(kpis):
         r, c = divmod(i, cols)
         # une seule tuile sur la dernière ligne : elle prend toute la largeur
@@ -155,11 +289,12 @@ def kpi_tiles(slide, x, y, w, h, kpis, primary, accent):
         tend = k.get("tendance")
         val_pt = 26 if len(val) <= 7 else 22 if len(val) <= 10 else 18
         sign = arrows.get(tend, "")
-        sign_color = {"hausse": "2E7D32", "baisse": "C62828"}.get(tend, "666666")
-        if k.get("tendance_favorable") is False and tend in ("hausse", "baisse"):
-            sign_color = "C62828"
-        elif k.get("tendance_favorable") is True and tend in ("hausse", "baisse"):
-            sign_color = "2E7D32"
+        # La couleur dit si c'est une bonne nouvelle, la flèche dit le sens :
+        # une baisse de coûts est verte, une hausse du churn est rouge.
+        fav = k.get("tendance_favorable")
+        if tend in ("hausse", "baisse") and fav is None:
+            WARNINGS.append(f"AVERTISSEMENT : KPI « {val} » sans `tendance_favorable` — flèche affichée en gris.")
+        sign_color = {True: "2E7D32", False: "C62828"}.get(fav, "666666")
         runs = [(val, True)]
         tb = add_text(slide, tx + 0.15, ty + 0.08, this_w - 0.2, th * 0.5, [runs], val_pt,
                       color=primary, anchor=MSO_ANCHOR.MIDDLE, name=f"Valeur KPI {i+1}")
@@ -170,7 +305,6 @@ def kpi_tiles(slide, x, y, w, h, kpis, primary, accent):
             r2.font.name = FONT
             r2.font.color.rgb = rgb(sign_color)
         lib_h = th * 0.5 - 0.1
-        lib_pt = pick_size([k["libelle"]], this_w - 0.2, lib_h, (11, 10, 9), f"libellé KPI {val}", bullet=False)
         add_text(slide, tx + 0.15, ty + th * 0.5, this_w - 0.2, lib_h, [k["libelle"]], lib_pt,
                  color="444444", name=f"Libellé KPI {i+1}")
 
@@ -179,6 +313,7 @@ def build(spec, out_path):
     theme = spec.get("theme", {})
     primary = theme.get("primaire", "1F3864")
     accent = theme.get("accent", "C55A11")
+    instance = spec.get("instance", "COMEX").strip() or "COMEX"
 
     prs = Presentation()
     prs.slide_width, prs.slide_height = Inches(W), Inches(H)
@@ -201,12 +336,7 @@ def build(spec, out_path):
     right_w = W - MARGIN - right_x
     decision_y = 5.72
 
-    bullets_block(slide, MARGIN, top, left_w, 1.28, spec.get("contexte", []), "Contexte", primary)
-    bullets_block(slide, MARGIN, top + 1.36, left_w, 1.42, spec.get("enjeux_risques", []), "Enjeux & risques", primary)
-    options = spec.get("options", [])
-    if options:
-        options_block(slide, MARGIN, top + 2.86, left_w, decision_y - (top + 2.86) - 0.08, options, primary,
-                      spec.get("option_recommandee"))
+    left_column(slide, MARGIN, top, left_w, decision_y - top - 0.1, spec, primary, accent)
     kpi_tiles(slide, right_x, top, right_w, decision_y - top - 0.12, spec.get("chiffres_cles", []), primary, accent)
 
     # Bande décision
@@ -223,7 +353,7 @@ def build(spec, out_path):
     add_box(slide, right_x, decision_y, right_w, bh, fill=accent, name="Fond décision")
     dec = spec["decision_attendue"]
     dpt = pick_size([dec], right_w - 0.3, bh - 0.4, (14, 13, 12, 11), "décision attendue", bullet=False)
-    add_text(slide, right_x + 0.15, decision_y + 0.08, right_w - 0.3, 0.3, ["DÉCISION ATTENDUE DU COMEX"], 11,
+    add_text(slide, right_x + 0.15, decision_y + 0.08, right_w - 0.3, 0.3, [f"DÉCISION ATTENDUE DU {instance.upper()}"], 11,
              color="FFFFFF", bold=True, name="Titre décision")
     add_text(slide, right_x + 0.15, decision_y + 0.36, right_w - 0.3, bh - 0.42, [dec], dpt, color="FFFFFF",
              bold=True, name="Corps décision")
@@ -231,7 +361,7 @@ def build(spec, out_path):
     # Pied de page
     foot_y = H - 0.45
     add_text(slide, MARGIN, foot_y, 8.5, 0.3, [spec.get("source", "")], 9, color="888888", name="Source")
-    add_text(slide, W - MARGIN - 4, foot_y, 4, 0.3, [spec.get("confidentialite", "Confidentiel — COMEX")], 9,
+    add_text(slide, W - MARGIN - 4, foot_y, 4, 0.3, [spec.get("confidentialite", f"Confidentiel — {instance}")], 9,
              color="888888", align=PP_ALIGN.RIGHT, name="Confidentialité")
 
     if spec.get("notes"):

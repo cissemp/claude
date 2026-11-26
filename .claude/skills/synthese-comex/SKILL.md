@@ -45,6 +45,9 @@ Style attendu, parce que la place est comptée et que le lecteur survole :
 - Une idée par puce. Pas de jargon interne non expliqué, pas d'acronymes du projet.
 - Le titre porte la conclusion ; les blocs la justifient. Un lecteur qui ne lit que le titre et la décision attendue doit avoir compris l'essentiel.
 - Rédigez dans la langue du document source, sauf demande contraire.
+- Renseignez `instance` avec le nom de l'instance que l'utilisateur emploie (COMEX, CODIR, Board…) : il apparaît dans l'en-tête de la décision et le pied de page.
+- Pour chaque chiffre clé avec une tendance, dites si elle est favorable (`tendance_favorable`) : une baisse de coûts est une bonne nouvelle et doit apparaître en vert.
+- Si le document compare des options sur des critères chiffrés communs, donnez-leur des `valeurs` : elles s'afficheront en tableau, beaucoup plus lisible pour arbitrer qu'une liste.
 - Mettez dans `notes` ce qui est utile à l'oral mais n'a pas sa place sur la diapo : renvois aux diapos sources, hypothèses, réserves, écarts relevés.
 
 ### 4. Générer la diapositive
@@ -55,7 +58,9 @@ python <chemin-du-skill>/scripts/build_slide.py contenu.json synthese_comex.pptx
 
 Le script produit une diapositive 16:9 au format fixe et, avec `--png`, un aperçu image. Nommez la sortie d'après le document (ex. `Synthese_COMEX_<nom-du-document>.pptx`) et enregistrez-la là où l'utilisateur la retrouvera (le répertoire de travail ou celui qu'il a indiqué).
 
-Si le script affiche un **AVERTISSEMENT**, un bloc est trop long : raccourcissez le texte dans le JSON et relancez. Ne laissez pas une zone en petite police, c'est le premier signe d'une synthèse qui n'a pas fait ses choix.
+Le script place Contexte, Enjeux et Options avec une taille de police commune et répartit l'espace disponible : s'il n'y a pas d'options, les autres blocs prennent la place. S'il affiche un **AVERTISSEMENT**, traitez-le : un texte trop long se raccourcit dans le JSON (ne laissez pas une zone en petite police, c'est le premier signe d'une synthèse qui n'a pas fait ses choix), une flèche grise signale un `tendance_favorable` manquant. Relancez jusqu'à ne plus avoir d'avertissement.
+
+Après génération, ne retouchez pas la diapositive à la main : si quelque chose ne va pas, corrigez le JSON et relancez, pour que le fichier reste reproductible.
 
 Ouvrez ensuite le PNG et vérifiez : aucun texte coupé ou qui chevauche, titre lisible, chiffres bien en évidence. Corrigez et relancez si besoin.
 
