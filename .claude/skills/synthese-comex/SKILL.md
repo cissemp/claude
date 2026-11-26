@@ -1,6 +1,6 @@
 ---
 name: synthese-comex
-description: Lit un document (surtout une présentation PowerPoint .pptx, mais aussi PDF, Word ou texte collé) et en tire une diapositive PowerPoint unique de résumé exécutif pour le COMEX ou un comité de direction : message clé, contexte, chiffres clés, enjeux et risques, options, recommandation et décision attendue. Utilise ce skill dès que l'utilisateur veut résumer, synthétiser, condenser ou « faire une one-page / un executive summary / une slide de synthèse » d'un deck ou d'un rapport pour un COMEX, CODIR, comité exécutif, board, direction générale ou des dirigeants, même s'il ne dit pas « COMEX » ni « PowerPoint » explicitement (par ex. « fais-moi la slide pour le comité de lundi à partir de ce deck »).
+description: "Lit un document (surtout une présentation PowerPoint .pptx, mais aussi PDF, Word ou texte collé) et en tire une diapositive PowerPoint unique de résumé exécutif pour le COMEX ou un comité de direction : message clé, contexte, chiffres clés, enjeux et risques, options, recommandation et décision attendue. Utilise ce skill dès que l'utilisateur veut résumer, synthétiser, condenser ou « faire une one-page / un executive summary / une slide de synthèse » d'un deck ou d'un rapport pour un COMEX, CODIR, comité exécutif, board, direction générale ou des dirigeants, même s'il ne dit pas « COMEX » ni « PowerPoint » explicitement (par ex. « fais-moi la slide pour le comité de lundi à partir de ce deck »)."
 ---
 
 # Synthèse COMEX en une diapositive
