@@ -40,7 +40,7 @@ def rgb(hexstr):
 def est_height(paragraphs, width_in, pt, bullet=True, spacing_pt=4):
     """Estimation prudente de la hauteur (en pouces) d'un bloc de texte."""
     usable = width_in - (0.25 if bullet else 0.0) - 0.1
-    cpl = max(8, usable * 72 / (pt * 0.47))  # ~0.47 em par caractère en Calibri, avec marge
+    cpl = max(8, usable * 72 / (pt * 0.45))  # ~0.45 em par caractère en Calibri, avec marge
     lines = sum(max(1, math.ceil(len(p) / cpl)) for p in paragraphs)
     return lines * pt * 1.2 / 72 + len(paragraphs) * spacing_pt / 72
 

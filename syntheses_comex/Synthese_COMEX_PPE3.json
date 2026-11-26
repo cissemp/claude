@@ -1,0 +1,44 @@
+{
+  "instance": "COMEX",
+  "titre": "PPE3 2026-2035 : la part des fossiles doit passer de 60 % à 40 % dès 2030, tirée par l'électrification et le nucléaire",
+  "sous_titre": "Synthèse de « Programmation pluriannuelle de l'énergie (2026-2035) — Stratégie française pour l'énergie et le climat » (État, 232 p.)",
+  "contexte": [
+    "Feuille de route énergétique de l'État pour 2026-2035, volet énergie de la stratégie climat (avec SNBC et PNACC).",
+    "Cap : réduire la consommation d'énergie de 1 510 TWh (2023) à 1 243 TWh en 2030, puis ~1 100 TWh en 2035.",
+    "Nucléaire relancé : 6 EPR2 (Penly, Gravelines, Bugey), décision d'EDF au plus tard en 2026 ; 8 de plus à l'étude."
+  ],
+  "enjeux_risques": [
+    "Les mesures modélisées mènent à 1 440 TWh en 2030, loin des 1 243 visés : mesures complémentaires encore à définir.",
+    "Prix de l'électricité : coût de production stable vers 75 €/MWh (RTE), mais prix de marché encore lié au gaz.",
+    "Soutien aux renouvelables : 28 à 53 Md€ de charges publiques 2025-2060 (prix médians), jusqu'à 117 Md€ si prix bas.",
+    "EPR2 : 51,7 Md€ (estimation 2021) en cours de réévaluation ; premier réacteur attendu vers 2038."
+  ],
+  "chiffres_cles": [
+    {
+      "valeur": "40 %",
+      "libelle": "Part des fossiles dans l'énergie finale en 2030 (~60 % en 2023)",
+      "tendance": "baisse",
+      "tendance_favorable": true
+    },
+    {
+      "valeur": "1 243 TWh",
+      "libelle": "Consommation finale visée en 2030 (1 510 TWh en 2023)",
+      "tendance": "baisse",
+      "tendance_favorable": true
+    },
+    {
+      "valeur": "48 GW",
+      "libelle": "Solaire installé visé en 2030 (19,3 GW en 2023)",
+      "tendance": "hausse",
+      "tendance_favorable": true
+    },
+    {
+      "valeur": "+82 Md€",
+      "libelle": "Investissements climat par an en 2030 vs 2024, dont 40 Md€ par les entreprises"
+    }
+  ],
+  "recommandation": "Évaluer l'impact de la PPE3 sur nos coûts et investissements : électrification des usages, contrats long terme d'énergie bas-carbone, aides mobilisables (Fonds Chaleur, France 2030).",
+  "decision_attendue": "Prendre acte des objectifs de la PPE3 et mandater une analyse d'impact chiffrée pour un prochain COMEX.",
+  "source": "Source : Programmation pluriannuelle de l'énergie 2026-2035, Gouvernement (couverture datée 2025)",
+  "notes": "Renvois au document source (pagination du PDF) : synthèse stratégique et tableaux d'objectifs p. 8-10 ; trajectoire modélisée (1 440 TWh en 2030) p. 16 et mention « mesures supplémentaires » p. 33 ; bilan de la PPE2 p. 26-32 ; actions nucléaires NUC.3 et NUC.4 (section 3.4.3) ; besoins d'investissement +82 Md€/an (section 6.1.2, source SPAFTE) ; coûts de soutien aux renouvelables et principes du soutien EPR2 (section 6.6.2-6.6.3, p. 191-193).\n\nCADRAGE DU RÉDACTEUR : la PPE3 est un document de politique publique, sans demande adressée à l'entreprise. La recommandation et la décision attendue sont formulées par le rédacteur de la synthèse, pas par le document.\n\nCHIFFRES À BIEN LIRE :\n- 1 243 TWh est l'objectif retenu (directive européenne efficacité énergétique) ; la modélisation des mesures actuelles donne 1 440 TWh en 2030 (périmètre DEE), d'où le besoin de mesures complémentaires reconnu par le document.\n- Nucléaire : 380 TWh en 2030 dans le scénario central, cible haute 420 TWh fixée à EDF ; 57 réacteurs en service.\n- Charges de soutien EnR de la PPE3 2025-2060 (Md€2024) : 80,3 à 117,3 (prix bas), 28,4 à 52,5 (prix médian), -34,7 à -26,5 (prix haut, l'État encaisse). S'y ajoutent les engagements antérieurs (59,5 à 113,7).\n- EPR2 : 51,7 Md€2020 évalués en 2021, chiffrage en cours de mise à jour par EDF ; soutien public par prêt bonifié couvrant au moins la moitié des coûts et contrat pour différence à 100 €2024/MWh maximum.\n- +82 Md€/an : investissements bruts supplémentaires en 2030 par rapport à 2024 (13 public, 40 entreprises, 29 ménages), périmètre restreint.\n\nPRIX DE L'ÉLECTRICITÉ (section 6.4, p. 165-166) : selon RTE, le coût de production se stabilise autour de 75 €/MWh entre 2025 et 2035 (cadre macroéconomique favorable), mais le prix de marché pourrait rester fortement corrélé au gaz, d'où les mécanismes post-ARENH (section 6.4.3). Aucune projection du prix payé par les entreprises n'est donnée ; RTE et la CRE doivent actualiser les coûts (action COÛT.1).\n\nRETIRÉ DE LA DIAPO FAUTE DE PLACE : retards de la PPE2 en 2023 (éolien terrestre 21,9 GW pour 24,1 visés, solaire 19,3 GW pour 20,6, éolien en mer 2,4 GW non atteint), p. 28-29."
+}
