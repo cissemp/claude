@@ -1478,5 +1478,21 @@
     "date_envoi": "2026-11-25",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4907743101",
+    "titre": "Technical Director - BU CTO",
+    "entreprise": "Valtech",
+    "date_envoi": "2026-11-26",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/MINT_BS075ACA-114410/",
+    "titre": "DTNUM 75 - Directeur(trice) de projet - Directeur des systemes d'information et infrastructure IA (SIC)",
+    "entreprise": "Ministere de l'Interieur (Direction de la Transformation Numerique)",
+    "date_envoi": "2026-11-26",
+    "candidature_preparee": true,
+    "contact_email": "dtnum-recrutement@interieur.gouv.fr"
   }
 ]
