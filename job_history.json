@@ -1494,5 +1494,29 @@
     "date_envoi": "2026-11-26",
     "candidature_preparee": true,
     "contact_email": "dtnum-recrutement@interieur.gouv.fr"
+  },
+  {
+    "url": "https://group.bnpparibas/emploi-carriere/offre-emploi/head-of-gdo-ai-office-h-f",
+    "titre": "Head of GDO AI Office H/F",
+    "entreprise": "BNP Paribas (Group Data Office)",
+    "date_envoi": "2026-11-27",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://www.jobijoba.com/fr/annonce/54/4198fc935dc254beb81899d74c8b5310",
+    "titre": "Chief Data Officer - Responsable Donnees d'Entreprise F/H",
+    "entreprise": "MNT - Mutuelle Nationale Territoriale (Groupe VYV)",
+    "date_envoi": "2026-11-27",
+    "candidature_preparee": true,
+    "contact_email": "candidatures.spontanees@mnt.fr"
+  },
+  {
+    "url": "https://jobs.ohbibi.com/jobs/6222872-head-of-data",
+    "titre": "Head of Data",
+    "entreprise": "Oh BiBi",
+    "date_envoi": "2026-11-27",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
