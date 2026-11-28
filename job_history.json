@@ -1518,5 +1518,45 @@
     "date_envoi": "2026-11-27",
     "candidature_preparee": true,
     "contact_email": null
+  },
+  {
+    "url": "https://www.the-intelligence-academy.com/job-board/offre/directeur-intelligence-artificielle-energie-transformation-digitale-yele-consult-27153",
+    "titre": "Directeur Intelligence Artificielle – Énergie & Transformation Digitale (H/F)",
+    "entreprise": "Yélé Consulting",
+    "date_envoi": "2026-11-28",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-des-systemes-d-information-dsi--fh-reference-2026-2398853/",
+    "titre": "Directeur des Systèmes d'Information (DSI) – F/H",
+    "entreprise": "Université Sorbonne Paris Nord",
+    "date_envoi": "2026-11-28",
+    "candidature_preparee": true,
+    "contact_email": "job-ref-lfysrydglw@emploi.beetween.com"
+  },
+  {
+    "url": "https://www.meteojob.com/jobs/55950251",
+    "titre": "Chief Data Officer & IA (H/F) - Secteur BTP",
+    "entreprise": "Acteur institutionnel BTP (confidentiel, via Externatic)",
+    "date_envoi": "2026-11-28",
+    "candidature_preparee": true,
+    "contact_email": null
+  },
+  {
+    "url": "https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-adjointe-des-systemes-d-information---cdi-reference-2026-2286920/",
+    "titre": "Directeur / Directrice adjoint(e) des Systèmes d'Information",
+    "entreprise": "Télécom Paris",
+    "date_envoi": "2026-11-28",
+    "candidature_preparee": true,
+    "contact_email": "recrutement@telecom-paris.fr"
+  },
+  {
+    "url": "https://www.hellowork.com/fr-fr/emplois/84404346.html",
+    "titre": "Chief Data Officer (H/F)",
+    "entreprise": "Sparteo",
+    "date_envoi": "2026-11-28",
+    "candidature_preparee": true,
+    "contact_email": null
   }
 ]
